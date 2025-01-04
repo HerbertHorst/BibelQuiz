@@ -869,6 +869,818 @@
       "answer": 1
     }
   ],
+  "2. Mose": [
+	{
+		"question": "Seht das Volk der Israeliten wird uns zu zahlreich und zu stark. Wohlan, wir wollen klug gegen sie zu Werke gehen, damit ihrer nicht noch mehr werden; sonst könnte es geschehen, dass, wenn ein Krieg ausbräche, sie sich auch noch zu unsern Feinden schlügen und gegen uns kämpften und aus dem Lande wegzögen.",
+		"biblePassageTipp": "2.Mose 1,9-10",
+		"choice1": "ägyptischer König",
+		"choice2": "babylonischer König",
+		"choice3": "midianitischer König",
+		"choice4": "edomitischer König",
+		"answer": 1
+	},
+	{
+		"question": "Wenn ihr den Hebräerinnen bei der Geburt Hilfe leistet, so gebt bei der Entbindung wohl acht: wenn das Kind ein Knabe ist, so tötet ihn! Ist es aber ein Mädchen, so mag es am Leben bleiben!",
+		"biblePassageTipp": "2.Mose 1,16",
+		"choice1": "ägyptischer König",
+		"choice2": "babylonischer König",
+		"choice3": "midianitischer König",
+		"choice4": "edomitischer König",
+		"answer": 1
+	},
+	{
+		"question": "Ja, die hebräischen Frauen sind nicht so (schwächlich) wie die ägyptischen, sondern haben eine kräftige Natur; ehe noch die Hebamme zu ihnen kommt, haben sie schon geboren.",
+		"biblePassageTipp": "2.Mose 1,19",
+		"choice1": "Hebammen",
+		"choice2": "Ägyptische Frau",
+		"choice3": "Aufseher",
+		"choice4": "Hebräische Frau",
+		"answer": 1
+	},
+	{
+		"question": "Das ist eins von den Kindern der Hebräer.",
+		"biblePassageTipp": "2.Mose 2,6",
+		"choice1": "Tochter des Pharao",
+		"choice2": "Tochter des Amram",
+		"choice3": "Dienerin",
+		"choice4": "Leibmagd",
+		"answer": 1
+	},
+	{
+		"question": "Soll ich hingehen und dir eine Amme von den Hebräerinnen holen, damit sie dir den Knaben nährt?",
+		"biblePassageTipp": "2.Mose 2,7",
+		"choice1": "Miriam",
+		"choice2": "Jochebed",
+		"choice3": "Dienerin",
+		"choice4": "Leibmagd",
+		"answer": 1
+	},
+	{
+		"question": "Nimm dieses Knäblein mit und nähre es mir! Ich will dir den Lohn dafür geben.",
+		"biblePassageTipp": "2.Mose 2,9",
+		"choice1": "Tochter des Pharao",
+		"choice2": "Miriam",
+		"choice3": "Jochebed",
+		"choice4": "Leibmagd",
+		"answer": 1
+	},
+	{
+		"question": "Warum schlägst du deinen Volksgenossen?",
+		"biblePassageTipp": "2.Mose 2,13",
+		"choice1": "Mose",
+		"choice2": "Aaron",
+		"choice3": "Aufseher",
+		"choice4": "Soldat",
+		"answer": 1
+	},
+	{
+		"question": "Wer hat dich zum Obermann und Richter über uns bestellt? Willst du mich etwa auch totschlagen, wie du den Ägypter totgeschlagen hast?",
+		"biblePassageTipp": "2.Mose 2,14",
+		"choice1": "unrechter Hebräer",
+		"choice2": "unrechter Midianiter",
+		"choice3": "unrechter Ägypter",
+		"choice4": "unrechter Edomiter",
+		"answer": 1
+	},
+	{
+		"question": "Ein äyptischer Mann hat uns gegen die Hirten in Schutz genommen, ja, er hat sogar das Schöpfen für uns besorgt und die Herde getränkt.",
+		"biblePassageTipp": "2.Mose 2,19",
+		"choice1": "Reguels Töchter",
+		"choice2": "Elimelechs Schwiegertöchter",
+		"choice3": "Mordechais Nichte",
+		"choice4": "Jakobs Cousine",
+		"answer": 1
+	},
+	{
+		"question": "Und wo ist er? Warum habt ihr denn den Mann dort draußen gelassen? Ladet ihn doch zum Essen ein!",
+		"biblePassageTipp": "2.Mose 2,20",
+		"choice1": "Reguel",
+		"choice2": "Elimelech",
+		"choice3": "Mordechai",
+		"choice4": "Jakob",
+		"answer": 1
+	},
+	{
+		"question": "Ich will doch hingehen und mir diese wunderbare Erscheinung ansehen, warum der Dornbusch nicht verbrennt.",
+		"biblePassageTipp": "2.Mose 3,3",
+		"choice1": "Mose",
+		"choice2": "Aaron",
+		"choice3": "Jona",
+		"choice4": "Elia",
+		"answer": 1
+	},
+	{
+		"question": "Tritt nicht näher heran! Ziehe dir die Schuhe aus von den Füßen; denn die Stätte, auf der du stehst, ist heiliger Boden.",
+		"biblePassageTipp": "2.Mose 3,5",
+		"choice1": "Gott",
+		"choice2": "Engel",
+		"choice3": "Elia",
+		"choice4": "Jeremia",
+		"answer": 1
+	},
+	{
+		"question": "Ich habe das Elend meines Volkes in Ägypten angesehen und habe ihr Geschrei gehört über die, welche sie treiben; ja ich kenne ihre Schmerzen",
+		"biblePassageTipp": "2.Mose 3,7",
+		"choice1": "Gott",
+		"choice2": "Mose",
+		"choice3": "Engel",
+		"choice4": "Aaron",
+		"answer": 1
+	},
+	{
+		"question": "Wer bin ich, dass ich zum Pharao gehen und die Israeliten aus Ägypten hinausführen sollte?",
+		"biblePassageTipp": "2.Mose 3,11",
+		"choice1": "Mose",
+		"choice2": "Aaron",
+		"choice3": "Miriam",
+		"choice4": "Josua",
+		"answer": 1
+	},
+	{
+		"question": "Ich bin, der ich bin.",
+		"biblePassageTipp": "2.Mose 3,14",
+		"choice1": "Gott",
+		"choice2": "Engel",
+		"choice3": "Mose",
+		"choice4": "Aaron",
+		"answer": 1
+	},
+	{
+		"question": "Wenn ich nun aber zu den Israeliten komme und ihnen sage: 'Der Gott eurer Väter hat mich zu euch gesandt', und wenn sie mich dann fragen; 'Wie heißt er denn?', was soll ich ihnen dann antworten?",
+		"biblePassageTipp": "2.Mose 3,13",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "David",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Ach, sie werden mir nicht glauben und auf meine Aussagen nicht hören, sondern behaupten: 'Der HERR ist dir nicht erschienen!",
+		"biblePassageTipp": "2.Mose 4,1",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "David",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Bitte, HERR! Ich bin kein Mann, der zu reden versteht; ich bin es früher nicht gewesen und bin es auch jetzt nicht, seitdem du zu deinem Knecht redest, sondern ich bin mit Mund und Zunge unbeholfen.",
+		"biblePassageTipp": "2.Mose 4,10",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "David",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Bittte, HERR! Sende lieber einen andern, wen du willst!",
+		"biblePassageTipp": "2.Mose 4,13",
+		"choice1": "Mose",
+		"choice2": "Jesaja",
+		"choice3": "David",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Ich möchte doch einmal zu meinen Angehörigen nach Ägypten zurückkehren, um zu sehen, ob sie noch am Leben sind.",
+		"biblePassageTipp": "2.Mose 4,18",
+		"choice1": "Mose",
+		"choice2": "Daniel",
+		"choice3": "David",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Ich aber werde sein Herz verhärten, dass er das Volk nicht ziehen lässt.",
+		"biblePassageTipp": "2.Mose 4,21",
+		"choice1": "Gott",
+		"choice2": "Engel",
+		"choice3": "Mose",
+		"choice4": "Josua",
+		"answer": 1
+	},
+	{
+		"question": "Ein Blutbräutigam bist du mir!",
+		"biblePassageTipp": "2.Mose 4,25",
+		"choice1": "Zippora",
+		"choice2": "Sara",
+		"choice3": "Rahel",
+		"choice4": "Rebekka",
+		"answer": 1
+	},
+	{
+		"question": "So hat der HERR, der Gott Israels, gesprochen: 'Lass mein Volk ziehen, damit sie mir ein Fest in der Wüste feiern!'",
+		"biblePassageTipp": "2.Mose 5,1",
+		"choice1": "Mose und Aaron",
+		"choice2": "Mose und Josua",
+		"choice3": "Miriam und Aaron",
+		"choice4": "Daniel und seine Freunde",
+		"answer": 1
+	},
+	{
+		"question": "Wer ist der HERR, dass ich seinen Befehlen gehorchen und Israel ziehen lassen müsste? Ich kenne (diesen) HERRN nicht und will auch Israel nicht ziehen lassen.",
+		"biblePassageTipp": "2.Mose 5,2",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Der Gott der Hebräer ist uns erschienen; wir möchten nun drei Tagereisen weit in die Wüste ziehen und dem HERRN, unserm Gott, dort Schlachtopfer darbringen, damit er uns nicht mit der Pest oder mit dem Schwert heimsucht!",
+		"biblePassageTipp": "2.Mose 5,3",
+		"choice1": "Mose und Aaron",
+		"choice2": "Esra",
+		"choice3": "Sacharja",
+		"choice4": "Haggai",
+		"answer": 1
+	},
+	{
+		"question": "Warum wollt ihr, Mose und Aaron, das Volk von seiner Arbeit abziehen? Geht an eure Frondienste!",
+		"biblePassageTipp": "2.Mose 5,4",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Es gibt schon genug Gesindel im Land; und da wollt ihr sie noch von ihren Frondiensten feiern lassen?",
+		"biblePassageTipp": "2.Mose 5,5",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Ihr sollt dem Volk nicht mehr wie bisher Stroh zur Anfertigung der Ziegel liefern! Sie sollen selbst hingehen und sich Stroh zusammensuchen! Dabei sollt ihr ihnen aber dieselbe Zahl von Ziegeln, die sie bisher gefertigt haben, auferlegen, ohne etwas davon zu erlassen!",
+		"biblePassageTipp": "2.Mose 5,6",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Ihr müsst Tag für Tag die volle Arbeit leisten wie früher, als es noch Stroh gab.",
+		"biblePassageTipp": "2.Mose 5,13",
+		"choice1": "Ägyptische Antreiber",
+		"choice2": "edomitische Antreiber",
+		"choice3": "babylonische Antreiber",
+		"choice4": "midianitische Antreiber",
+		"answer": 1
+	},
+	{
+		"question": "Warum habt ihr weder gestern noch heute euren bestimmten Satz Ziegel fertiggestellt wie früher?",
+		"biblePassageTipp": "2.Mose 5,14",
+		"choice1": "Ägyptische Antreiber",
+		"choice2": "edomitische Antreiber",
+		"choice3": "babylonische Antreiber",
+		"choice4": "midianitische Antreiber",
+		"answer": 1
+	},
+	{
+		"question": "Der HERR möge es euch gedenken und euch dafür richten, dass ihr uns beim Pharao und seinen Beamten ganz verhasst gemacht und ihnen das Schwert in die Hand gegeben habt, uns umzubringen!",
+		"biblePassageTipp": "2.Mose 5,21",
+		"choice1": "Israelische Aufseher",
+		"choice2": "Miriam",
+		"choice3": "Israelische Sklaven",
+		"choice4": "Aaron",
+		"answer": 1
+	},
+	{
+		"question": "Herr! Warum lässt du diesem Volk solches Unheil widerfahren? Warum hast du mich hergesandt? Denn seitdem ich zum Pharao gegangen bin, um in deinem Namen zu reden, hat er dies Volk erst recht misshandelt, und du hast zur Rettung deines Volkes nichts getan!",
+		"biblePassageTipp": "2.Mose 5,22-23",
+		"choice1": "Mose",
+		"choice2": "Joseph",
+		"choice3": "Daniel",
+		"choice4": "Esra",
+		"answer": 1
+	},
+	{
+		"question": "Nicht einmal die Israeliten haben auf mich gehört: wie sollte da der Pharao mich anhören, zumal da ich im Reden ungewandt bin!",
+		"biblePassageTipp": "2.Mose 6,12",
+		"choice1": "Mose",
+		"choice2": "Jeschua",
+		"choice3": "Haggai",
+		"choice4": "Sacharja",
+		"answer": 1
+	},
+	{
+		"question": "Wenn der Pharao euch auffordert, ein Wunder zu eurer Beglaubigung zu verrichten, so sollst du zu Aaron saagen: 'Nimm deinen Stab und wirf ihn vor den Pharrao hin!', dann wird er zu einer großen Schlange werden.",
+		"biblePassageTipp": "2.Mose 6,9",
+		"choice1": "Gott",
+		"choice2": "Mose",
+		"choice3": "Miriam",
+		"choice4": "Amram",
+		"answer": 1
+	},
+	{
+		"question": "Legt beim HERRN Fürbitte für mich ein, dass er die Frösche von mir und meinem Volk entferne! Dann will ich das Volk ziehen lassen, damit es dem HERRN opfert.",
+		"biblePassageTipp": "2.Mose 8,4",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Verfüge über mich! Auf wann soll ich für dich, für deine Diener und dein Volk die Vertilgung der Frösche erbitten, damit sie von dir und aus deinen Palästen verschwinden und nur noch im Nil verbleiben?",
+		"biblePassageTipp": "2.Mose 8,5",
+		"choice1": "Mose",
+		"choice2": "Daniel",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Wie du wünschest, so sei es! Du sollst erkennen, dass niemand dem HERRN, unserm Gott, gleich ist. Die Frösche sollen also von dir und aus deinen Palästen, von deinen Dienern und deinem Volk weichen; nur im Nil sollen sie verbleiben!",
+		"biblePassageTipp": "2.Mose 8,6-7",
+		"choice1": "Mose",
+		"choice2": "Daniel",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Geht hin und opfert eurem Gott hier im Lande!",
+		"biblePassageTipp": "2.Mose 8,21",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Es geht nicht an, dass wir das tun; denn wir bringen dem HERRN, unserm Gott, Opfer dar, die den Ägyptern ein Greuel sind.",
+		"biblePassageTipp": "2. Mose 8,22",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Nein, drei Tagereisen weit wollen wir in die Wüste ziehen und dem HERRN, unserm Gott, dort opfern, wie er uns geboten hat.",
+		"biblePassageTipp": "2.Mose 8,23",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Ich will euch ziehen lassen, damit ihr dem HERRN, eurem Gott, in der Wüste opfern könnt; nur entfernt euch nicht zu weit und legt Fürbitte für mich ein!",
+		"biblePassageTipp": "2.Mose 8,24",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Sobald ich dich jetzt verlassen habe, will ich beim HERRN Fürbitte einlegen, dass die Hundsfliegen morgen vom Pharao, von seinen Dienern und seinem Volk verschwinden; nur möge dann der Pharao uns nicht abermals täuschen, indem er das Volk doch nicht ziehen lässt, damit es dem HERRN opfern kann!",
+		"biblePassageTipp": "2.Mose 8,25",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Diesmal habe ich mich versündigt: der HERR ist im Recht, ich aber und mein Volk sind im Unrecht!",
+		"biblePassageTipp": "2.Mose 9,27",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Sobald ich zur Stadt hinausgehe, will ich meine Hände zum HERRN ausbreiten; dann werden die Donnerschläge aufhören, und kein Hagel wird mehr fallen, damit du erkennst, dass die Erde dem HERRN gehört. Aber ich weiß wohl: du und deine Diener, ihr fürchtet euch immer noch nicht vor Gott dem HERRN.",
+		"biblePassageTipp": "2.Mose 9,29-30",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "So hat der HERR, der Gott der Hebräer, gesprochen: 'Wie lange willst du dich noch sträuben, dich vor mir zu demütigen?'",
+		"biblePassageTipp": "2.Mose 10,3",
+		"choice1": "Mose und Aaron",
+		"choice2": "Mose und Josua",
+		"choice3": "Elia und Elisa",
+		"choice4": "Eli und Samuel",
+		"answer": 1
+	},
+	{
+		"question": "Wie lange soll dieser Mensch uns noch unglücklich machen? Lass doch die Leute ziehen, damit sie dem HERRN, ihrem Gott, dienen! Siehst du noch nicht ein, dass Ägypten zugrunde gerichtet wird?",
+		"biblePassageTipp": "2.Mose 10,7",
+		"choice1": "Diener des Pharao",
+		"choice2": "Frau des Pharao",
+		"choice3": "Tochter des Pharao",
+		"choice4": "Berater des Pharao",
+		"answer": 1
+	},
+	{
+		"question": "Mit jung und alt wollen wir hinausziehen, mit unsern Söhnen und unsern Töchtern, mit unserm Kleinvieh und unsern Rindern wollen wir hinausziehen; denn wir haben ein Fest des HERRN zu feiern.",
+		"biblePassageTipp": "2.Mose 10,9",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Möge der HERR ebenso mit euch sein, wie ich euch mit Weib und Kind ziehen lasse! Seht ihr wohl, dass ihr Böses im Sinn habt? Daraus wird nichts! Ihr Männer mögt hinziehen und dem HERRN dienen: das ist ja auch euer Begehr gewesen!",
+		"biblePassageTipp": "2.Mose 10,10-11",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Ich habe mich am HERRN, eurem Gott, und an euch versündigt! Und nun vergib mir meine Verfehlung nur noch dies eine Mal und betet zum HERRN, eurem Gott, dass er wenigstens dieses Verderben von mir abwende!",
+		"biblePassageTipp": "2.Mose 10,16-17",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Zieht hin, dient dem HERRN! Nur euer Kleinvieh und eure Rinder sollen hier zurückbleiben; auch eure Frauen und Kinder mögen mit euch gehen!",
+		"biblePassageTipp": "2.Mose 10,24",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Hinweg von mir! Hüte dich, mir nochmals vor die Augen zu treten! Denn sobald du dich wieder vor mir sehen lässt, bist du des Todes!",
+		"biblePassageTipp": "2.Mose 10,28",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Nicht nur musst du selbst uns Tiere zu Schlacht- und Brandopfern mitgeben, damit wir sie dem HERRN, unserm Gott, darbringen, sondern auch unser Vieh muss mit uns ziehen: keine Klaue darf zurückbleiben!",
+		"biblePassageTipp": "2.Mose 10,25-26",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Hierauf sollen sie etwas von dem Blut nehmen und es an die beiden Türpfosten und an die Oberschwelle an den Häusern streiche, in denen sie die Mahlzeit halten.",
+		"biblePassageTipp": "2.Mose 12,7",
+		"choice1": "Gott",
+		"choice2": "Engel",
+		"choice3": "Mose",
+		"choice4": "Josua",
+		"answer": 1
+	},
+	{
+		"question": "Geht hin und holt euch Kleinvieh, für jede Familie ein Stück, und schlachtet es als Passah!",
+		"biblePassageTipp": "2.Mose 12,21",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Salomo",
+		"choice4": "David",
+		"answer": 1
+	},
+	{
+		"question": "Macht euch auf, zieht aus meinem Volk hinweg, sowohl ihr als auch die Israeliten!",
+		"biblePassageTipp": "2.Mose 12,31",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Gedenkt des heutigen Tages, an dem ihr aus Ägypten weggezogen seid, aus dem Hause der Knechtschaft!",
+		"biblePassageTipp": "2.Mose 13,3",
+		"choice1": "Mose",
+		"choice2": "Esra",
+		"choice3": "Jeschua",
+		"choice4": "Haggai",
+		"answer": 1
+	},
+	{
+		"question": "Was haben wir da getan, dass wir die Israeliten aus unserm Dienst entlassen haben!",
+		"biblePassageTipp": "2.Mose 14,5",
+		"choice1": "Pharao + Diener",
+		"choice2": "Pharao + Frau",
+		"choice3": "Pharao + Tochter",
+		"choice4": "Pharao + Zauberer",
+		"answer": 1
+	},
+	{
+		"question": "Hast du uns etwa deshalb, weil es in Ägypten keine Gräber gab, mitgenommen, damit wir in der Wüste sterben? Was hast du uns da angetan, dass du uns aus Ägypten weggeführt hast!",
+		"biblePassageTipp": "2.Mose 14,11",
+		"choice1": "Israeliten",
+		"choice2": "Josephs Brüder",
+		"choice3": "Jakobs Frauen",
+		"choice4": "Amrams Kinder",
+		"answer": 1
+	},
+	{
+		"question": "Haben wir dir nicht schon in Ägypten aufs bestimmteste erklärt: 'Lass uns in Ruhe: wir wollen den Ägyptern dienen!'; denn besser wäre es für uns, den Ägyptern zu dienen, als hier in der Wüste zu sterben!",
+		"biblePassageTipp": "1.Mose 14,12",
+		"choice1": "Israeliten",
+		"choice2": "Josephs Brüder",
+		"choice3": "Jakobs Frauen",
+		"choice4": "Amrams Kinder",
+		"answer": 1
+	},
+	{
+		"question": "Fürchtet euch nicht! Haltet nur stand, so werdet ihr sehen, welche Rettung euch der HERR heute noch schaffen wird! Denn so, wie ihr die Ägypter heute seht, werdet ihr sie in alle Ewigkeit nicht wieder sehen. Der HERR wird für euch streiten, verhaltet ihr euch nur ruhig!",
+		"biblePassageTipp": "2.Mose 14,13-14",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Joseph",
+		"choice4": "Daniel",
+		"answer": 1
+	},
+	{
+		"question": "Lasst uns vor den Israeliten fliehen, denn der HERR streitet für sie gegen die Ägypter!",
+		"biblePassageTipp": "2.Mose 14,25",
+		"choice1": "Ägypter",
+		"choice2": "Kanaaniter",
+		"choice3": "Edomiter",
+		"choice4": "Midianiter",
+		"answer": 1
+	},
+	{
+		"question": "Wären wir doch durch die Hand des HERRN in Ägypten gestorben, als wir bei den Fleischtöpfen saßen und reichlich Brot zu essen hatten! Jetzt habt ihr uns in diese Wüste hinausgeführt, um diese ganze Volksgemeinde Hungers sterben zu lassen!",
+		"biblePassageTipp": "2.Mose 16,3",
+		"choice1": "Israeliten",
+		"choice2": "Josephs Brüder",
+		"choice3": "Jakobs Frauen",
+		"choice4": "Amrams Kinder",
+		"answer": 1
+	},
+	{
+		"question": "Heute Abend werdet ihr erkennen, dass der HERR es gewesen ist, der euch aus Ägypten weggeführt hat; und morgen früh, da werdet ihr die Herrlichkeit des HERRN zu sehen bekommen! Denn er hat gehört, wie ihr gegen ihn gemurrt habt; wir dagegen - was sind wir, dass ihr gegen uns murren könntet?",
+		"biblePassageTipp": "2.Mose 16,6-7",
+		"choice1": "Mose und Aaron",
+		"choice2": "Mose und Josua",
+		"choice3": "Elia und Elisa",
+		"choice4": "Eli und Samuel",
+		"answer": 1
+	},
+	{
+		"question": "Ja, daran werdet ihr (die Herrlichkeit des HERRN) erkennen, dass der HERR euch heute abend Fleisch zu essen gbt und morgen früh Brot zum Sattwerden, weil der HERR gehört hat, wie ihr gegen ihn laut gemurrt habt. Denn was sind wir? Euer Murren ist nicht gegen uns gerichtet, sondern gegen den HERRN.",
+		"biblePassageTipp": "2.Mose 16,8",
+		"choice1": "Mose",
+		"choice2": "Joseph",
+		"choice3": "Elisa",
+		"choice4": "Amos",
+		"answer": 1
+	},
+	{
+		"question": "Dies ist das Brot, das der HERR euch zum Essen gegeben hat.",
+		"biblePassageTipp": "2.Mose 16,15",
+		"choice1": "Mose",
+		"choice2": "Joseph",
+		"choice3": "Elisa",
+		"choice4": "Amos",
+		"answer": 1
+	},
+	{
+		"question": "Niemand hebe etwas davon bis zum anderen Morgen auf!",
+		"biblePassageTipp": "2.Mose 16,19",
+		"choice1": "Mose",
+		"choice2": "Joseph",
+		"choice3": "Elisa",
+		"choice4": "Amos",
+		"answer": 1
+	},
+	{
+		"question": "Warum hast du uns nur aus Ägypten hergeführt? Etwa um mich und meine Kinder und mein Vieh hier verdursten lassen?",
+		"biblePassageTipp": "2.Mose 17,3",
+		"choice1": "Israeliten",
+		"choice2": "Josephs Brüder",
+		"choice3": "Jakob",
+		"choice4": "Lea",
+		"answer": 1
+	},
+	{
+		"question": "Wähle uns Männer aus und ziehe zum Kampf mit den Amalekitern aus! Morgen will ich mich mit dem Gottesstabe in der Hand auf die Spitze des Hügels stellen.",
+		"biblePassageTipp": "2.Mose 17,9",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "David",
+		"choice4": "Salomo",
+		"answer": 1
+	},
+	{
+		"question": "Gepriesen sei der HERR, der euch aus der Gewalt der Ägypter und aus der Gewalt des Pharaos errettete und der das Volk aus der Gewaltherrschaft der Ägypter befreit hat! Nun erkenne ich, dass der HERR größer ist als alle Götter; er hat es bewiesen, als (jene) sich übermütig gegen sie benahmen.",
+		"biblePassageTipp": "2.Mose 18,10-11",
+		"choice1": "Jethro",
+		"choice2": "Aaron",
+		"choice3": "Zippora",
+		"choice4": "Miriam",
+		"answer": 1
+	},
+	{
+		"question": "Was machst du dir da mit dem Volk so viel zu schaffen? Warum sitzest du allein zu Gericht, während das ganze Volk vom Morgen bis zum Abend vor dir steht?",
+		"biblePassageTipp": "2.Mose 18,14",
+		"choice1": "Jethro",
+		"choice2": "Aaron",
+		"choice3": "Zippora",
+		"choice4": "Miriam",
+		"answer": 1
+	},
+	{
+		"question": "Ja, das Volk kommt zu mir, um Gott zu befragen; sooft sie einen Rechtshandel haben, kommen sie zu mir, damit ich Schiedsrichter zwischen den Parteien sei und ihnen Gottes Rechtssprüche und Entscheidungen kundtue.",
+		"biblePassageTipp": "2.Mose 18,15-16",
+		"choice1": "Mose",
+		"choice2": "Hiob",
+		"choice3": "Esra",
+		"choice4": "Jesaja",
+		"answer": 1
+	},
+	{
+		"question": "Nun höre mich an: ich will dir einen Rat geben, und Gott möge mit dir sein! Sei du der Vertreter des Volkes Gott gegenüber und bringe du ihre Anliegen vor Gott!",
+		"biblePassageTipp": "2.Mose 18,19",
+		"choice1": "Jethro",
+		"choice2": "Hiob",
+		"choice3": "Esra",
+		"choice4": "Jesaja",
+		"answer": 1
+	},
+	{
+		"question": "Zugleich sieh dich aber unter dem ganzen Volke nach tüchtigen, gottesfürchtigen und zuverlässigen Männern um, die keiner Bestechung zugänglich sind, und setze diese als Obermänner über sie, die einnen über tausend, andere über hundert, andere über fünfzig und andere über zehn, damit sie dem Volke jederzeit Recht sprechen, und zwar so, dass sie alle wichtigen Sachen vor dich bringen, alle geringfügigen Sachen aber selbst entscheiden!",
+		"biblePassageTipp": "2.Mose 18,21-22",
+		"choice1": "Jethro",
+		"choice2": "Hiob",
+		"choice3": "Esra",
+		"choice4": "Jesaja",
+		"answer": 1
+	},
+	{
+		"question": "Alles, was der HERR geboten hat, wollen wir tun!",
+		"biblePassageTipp": "2.Mose 19,8",
+		"choice1": "Israeliten",
+		"choice2": "Noomi und Rut",
+		"choice3": "Jakobs Frauen",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Das Volk kann ja nicht auf den Berg Sinai hinaufsteigen; denn du selbst hast uns gewarnt und mir geboten, eine Grenze um den Berg festzusetzen und ihn für unnahbar zu erklären.",
+		"biblePassageTipp": "2.Mose 19,23",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Aaron",
+		"choice4": "Miriam",
+		"answer": 1
+	},
+	{
+		"question": "Rede du mit uns, dann wollen wir zuhören; Gott aber möge nicht mit uns reden, sonst müssen wir sterben!",
+		"biblePassageTipp": "2.Mose 20,19",
+		"choice1": "Israeliten",
+		"choice2": "Pharao",
+		"choice3": "Nebukadnezar",
+		"choice4": "Hofni + Pinhas",
+		"answer": 1
+	},
+	{
+		"question": "Fürchtet euch nicht! Denn Gott ist nur deshalb gekommen, um euch auf die Probe zu stellen und damit die Furcht vor ihm euch gegenwärtig bleibt, auf dass ihr nicht sündigt.",
+		"biblePassageTipp": "2.Mose 20,20",
+		"choice1": "Mose",
+		"choice2": "Sacharja",
+		"choice3": "Jeremia",
+		"choice4": "Samuel",
+		"answer": 1
+	},
+	{
+		"question": "Auf! Mache uns einen Gott, der vor uns herziehen soll! Denn von diesem Mose, dem Mann, der uns aus dem Land Ägypten hierher geführt hat, wissen wir nicht, was aus ihm geworden ist.",
+		"biblePassageTipp": "2.Mose 32,1",
+		"choice1": "Israeliten",
+		"choice2": "Miriam",
+		"choice3": "Aaron",
+		"choice4": "Zippora",
+		"answer": 1
+	},
+	{
+		"question": "Reißt die goldenen Ringe ab, die eure Frauen und eure Söhne und Töchter in den Ohren tragen, und bringt sie mir her!",
+		"biblePassageTipp": "2.Mose 32,2",
+		"choice1": "Aaron",
+		"choice2": "Miriam",
+		"choice3": "Josua",
+		"choice4": "Zippora",
+		"answer": 1
+	},
+	{
+		"question": "Dies ist dein Gott, Israel, der dich aus dem Land Ägypten herausgeführt hat!",
+		"biblePassageTipp": "2.Mose 32,4",
+		"choice1": "Israeliten",
+		"choice2": "Mose",
+		"choice3": "Josua",
+		"choice4": "Aaron",
+		"answer": 1
+	},
+	{
+		"question": "Warum, o HERR, soll dein Zorn gegen dein Volk entbrennen, das du mit großer Kraft und starkem Arm aus dem Land Ägypten herausgeführt hast?",
+		"biblePassageTipp": "2.Mose 32, 11",
+		"choice1": "Mose",
+		"choice2": "Gideon",
+		"choice3": "Abimelech",
+		"choice4": "Juda",
+		"answer": 1
+	},
+	{
+		"question": "Das klingt nicht wie Geschrei von Siegern und auch nicht wie Geschrei von Besiegten: nein, lautes Singen höre ich!",
+		"biblePassageTipp": "2.Mose 32,18",
+		"choice1": "Mose",
+		"choice2": "David",
+		"choice3": "Salomo",
+		"choice4": "Saul",
+		"answer": 1
+	},
+	{
+		"question": "Was hat dir dieses Volk getan, dass du es zu einer so großen Sünde verführt hast?",
+		"biblePassageTipp": "2.Mose 32,21",
+		"choice1": "Mose",
+		"choice2": "Samuel",
+		"choice3": "Hiskia",
+		"choice4": "Hosea",
+		"answer": 1
+	},
+	{
+		"question": "Mein Herr möge nicht in Zorn geraten! Du weißt selbst, wie das Volk zum Bösen geneigt ist. Sie forderten mich auf: 'Mach uns einen Gott, der vor uns herziehen soll! Denn von diesem Mose, dem Mann, der uns aus dem Land Ägypten hergeführt hat, wissen wir nicht, was aus ihm geworden ist.'",
+		"biblePassageTipp": "2.Mose 32,22-23",
+		"choice1": "Aaron",
+		"choice2": "Bezalel",
+		"choice3": "Miriam",
+		"choice4": "Jethro",
+		"answer": 1
+	},
+	{
+		"question": "Ihr habt eine schwere Sünde begangen; darum will ich jetzt zum HERRN hinaufsteigen! Vielleicht kann ich euch Sühne für eure Sünde erwirken.",
+		"biblePassageTipp": "2.Mose 32,30",
+		"choice1": "Mose",
+		"choice2": "Elia",
+		"choice3": "Habakuk",
+		"choice4": "Samuel",
+		"answer": 1
+	},
+	{
+		"question": "Ach bitte! Dieses Volk hat eine schwere Sünde begangen: es hat sich einen Gott aus Gold angefertigt! Und nun - vergib ihnen doch ihre Sünde! Wo nicht, so streiche lieber mich aus deinem Buche aus, das du geschrieben hast!",
+		"biblePassageTipp": "2.Mose 32,31-32",
+		"choice1": "Mose",
+		"choice2": "Elia",
+		"choice3": "Habakuk",
+		"choice4": "Samuel",
+		"answer": 1
+	},
+	{
+		"question": "Siehe, du hast mir wohl geboten, dieses Volk hinaufzuführen, hast mich aber nicht wissen lassen, wen du mit mir senden willst; und doch hast du zu mir gesagt: 'Ich kenne dich mit Namen, und du hast auch Gnade bei mir gefunden!'",
+		"biblePassageTipp": "2.Mose 33,12",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Sacharja",
+		"choice4": "Haggai",
+		"answer": 1
+	},
+	{
+		"question": "Wenn du nicht in Person mitziehst, so lass uns lieber nicht von hier wegziehen! Woran soll man denn sonst erkennen, dass ich samt deinem Volk Gnade bei dir gefunden habe? Doch eben daran, dass du mit uns ziehst und dass wir, ich und dein Volk, dadurch vor allen Völkern auf dem Erdboden ausgezeichnet werden.",
+		"biblePassageTipp": "2.Mose 33,15-16",
+		"choice1": "Mose",
+		"choice2": "Abraham",
+		"choice3": "Jakob",
+		"choice4": "Haggai",
+		"answer": 1
+	},
+	{
+		"question": "Lass mich doch deine Herrlichkeit schauen!",
+		"biblePassageTipp": "2.Mose 33,18",
+		"choice1": "Mose",
+		"choice2": "Elia",
+		"choice3": "Henoch",
+		"choice4": "Johannes",
+		"answer": 1
+	},
+	{
+		"question": "Habe ich irgend Gnade bei dir, o Herr, gefunden, so wolle mein Herr doch in unserer Mitte einherziehen! Denn es ist ein halsstarriges Volk. Aber vergib uns unsere Schuld und Sünde und lass uns dein Eigentum sein!",
+		"biblePassageTipp": "2.Mose 34,9",
+		"choice1": "Mose",
+		"choice2": "Elia",
+		"choice3": "Habakuk",
+		"choice4": "Samuel",
+		"answer": 1
+	}
+],
  "Matthäus": [
     {
       "question": "\"Josef, Sohn Davids, trage keinerlei Bedenken, Maria, deine Verlobte, als Ehefrau zu dir zu nehmen.\"",

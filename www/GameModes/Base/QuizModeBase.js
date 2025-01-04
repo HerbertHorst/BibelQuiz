@@ -207,7 +207,13 @@ export class QuizModeBase {
     setNewRandomQuestion() {
         const questionIndex = Math.floor(Math.random() * this.availableQuestions.length);
         this.currentQuestion = this.availableQuestions[questionIndex];
-        this.questionText.innerHTML = this.currentQuestion.question;
+
+        //Check for "" and if not present add them for the UI text. 
+        if (!(this.currentQuestion.question.startsWith('"'))) {
+            this.questionText.innerHTML = `"${this.currentQuestion.question}"`;
+        } else {
+            this.questionText.innerHTML = this.currentQuestion.question;
+        }
         return questionIndex;
     }
 }

@@ -1,6 +1,6 @@
 
 //CACHE CONSTANTS
-import { MODE_50_ALL_QUESTIONS, MODE_ENDLESS_ALL_QUESTIONS, MODE_ChooseBook_ALL_QUESTIONS } from './../GameModes/Base/constants.js';
+import { MODE_ENDLESS_ALL_QUESTIONS, MODE_ChooseBook_ALL_QUESTIONS } from './../GameModes/Base/constants.js';
 const JSON_DATA = "jsonFileString";
 const messageText = document.getElementById('messageText');
 
@@ -30,7 +30,6 @@ const messageText = document.getElementById('messageText');
     const loadedQuestions = Object.values(parsedJson).flatMap(bookQuestions => bookQuestions);
     const allQuestions = loadedQuestions;
 
-    localStorage.setItem(MODE_50_ALL_QUESTIONS, JSON.stringify(allQuestions));
     localStorage.setItem(MODE_ENDLESS_ALL_QUESTIONS, JSON.stringify(allQuestions));
     localStorage.setItem(MODE_ChooseBook_ALL_QUESTIONS, JSON.stringify(allQuestions));
     localStorage.setItem(JSON_DATA, jsonFileContent);
