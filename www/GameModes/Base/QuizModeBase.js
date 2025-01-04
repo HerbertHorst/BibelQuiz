@@ -2,7 +2,7 @@
 
 export class QuizModeBase {
     constructor(constants) {
-        this.question = document.getElementById('question');
+        this.questionText = document.getElementById('question');
         this.choices = Array.from(document.getElementsByClassName('choice-text'));
         this.tipp = document.getElementById('tippText');
         this.tippContainer = document.getElementById('tippContainer');
@@ -155,7 +155,7 @@ export class QuizModeBase {
     getNewQuestion() {
         if (this.availableQuestions.length === 0) {
             localStorage.setItem(this.constants.RECENT_SCORE, this.score);
-            return window.location.assign('../../end.html');
+            return window.location.assign('../../Menus/end.html');
         }
         localStorage.setItem(this.constants.AVAILABLE_QUESTIONS, JSON.stringify(this.availableQuestions));
         localStorage.setItem(this.constants.SCORE, this.score);   
@@ -207,7 +207,7 @@ export class QuizModeBase {
     setNewRandomQuestion() {
         const questionIndex = Math.floor(Math.random() * this.availableQuestions.length);
         this.currentQuestion = this.availableQuestions[questionIndex];
-        this.question.innerHTML = this.currentQuestion.question;
+        this.questionText.innerHTML = this.currentQuestion.question;
         return questionIndex;
     }
 }

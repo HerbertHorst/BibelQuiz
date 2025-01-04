@@ -1,7 +1,7 @@
 V6.2 in Progress:
-    - Almost completly fixed endlessMode with base class. 
-    -- Left To do: Andere Modi fixen und umbauen. 
-    -- Check for Problems with new Dark mode.
+    - Baseclass for choose book and endless mode 
+    - removed 50 Questions mode to keep it clean
+    -- Check for Problems with new Dark mode
 
 V6.1:
 - Fixed Caching problems that got introduced by V6 with the per Mode cache option read in 

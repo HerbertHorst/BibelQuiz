@@ -1,4 +1,11 @@
 
+.question-background {
+  /* border: 0.2rem solid rgb(86, 165, 235, 0.25); */
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 5px; 
+}
+
 .choice-container {
   display: flex;
   margin-bottom: 0.5rem;

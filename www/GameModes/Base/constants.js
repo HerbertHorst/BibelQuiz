@@ -1,7 +1,8 @@
-export const MODE_50_ALL_QUESTIONS = 'mode50_allQuestions';
-export const MODE_50_SCORE = 'mode50_score';
-export const MODE_50_AVAILABLE_QUESTIONS = 'mode50_availableQuestions';
-export const MODE_50_RECENT_SCORE = 'mode50_mostRecentScore';
+//OUT BECAUSE POINTLESS 
+// export const MODE_50_ALL_QUESTIONS = 'mode50_allQuestions';
+// export const MODE_50_SCORE = 'mode50_score';
+// export const MODE_50_AVAILABLE_QUESTIONS = 'mode50_availableQuestions';
+// export const MODE_50_RECENT_SCORE = 'mode50_mostRecentScore';
 
 export const MODE_ENDLESS_ALL_QUESTIONS = 'mode_endless_allQuestions';
 export const MODE_ENDLESS_SCORE = 'mode_endless_score';
