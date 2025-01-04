@@ -1,7 +1,9 @@
 V6.2 in Progress:
     - Baseclass for choose book and endless mode 
+    - smaller Text for questions
     - removed 50 Questions mode to keep it clean
     -- Check for Problems with new Dark mode
+    --- Or Gradiant
 
 V6.1:
 - Fixed Caching problems that got introduced by V6 with the per Mode cache option read in 
