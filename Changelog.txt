@@ -1,3 +1,7 @@
+V6.3
+   - change Design to flex to bottom 
+   - GIT
+
 V6.2 in Progress:
     - Baseclass for choose book and endless mode 
     - smaller Text for questions

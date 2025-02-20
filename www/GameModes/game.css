@@ -1,7 +1,7 @@
 
 .question-background {
   /* border: 0.2rem solid rgb(86, 165, 235, 0.25); */
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.315);
   border-radius: 10px;
   padding: 5px; 
   margin-bottom: 2rem;
@@ -24,9 +24,30 @@
   display: flex;
   margin-bottom: 0.5rem;
   width: 100%;
-  font-size: 1.8rem;
+  font-size: 2.2rem;
   border: 0.1rem solid rgb(86, 165, 235, 0.25);
   background-color: rgba(41, 70, 124, 0.267);
+  padding: 8px;
+}
+
+.choice-container:hover {
+  cursor: pointer;
+  box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  transform: translateY(-0.1rem);
+  transition: transform 150ms;  
+}
+
+.choice-prefix {
+  padding: 1.5rem 2.5rem;
+  background-color: #56a6eb48;
+  color: rgba(255, 255, 255, 0.603);
+}
+
+.choice-text {
+  padding: 1.5rem;
+  width: 100%;
+  color: rgb(240, 248, 255);
+  /* text-align: center; */
 }
 
 .tipp-container {
@@ -55,25 +76,6 @@
   width: 100%;
   visibility: hidden; 
   color: white;
-}
-
-.choice-container:hover {
-  cursor: pointer;
-  box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
-  transform: translateY(-0.1rem);
-  transition: transform 150ms;
-}
-
-.choice-prefix {
-  padding: 1.5rem 2.5rem;
-  background-color: #56a6eb48;
-  color: rgba(255, 255, 255, 0.603);
-}
-
-.choice-text {
-  padding: 1.5rem;
-  width: 100%;
-  color: rgb(240, 248, 255);
 }
 
 .correct {
