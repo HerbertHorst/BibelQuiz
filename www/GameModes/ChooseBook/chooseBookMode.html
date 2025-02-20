@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Quick Quiz - Play</title>
+    <link rel="shortcut icon" href="#">
+    <link rel="stylesheet" href="../../app.css" />
+    <link rel="stylesheet" href="../game.css" />
+  </head>
+  <body>
+    
+    <div class="container">
+      <!-- <div id="loader"></div>  -->
+      <div id = "loadFileFromDisk" class="flex-center flex-column">
+        <p class="btn" id="continueWithCache">Continue from cache</p>
+        <p class="btn" id="startNewFromCache">Start new from cache</p>
+        <a class="smallbtn" href="../../Menus/startPage.html">Menu</a>
+        <p class="hud-prefix" id="errorText"></p>
+
+        <div id = "chooseBook" class="flex-center2">
+          <!-- THIS data-bookName strings must be identical with the names in the Json file -->
+          <!-- sadly there is no automatic create book selection buttons from json by now -->
+          <button class="bookSelectionbtn" data-bookName="1. Mose">1. Mose</button>
+          <button class="bookSelectionbtn" data-bookName="2. Mose">2. Mose</button>
+          <button class="bookSelectionbtn" data-bookName="3. Mose">3. Mose</button>
+          <button class="bookSelectionbtn" data-bookName="4. Mose">4. Mose</button>
+          <button class="bookSelectionbtn" data-bookName="Josua">Josua</button>
+          <button class="bookSelectionbtn" data-bookName="Richter">Richter</button>
+          <button class="bookSelectionbtn" data-bookName="Ruth">Ruth</button>
+          <button class="bookSelectionbtn" data-bookName="Matthäus">Matthäus</button>
+          <button class="bookSelectionbtn" data-bookName="Markus">Markus</button>
+          <button class="bookSelectionbtn" data-bookName="Lukas">Lukas</button>
+        </div>
+      </div>
+      
+      <div id="game" class="justify-center flex-column">
+        <div id="hud">
+          <div id="hud-item">
+            <p id="progressText" class="hud-prefix">
+              Question
+            </p>
+            <div id="progressBar">
+              <div id="progressBarFull"></div>
+            </div>
+          </div>
+          
+        <div class= "menuButtons">
+          <a class="smallbtn" href="../../Menus/startPage.html">Menu</a>
+        </div> 
+
+          <div id="hud-item">
+            <p class="hud-prefix">
+              Score
+            </p>
+            <h3 class="hud-main-text" id="score">0</h1>
+          </div>
+        </div>
+
+        <div class="question-background">
+          <h2 id="question"></h2>
+        </div>
+        <div class="choice-container">
+          <p class="choice-prefix">A</p>
+          <p class="choice-text" data-number="1"></p>
+        </div>
+        <div class="choice-container">
+          <p class="choice-prefix">B</p>
+          <p class="choice-text" data-number="2"></p>
+        </div>
+        <div class="choice-container">
+          <p class="choice-prefix">C</p>
+          <p class="choice-text" data-number="3"></p>
+        </div>
+        <div class="choice-container">
+          <p class="choice-prefix">D</p>
+          <p class="choice-text" data-number="4"></p>
+        </div>
+
+        <div class="tipp-container" id="tippContainer" >          
+        <p class="tipp-prefix">Bibelstelle:</p>
+        <p class="tipp-text" id="tippText" data-biblePhraseTipp="tipp"></p>
+        </div>
+      </div>
+      
+      
+
+    </div>
+    <script type="module" src="./chooseBookMode.js"></script>
+  </body>
+</html>

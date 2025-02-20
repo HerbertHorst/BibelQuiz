@@ -1,0 +1,44 @@
+V6.3
+   - change Design to flex to bottom 
+   - GIT
+
+V6.2 in Progress:
+    - Baseclass for choose book and endless mode 
+    - smaller Text for questions
+    - removed 50 Questions mode to keep it clean
+    -- Check for Problems with new Dark mode
+    --- Or Gradiant
+
+V6.1:
+- Fixed Caching problems that got introduced by V6 with the per Mode cache option read in 
+- introduced modules and JS6
+
+V6:
+- Add mode "ChooseBook" where you select a book and then only get Questions from that book (for that new cache constants where introduced so you can play endless and book mode with continue from cache)
+- moved select json button to the start screen
+- Set endless mode as startPage/redirect from index to endless 
+
+V5:
+- Safe questions to cache
+
+V4:
+- Mixing answers!!!
+- select mode screen
+- removed HighScore (because not working by now)
+- new Folder Structure
+- added endless mode (not real endless but all questions)
+- changed Json format (now with book names to sort for later)
+- only 0.5 points when you use a tipp isntead of 1
+
+V3:
+- Mark the right Answer in yellow when the user tippedthe wrong answer
+- Removed the extra step with saying start game after selecting the json File 
+- Fixed Bug with not resetting the hidden status of the BibelPhrase Tipp field
+
+V2:
+- Tipp Working
+
+V1: 
+- App working 
+- File is provided by user
+- Not showing the right answer when you answer wrong

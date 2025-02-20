@@ -1,0 +1,3471 @@
+{
+  "1. Mose": [
+    {
+      "question": "Es werde Licht!",
+      "biblePassageTipp": "1.Mose 1,3",
+      "choice1": "Gott",
+      "choice2": "Jesus",
+      "choice3": "Ein Blinder",
+      "choice4": "Zwei Blinde",
+      "answer": 1
+    },
+    {
+      "question": "Es sammle sich das Wasser unterhalb des Himmels an einen besonderen Ort.",
+      "biblePassageTipp": "1.Mose 1,9",
+      "choice1": "Gott",
+      "choice2": "Elia",
+      "choice3": "Jeremia",
+      "choice4": "Elisa",
+      "answer": 1
+    },
+    {
+      "question": "Seid fruchtbar und mehret euch und erfüllet das Wasser in den Meeren",
+      "biblePassageTipp": "1.Mose 1,22",
+      "choice1": "Gott",
+      "choice2": "Mose",
+      "choice3": "Noah",
+      "choice4": "Abraham",
+      "answer": 1
+    },
+    {
+      "question": "Von allen Bäumen des Gartens darfst du nach Belieben essen;",
+      "biblePassageTipp": "1.Mose 2,16",
+      "choice1": "Gott",
+      "choice2": "Der Teufel",
+      "choice3": "Jesaja",
+      "choice4": "Jeremia",
+      "answer": 1
+    },
+    {
+      "question": "Diese endlich ist es; Gebein von meinem Gebein und Fleisch von meinem Fleisch!",
+      "biblePassageTipp": "1.Mose 2,23",
+      "choice1": "Adam",
+      "choice2": "Jakob",
+      "choice3": "Abel",
+      "choice4": "Gott",
+      "answer": 1
+    },
+    {
+      "question": "Ihr dürft von ihnen nicht essen, ja sie nicht einmal anrühren, sonst müsst ihr sterben!",
+      "biblePassageTipp": "1.Mose 3,3",
+      "choice1": "Eva",
+      "choice2": "Der Teufel",
+      "choice3": "Gott",
+      "choice4": "Adam",
+      "answer": 1
+    },
+    {
+      "question": "Ihr werdet sicherlich nicht sterben;",
+      "biblePassageTipp": "1.Mose 3,4",
+      "choice1": "Teufel",
+      "choice2": "Gott",
+      "choice3": "Engel",
+      "choice4": "Babylonier",
+      "answer": 1
+    },
+    {
+      "question": "Ich will ihm eine Hilfe schaffen, die zu ihm passt.",
+      "biblePassageTipp": "1.Mose 2,18",
+      "choice1": "Gott",
+      "choice2": "Abraham",
+      "choice3": "Elia",
+      "choice4": "Jeremia",
+      "answer": 1
+    },
+    {
+      "question": " \"Als ich deine Stimme im Garten hörte, fürchtete ich mich\"",
+      "biblePassageTipp": "1.Mose 3,10",
+      "choice1": "Adam",
+      "choice2": "Eva",
+      "choice3": "Teufel",
+      "choice4": "Noah",
+      "answer": 1
+    },
+    {
+      "question": "Und ich will Feindschaft setzen zwischen dir und dem Weibe und zwischen deinem Samen und ihrem Samen;",
+      "biblePassageTipp": "1.Mose 3,15",
+      "choice1": "Gott",
+      "choice2": "Teufel",
+      "choice3": "Elia",
+      "choice4": "Elisa",
+      "answer": 1
+    },
+    {
+      "question": "mit Schmerzen sollst du Kinder gebären und doch nach deinem Manne Verlangen tragen;",
+      "biblePassageTipp": "1.Mose 3,16",
+      "choice1": "Gott",
+      "choice2": "Engel",
+      "choice3": "Teufel",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "mit Mühsal sollst du dich von ihm nähren dein Leben lang!",
+      "biblePassageTipp": "1.Mose 3,17",
+      "choice1": "Gott",
+      "choice2": "Engel",
+      "choice3": "Adam",
+      "choice4": "Eva",
+      "answer": 1
+    },
+    {
+      "question": "dass er nur nich seine Hand ausstreckt und auch vom Baume des Lebens nimmt",
+      "biblePassageTipp": "1.Mose 3,22",
+      "choice1": "Gott",
+      "choice2": "Engel",
+      "answer": 1
+    },
+    {
+      "question": "Einen Mann habe ich ins Dasein gerufen mit Hilfe des HERRN!",
+      "biblePassageTipp": "1.Mose 4,1",
+      "choice1": "Eva",
+      "choice2": "Rahel",
+      "choice3": "Lea",
+      "choice4": "Hanna",
+      "answer": 1
+    },
+    {
+      "question": "Warum bist du erregt geworden, und warum hat dein Angesicht sich finster gesenkt?",
+      "biblePassageTipp": "1.Mose 4,6",
+      "choice1": "Gott",
+      "choice2": "Noah",
+      "choice3": "Adam",
+      "choice4": "Isaak",
+      "answer": 1
+    },
+    {
+      "question": "bin ich etwa meines Bruders Hüter?",
+      "biblePassageTipp": "1.Mose 4,9",
+      "choice1": "Kain",
+      "choice2": "Esau",
+      "choice3": "Jakob",
+      "choice4": "Abel",
+      "answer": 1
+    },
+    {
+      "question": "Ich höre das Blut deines Bruder zu mir aus dem Erdboden schreien!",
+      "biblePassageTipp": "1.Mose 4,10",
+      "choice1": "Gott",
+      "choice2": "Adam",
+      "choice3": "Jakob",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "Meine Strafe ist zu groß, als dass ich sie tragen könnte!",
+      "biblePassageTipp": "1.Mose 4,13",
+      "choice1": "Kain",
+      "choice2": "Esau",
+      "choice3": "Jakob",
+      "choice4": "David",
+      "answer": 1
+    },
+    {
+      "question": "Du treibst mich ja heute von dem Ackerland hinweg, und ich muss mich vor deinen Augen verbergen und werde unstet und flüchtig auf der Erde sein; so wird denn jeder, der mich antrifft, mich totschlagen",
+      "biblePassageTipp": "1.Mose 4,14",
+      "choice1": "Kain",
+      "choice2": "Esau",
+      "choice3": "Jakob",
+      "choice4": "Elia",
+      "answer": 1
+    },
+    {
+      "question": "Einen Mann erschlage ich, wenn er mich verwundet, und einen Jüngling, wenn er mir eine Strieme bebringt!",
+      "biblePassageTipp": "1.Mose 4,24",
+      "choice1": "Lamech",
+      "choice2": "Saul",
+      "choice3": "Kain",
+      "choice4": "Pharao",
+      "answer": 1
+    },
+    {
+      "question": "dieser wird uns Trost verschaffen bei unserer Arbeit und bei der Mühsal, die unsere Hände durch den Acker haben, den der HERR verflucht hat",
+      "biblePassageTipp": "1.Mose 5,28",
+      "choice1": "Lamech",
+      "choice2": "Adam",
+      "choice3": "Eva",
+      "choice4": "Methusalah",
+      "answer": 1
+    },
+    {
+      "question": "so sollen denn seine Tage nur noch hundertundzwanzig Jahre betragen!",
+      "biblePassageTipp": "1.Mose 6,3",
+      "choice1": "Gott",
+      "answer": 1
+    },
+    {
+      "question": "Gehe du mit deiner ganzen Tamilie in die Arche, denn dich habe ich als gerecht vor mir erfunden unter diesem Geschlecht.",
+      "biblePassageTipp": "1.Mose 7,1",
+      "choice1": "Gott",
+      "choice2": "Gabriel",
+      "choice3": "Michael",
+      "choice4": "Engel",
+      "answer": 1
+    },
+    {
+      "question": "Denn das Sinnen und Trachten des Menschenherzens ist böse von Jugend auf;",
+      "biblePassageTipp": "1.Mose 8,21",
+      "choice1": "Gott",
+      "choice2": "Gabriel",
+      "choice3": "Michael",
+      "choice4": "Noah",
+      "answer": 1
+    },
+    {
+      "question": "Dies ist das Zeichen des Bundes, den ich zwischen mir und allen lebenden Wesen auf der Erde aufgerichtet habe.",
+      "biblePassageTipp": "1.Mose 9,17",
+      "choice1": "Gott",
+      "choice2": "Abraham",
+      "choice3": "David",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "Verflucht sei Kanaan! Der niedrigste Knecht soll er seinen Brüdern sein!",
+      "biblePassageTipp": "1.Mose 9,25",
+      "choice1": "Noah",
+      "choice2": "Josua",
+      "choice3": "Mose",
+      "choice4": "Isaak",
+      "answer": 1
+    },
+    {
+      "question": "Gepriesen sei der HERR, der Gott Sems! Kanaan aber soll sein Knecht sein!",
+      "biblePassageTipp": "1.Mose 9,26",
+      "choice1": "Noah",
+      "choice2": "Sem",
+      "choice3": "Ham",
+      "choice4": "Japhet",
+      "answer": 1
+    },
+    {
+      "question": "Weiten Raum schaffe Gott dem Japhet, und er wohne in den Zelten Sems! Kanaan aber soll sein Knecht sein!",
+      "biblePassageTipp": "1.Mose 9,27",
+      "choice1": "Noah",
+      "choice2": "Sem",
+      "choice3": "Ham",
+      "choice4": "Japhet",
+      "answer": 1
+    },
+    {
+      "question": "Auf! Wir wollen uns eine Stadt und einen Turm bauen, dessen Spitze bis in den Himmel reichen soll,",
+      "biblePassageTipp": "1.Mose 11,4",
+      "choice1": "Menschen/Babylonier",
+      "choice2": "mehrsprachige Menschen",
+      "choice3": "Salomo",
+      "choice4": "Ägypter",
+      "answer": 1
+    },
+    {
+      "question": "Auf! Wir wollen hinabfahren und ihre Sprache dort verwirren, so dass keiner mehr die Sprache des andern versteht!",
+      "biblePassageTipp": "1.Mose 11,7",
+      "choice1": "Gott",
+      "choice2": "Engel Gabriel",
+      "choice3": "Engel Michael",
+      "choice4": "Josua",
+      "answer": 1
+    },
+    {
+      "question": "Verlass dein Land und deine Verwandtschaft und deines Vaters Haus und ziehe in das Land, das ich dir zeigen werde;",
+      "biblePassageTipp": "1.Mose 12,1",
+      "choice1": "Gott",
+      "choice2": "Knecht Abrahams",
+      "choice3": "Noomi",
+      "choice4": "Gabriel",
+      "answer": 1
+    },
+    {
+      "question": "Deinen Nachkommen will ich dieses Land geben!",
+      "biblePassageTipp": "1.Mose 12,7",
+      "choice1": "Gott",
+      "choice2": "Pharao",
+      "choice3": "Josua",
+      "choice4": "Joseph",
+      "answer": 1
+    },
+    {
+      "question": "Sage doch, du seiest meine Schwester, damit es mir um deinetwillen gut ergehe",
+      "biblePassageTipp": "1.Mose 12,13",
+      "choice1": "Abram",
+      "choice2": "Abraham",
+      "choice3": "Mose",
+      "choice4": "Aaron",
+      "answer": 1
+    },
+    {
+      "question": "Was hast du mir da angetan? Warum hast du mir nicht gesagt, dass sie deine Frau ist?",
+      "biblePassageTipp": "1.Mose 12,18",
+      "choice1": "Pharao",
+      "choice2": "Abimelech",
+      "choice3": "Laban",
+      "choice4": "Isaak",
+      "answer": 1
+    },
+    {
+      "question": "Lass doch keine Streitigkeiten zwischen mir und dir und zwischen meinen und deinen Hirten herrschen;",
+      "biblePassageTipp": "1.Mose 13,8",
+      "choice1": "Abram",
+      "choice2": "Lot",
+      "choice3": "Isaak",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "Willst du nach der linken Seite, so gehe ich nach rechts, und willst du nach der rechten Seite, so gehe ich nach links.",
+      "biblePassageTipp": "1.Mose 13,9",
+      "choice1": "Abram",
+      "choice2": "Lot",
+      "choice3": "Jakob",
+      "choice4": "Esau",
+      "answer": 1
+    },
+    {
+      "question": "Gesegnet seist du, Abram, vom höchsten Gott, dem Schöpfer des Himmels und der Erde, und gepriesen sei der höchste Gott, der dir deine Feinde in die Hand geliefert hat!",
+      "biblePassageTipp": "1.Mose 14,19-20",
+      "choice1": "Melchisedek",
+      "choice2": "Sarai",
+      "choice3": "Abimelech",
+      "choice4": "Isaak",
+      "answer": 1
+    },
+    {
+      "question": "Keinen Faden und keinen Schuhriemen, überhuaupt nichts von deinem ganzen Eigentum will ich behalten!",
+      "biblePassageTipp": "1.Mose 14,23",
+      "choice1": "Abram",
+      "choice2": "Melchisedek",
+      "choice3": "Lot",
+      "choice4": "Abimelech",
+      "answer": 1
+    },
+    {
+      "question": "Ich gehe ja als kinderloser Mann dahin, und der Besitzer meines Vermögens wird Elieser von Damaskus sein.",
+      "biblePassageTipp": "1.Mose 15,2",
+      "choice1": "Abram",
+      "choice2": "Isaak",
+      "choice3": "Jakob",
+      "choice4": "Elkana",
+      "answer": 1
+    },
+    {
+      "question": "Woran soll ich erkennen, dass ich es besitzen werde?",
+      "biblePassageTipp": "1.Mose 15,8",
+      "choice1": "Abram",
+      "choice2": "Mose",
+      "choice3": "Isaak",
+      "choice4": "Jakob",
+      "answer": 1
+    },
+    {
+      "question": "So gehe doch ein zu meiner Leibmagd: vielleicht komme ich durch sie zu Kindern.",
+      "biblePassageTipp": "1.Mose 16,2",
+      "choice1": "Sarai",
+      "choice2": "Rebekka",
+      "choice3": "Rahel",
+      "choice4": "Hanna",
+      "answer": 1
+    },
+    {
+      "question": "Die Kränkung, die mir zugefügt wird, ist deine Schuld! Ich selbst habe dir meine Leibmagd in die Arme gegeben; jetzt aber, da sie fühlt, dass sie Mutter werden wird, sieht sie mich geringschätzig an:",
+      "biblePassageTipp": "1.Mose 16,5",
+      "choice1": "Sarai",
+      "choice2": "Rebekka",
+      "choice3": "Rahel",
+      "choice4": "Hanna",
+      "answer": 1
+    },
+    {
+      "question": "Deine Leibmagd steht doch unter deiner Gewalt: verfahre mit ihr, wie es dich gut dünkt!",
+      "biblePassageTipp": "1.Mose 16,6",
+      "choice1": "Abram",
+      "choice2": "Isaak",
+      "choice3": "Jakob",
+      "choice4": "Elkana",
+      "answer": 1
+    },
+    {
+      "question": "Ich bin auf der Flucht vor meiner Herrin, Sarai.",
+      "biblePassageTipp": "1.Mose 16,8",
+      "choice1": "Hagar",
+      "choice2": "Onesimus",
+      "choice3": "Joseph",
+      "choice4": "David",
+      "answer": 1
+    },
+    {
+      "question": "Hagar, Leibmagd der Sarai, woher kommst du, und wohin willst du?",
+      "biblePassageTipp": "1.Mose 16,8",
+      "choice1": "Engel des Herrn",
+      "choice2": "Abram",
+      "choice3": "Isaak",
+      "choice4": "Ismael",
+      "answer": 1
+    },
+    {
+      "question": "Kehre zu deiner Herrin zurück und unterwirf dich ihrer Gewalt.",
+      "biblePassageTipp": "1.Mose 16,9",
+      "choice1": "Engel des Herrn",
+      "choice2": "Abram",
+      "choice3": "Isaak",
+      "choice4": "Sarai",
+      "answer": 1
+    },
+    {
+      "question": "Du bist jetzt guter Hoffnung und wirst Mutter eines Sohnes werden, den du Ismael nennen sollst;",
+      "biblePassageTipp": "1.Mose 16,11",
+      "choice1": "Engel des Herrn",
+      "choice2": "Abram",
+      "choice3": "Lot",
+      "choice4": "Prophet",
+      "answer": 1
+    },
+    {
+      "question": "Du bist der Gott des Schauens; denn ... ich habe wirklich hier den geschaut, der nach mir geschaut hat.",
+      "biblePassageTipp": "1.Mose 16,13",
+      "choice1": "Hagar",
+      "choice2": "Abram",
+      "choice3": "Mose",
+      "choice4": "Isaak",
+      "answer": 1
+    },
+    {
+      "question": "Ach möchte nur Ismael vor dir am Leben bleiben!",
+      "biblePassageTipp": "1.Mose 17,18",
+      "choice1": "Abram",
+      "choice2": "Hagar",
+      "choice3": "Abraham",
+      "choice4": "Ismael",
+      "answer": 1
+    },
+    {
+      "question": "Man soll euch etwas Wasser bringen, damit ihr euch die Füße waschen könnt; dann ruht euch unter dem baume aus, und ich will euch etwas zu essen holen, damit ihr euch erquickt: danach mögt ihr weiterziehen; ihr seid doch nun einmal bei eurem Knecht vorübergekommen.",
+      "biblePassageTipp": "1.Mose 18,4-5",
+      "choice1": "Abraham",
+      "choice2": "Isaak",
+      "choice3": "Jakob",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "Jetzt, nachdem ich verwelkt bin, sollte ich noch an Liebeslust denken? Und mein Eheherr ist ja auch ein Greis.",
+      "biblePassageTipp": "1.Mose 18,12",
+      "choice1": "Sara",
+      "choice2": "Rebekka",
+      "choice3": "Eva",
+      "choice4": "Noomi",
+      "answer": 1
+    },
+    {
+      "question": "Ich habe nicht gelacht!",
+      "biblePassageTipp": "1.Mose 18,15",
+      "choice1": "Sara",
+      "choice2": "Herodias",
+      "choice3": "Batseba",
+      "choice4": "Michal",
+      "answer": 1
+    },
+    {
+      "question": "Willst du wirklich die Gerechten zugleich mit den gottlosen wegraffen? Vielleicht gibt es fünfzig Gerechte innerhalb der Stadt",
+      "biblePassageTipp": "1.Mose 18,23-24",
+      "choice1": "Abraham",
+      "choice2": "David",
+      "choice3": "Samuel",
+      "choice4": "Hesekiel",
+      "answer": 1
+    },
+    {
+      "question": "Ach siehe, ich habe es gewagt, zu dem Allherrn zu reden, obgleich ich nur Staub und Asche bin. Vielleicht fehlen an den fünfzig Gerechten noch fünf",
+      "biblePassageTipp": "1.Mose 18,27",
+      "choice1": "Abraham",
+      "choice2": "Josua",
+      "choice3": "Kaleb",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "Möge doch der Allherr nicht zürnen, wen ich nochmals rede; vielleicht finden sich dort nur dreißig",
+      "biblePassageTipp": "1.Mose 18,30",
+      "choice1": "Abraham",
+      "choice2": "Josua",
+      "choice3": "Kaleb",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "Siehe doch, ich habe es gewagt, zu dem Allherrn zu reden: vielleicht finden sich dort nur zwanzig.",
+      "biblePassageTipp": "1.Mose 18,31",
+      "choice1": "Abraham",
+      "choice2": "Josua",
+      "choice3": "Kaleb",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "Möge doch der Allherr nicht zürnen, wenn ich noch dies eine Mal rede: vielleicht finden sich dort nur zehn.",
+      "biblePassageTipp": "1.Mose 18,32",
+      "choice1": "Abraham",
+      "choice2": "Josua",
+      "choice3": "Kaleb",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "Bitte, meine Herren! Kehrt doch im Hause eures Knechtes ein, um dort zu übernachten, und wascht euch die Füße;  morgen früh mögt ihr euch dann wieder aufmachen und eures Weges ziehen.",
+      "biblePassageTipp": "1.Mose 19,2",
+      "choice1": "Lot",
+      "choice2": "Abraham",
+      "choice3": "Jakob",
+      "choice4": "Isaak",
+      "answer": 1
+    },
+    {
+      "question": "Nur diesen Männern tut nichts zuleide, nachdem sie einmal unter den Schatten meines Daches getreten sind!",
+      "biblePassageTipp": "1.Mose 19,8",
+      "choice1": "Lot",
+      "choice2": "Paulus",
+      "choice3": "Petrus",
+      "choice4": "Abraham",
+      "answer": 1
+    },
+    {
+      "question": "Wen du sonst noch hier hast - einen Schwiegersohn sowie deine Söhne und Töchter und wer dir sonst noch in der Stadt angehört -, die lass aus diesem Orte weggehen;",
+      "biblePassageTipp": "1.Mose 19,12",
+      "choice1": "3 Männer",
+      "choice2": "Paulus",
+      "choice3": "Petrus",
+      "choice4": "Abraham",
+      "answer": 1
+    },
+    {
+      "question": "Macht euch auf und verlasst diesen Ort! Denn der HERR will die Stadt zerstören.",
+      "biblePassageTipp": "1.Mose 19,14",
+      "choice1": "Lot",
+      "choice2": "3 Männer",
+      "choice3": "2 Kundschafter",
+      "choice4": "3 Kundschafter",
+      "answer": 1
+    },
+    {
+      "question": "aber ich vermag mich nicht in das Gebirge zu retten: das Verderben würde mich ereilen, so dass ich sterben müsste! Siehe, dort ist eine Ortschaft in der Nähe, so dass ichd ain fliehen könnte, und sie ist ja ganz klein: dorthin möchte ich mich retten; sie ist ja doch ganz klein: dann könnte ich am Leben bleiben!",
+      "biblePassageTipp": "1.Mose 19,21",
+      "choice1": "Lot",
+      "choice2": "2 Kundschafter",
+      "choice3": "2 Männer",
+      "choice4": "Abraham",
+      "answer": 1
+    },
+    {
+      "question": "Unser Vater ist alt, und kein Mann ist sonst im Lande, der Umgang mit uns haen könnte, wie es in aller Welt Brauch ist. Komm wir ollen unserem Vater Wein zu trinken geben und uns zu ihm legen",
+      "biblePassageTipp": "1.Mose 19,31-32",
+      "choice1": "Lots Älteste Tochter",
+      "choice2": "Jona",
+      "choice3": "Elia",
+      "choice4": "Obadja",
+      "answer": 1
+    },
+    {
+      "question": "Ja, ich dachte es sei sicherlich keine Gottesfurcht an diesem Orte zu finden und man werde mich um meiner Frau willen ums Leben bringen. Übrigens ist sie wirklich meine Schwester.",
+      "biblePassageTipp": "1.Mose 20,11-12",
+      "choice1": "Abraham",
+      "choice2": "Lots jüngere Tochter",
+      "choice3": "Rahab",
+      "choice4": "Tamar",
+      "answer": 1
+    },
+    {
+      "question": "Ein Lachen hat mir Gott bereitet: jeder, der von der Sache hört, wird über mich lachen.",
+      "biblePassageTipp": "1.Mose 21,6",
+      "choice1": "Sara",
+      "choice2": "Lot",
+      "choice3": "Isaak",
+      "choice4": "Jakob",
+      "answer": 1
+    },
+    {
+      "question": "Und nun habe ich ihm doch noch einen Sohn in seinem Greisenalter geboren!",
+      "biblePassageTipp": "1.Mose 21,7",
+      "choice1": "Sara",
+      "choice2": "Hanna",
+      "choice3": "Rebekka",
+      "choice4": "Rahel",
+      "answer": 1
+    },
+    {
+      "question": "Verstoße die Magd da und ihren Sohn! Denn der Sohn dieser Magd soll nicht mit meinem Sohn, mit Isaak, erben!",
+      "biblePassageTipp": "1.Mose 21,10",
+      "choice1": "Sara",
+      "choice2": "Hanna",
+      "choice3": "Rebekka",
+      "choice4": "Rahel",
+      "answer": 1
+    },
+    {
+      "question": "Die sieben Lämmer musst du von mir annehmen, damit dies mir zum Zeugnis diene, dass ich diesen Brunnen gegraben habe.",
+      "biblePassageTipp": "1.Mose 21,30",
+      "choice1": "Abraham",
+      "choice2": "Hanna",
+      "choice3": "Rebekka",
+      "choice4": "Rahel",
+      "answer": 1
+    },
+    {
+      "question": "Nimm Isaak, deinen Sohn, deinen einzigen, den du liebhast, und begib dich in die Landschaft Morija und bringe ihn dort als Brandopfer dar",
+      "biblePassageTipp": "1.Mose 22,2",
+      "choice1": "Gott",
+      "choice2": "Maria",
+      "choice3": "Sara",
+      "choice4": "Soldat",
+      "answer": 1
+    },
+    {
+      "question": "Bleibt ihr für euch hier mit dem Esel; ich aber und der Knabe wollen dorthin gehen und anbeten; dann kommen wir wieder zu euch zurück.",
+      "biblePassageTipp": "1.Mose 22,5",
+      "choice1": "Abraham",
+      "choice2": "2 Männer",
+      "choice3": "Abraham",
+      "choice4": "Pharao",
+      "answer": 1
+    },
+    {
+      "question": "Wir haben hier wohl Feuer und Holz; aber wo ist das Schaf für das Brandopfer?",
+      "biblePassageTipp": "1.Mose 22,7",
+      "choice1": "Isaak",
+      "choice2": "Jakob",
+      "choice3": "Abraham",
+      "choice4": "Pharao",
+      "answer": 1
+    },
+    {
+      "question": "Gott wird schon für ein Schaf zum Brandopfer sorgen, mein Sohn.",
+      "biblePassageTipp": "1.Mose 22,8",
+      "choice1": "Abraham",
+      "choice2": "Jakob",
+      "choice3": "Joseph",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "Lege deine Hand nicht an den Knaben und tu ihm nichts zuleide! Denn jetzt weiß ich, dass du gottesfürchtig bist, weil du mir deinen einzigen Sohn icht vorenthalten hast.",
+      "biblePassageTipp": "1.Mose 22,12",
+      "choice1": "Engel des Herrn",
+      "choice2": "Abraham",
+      "choice3": "Jakob",
+      "choice4": "Engel",
+      "answer": 1
+    },
+    {
+      "question": "Ich bin ein Fremdling und Beisasse hier bei euch: pberlasst mir doch ein Erbbegräbnis bei euch, damit ich meine Tote, die in meinem Hause liegt, begraben kann!",
+      "biblePassageTipp": "1.Mose 23,4",
+      "choice1": "Abraham",
+      "choice2": "Elkana",
+      "choice3": "Joseph",
+      "choice4": "Jakob",
+      "answer": 1
+    },
+    {
+      "question": "Du lebst als ein Gottesfürst unter uns: begrabe deine Tote in dem besten von unsern Gräbern: keiner von uns wird dir seine Grabstätte zu Bestattung deiner Toten versagen.",
+      "biblePassageTipp": "1.Mose 23,6",
+      "choice1": "Hethiter",
+      "choice2": "Mose",
+      "choice3": "David",
+      "choice4": "Elia",
+      "answer": 1
+    },
+    {
+      "question": "So erweist mir die Liebe und legt ein gutes Wort für mich bei Ephron, dem Sohne Zohars, ein, dass er mir die Höhle in der Machpela überlässt",
+      "biblePassageTipp": "1.Mose 23,8-9",
+      "choice1": "Abraham",
+      "choice2": "Mose",
+      "choice3": "David",
+      "choice4": "Jakob",
+      "answer": 1
+    },
+    {
+      "question": "Das Feld schenke ich dir; auch die Höhle darauf schenke ich dir; im Beisein meiner Volksgenossen schenke ich sie dir: begrabe nur deine Tote!",
+      "biblePassageTipp": "1.Mose 23,11",
+      "choice1": "Ephron",
+      "choice2": "Abraham",
+      "choice3": "Mose",
+      "choice4": "Abimelech",
+      "answer": 1
+    },
+    {
+      "question": "Ich zahle dir den Preis für das Grundstück: nimm ihn von mir an, so will ich meine Tote dort begraben!",
+      "biblePassageTipp": "1.Mose 23,13",
+      "choice1": "Abraham",
+      "choice2": "Mose",
+      "choice3": "Jakob",
+      "choice4": "Joseph",
+      "answer": 1
+    },
+    {
+      "question": "Lege die Hand unter meine Hüfte: ich will dir beim HERRN, dem Gott des Himmels und dem Gott der Erde, einen Eid abnehmen, dass du für meinen Sohn keine Frau auus den töchtern der Kanaanäer nehmen willst",
+      "biblePassageTipp": "1.Mose 24,2-3",
+      "choice1": "Abraham",
+      "choice2": "Ägyper",
+      "choice3": "Kanaaniter",
+      "choice4": "Ammoniter",
+      "answer": 1
+    },
+    {
+      "question": "du sollst in mein Vaterland und zu meiner Verwandtschaft gehen und dort um eine Frau für meinen Sohn Isaak werben!",
+      "biblePassageTipp": "1.Mose 24,4",
+      "choice1": "Abraham",
+      "choice2": "Jakob",
+      "choice3": "Joseph",
+      "choice4": "Josua",
+      "answer": 1
+    },
+    {
+      "question": "Vielleicht wird das Weib mir in dieses Land nicht folgen wollen; soll ich alsdann deinen Sohn wieder in das Land zurückführen, aus dem du ausgewandert bist?",
+      "biblePassageTipp": "1.Mose 24,5",
+      "choice1": "Knecht Abrahams",
+      "choice2": "Abraham",
+      "choice3": "Pharao",
+      "choice4": "Jakob",
+      "answer": 1
+    },
+    {
+      "question": "Hüte dich wohl, meinen Sohn dorthin zurückzuführen!",
+      "biblePassageTipp": "1.Mose 24,6",
+      "choice1": "Abraham",
+      "choice2": "Ephron",
+      "choice3": "Jakob",
+      "choice4": "Joseph",
+      "answer": 1
+    },
+    {
+      "question": "Wenn das Weib dir aber nicht folgen will, so sollst du von diesem mir geleisteten Eide entbunden sein; nur darfst du meinen Sohn nicht dorthin zurückführen!",
+      "biblePassageTipp": "1.Mose 24,8",
+      "choice1": "Abraham",
+      "choice2": "Jakob",
+      "choice3": "Sara",
+      "choice4": "Rebekka",
+      "answer": 1
+    },
+    {
+      "question": "Wenn ich nun zu einem Mädchen sage: 'Neige, bitte, deinen Krug, damit ich trinke!' und sie mit dann antwortet:'Trinke! Und auch deinen Kamelen will ich zu trinken geben!', so möge diese es sein",
+      "biblePassageTipp": "1.Mose 24,14",
+      "choice1": "Abrahams Knecht",
+      "choice2": "Jakob",
+      "choice3": "Esau",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "Auch für deine Kamele will ich Wasser schöpfen, bis sie sich satt getrunken haben.",
+      "biblePassageTipp": "1.Mose 24,19",
+      "choice1": "Rebekka",
+      "choice2": "Knecht Jakobs",
+      "choice3": "Knecht Josephs",
+      "choice4": "Knecht Esaus",
+      "answer": 1
+    },
+    {
+      "question": "Wessen Tochter bist du? Teile es mir doch mit! Ist wohl im Hause deines Vaters Platz für uns zum Übernachten?",
+      "biblePassageTipp": "1.Mose 24, 23",
+      "choice1": "Abrahams Knecht",
+      "choice2": "Jakob",
+      "choice3": "Esau",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "Ich bin die Tochter Bethuels, des Sohnes der Milka, den sie dem Nahor geboren hat.",
+      "biblePassageTipp": "1.Mose 24,24",
+      "choice1": "Rebekka",
+      "choice2": "Jakob",
+      "choice3": "Esau",
+      "choice4": "Mose",
+      "answer": 1
+    },
+    {
+      "question": "Gerades Weges zum Hause des Verwandten meines Herrn hat mich der Ewige geführt!",
+      "biblePassageTipp": "1.Mose 24,27",
+      "choice1": "Abrahams Knecht",
+      "choice2": "Jakobs Knecht",
+      "choice3": "Josephs Knecht",
+      "choice4": "Esaus Knecht",
+      "answer": 1
+    },
+    {
+      "question": "Komm in mein Haus, du Gesegneter des HERRN! Warum stehst du hier draußen? Ich habe das Haus schon aufräumen lassen und Platz für die Kamele geschafft!",
+      "biblePassageTipp": "1.Mose 24,31",
+      "choice1": "Laban",
+      "choice2": "Rahel",
+      "choice3": "Rahab",
+      "choice4": "Rut",
+      "answer": 1
+    },
+    {
+      "question": "Ich hatte dieses bei mir noch nicht zu Ende geredet, da kam auch schon Rebekka aus dem Orte heruas mit ihrem Kruge auf ihrer Schulter; sie stieg zur Quelle hinab und schöpfte Wasser.",
+      "biblePassageTipp": "1.Mose 24,45",
+      "choice1": "Abrahams Knecht",
+      "choice2": "Jakobs Knecht",
+      "choice3": "Josephs Knecht",
+      "choice4": "Esaus Knecht",
+      "answer": 1
+    },
+    {
+      "question": "Lass mich doch schnell essen von dem Roten, dem roten Gericht da, denn ich bin ganz erschöpft!",
+      "biblePassageTipp": "1.Mose 25,30",
+      "choice1": "Esau",
+      "choice2": "Rahel",
+      "choice3": "Rahab",
+      "choice4": "Rut",
+      "answer": 1
+    },
+    {
+      "question": "Verkaufe mir zuvor dein Erstgeburtsrecht!",
+      "biblePassageTipp": "1.Mose 25,31",
+      "choice1": "Jakob",
+      "choice2": "Jakobs Knecht",
+      "choice3": "Josephs Knecht",
+      "choice4": "Esaus Knecht",
+      "answer": 1
+    },
+    {
+      "question": "Ach, ich muss ja doch sterben: wozu nützt mir da das Erstgeburtsrecht?",
+      "biblePassageTipp": "1.Mose 25,32",
+      "choice1": "Esau",
+      "choice2": "Abraham",
+      "choice3": "Jakob",
+      "choice4": "Isaak",
+      "answer": 1
+    },
+    {
+      "question": "Wer sich an diesem Manne oder an seiner Frau vergreift, soll unfehlbar mit dem Tode bestraft werden!",
+      "biblePassageTipp": "1.Mose 26,11",
+      "choice1": "Abimelech",
+      "choice2": "Jakobs Knecht",
+      "choice3": "Josephs Knecht",
+      "choice4": "Labans Knecht",
+      "answer": 1
+    },
+    {
+      "question": "Verlass unser Land, denn du bist uns zu stark geworden.",
+      "biblePassageTipp": "1.Mose 26,16",
+      "choice1": "Abimelech",
+      "choice2": "Jakob",
+      "choice3": "Joseph",
+      "choice4": "Benjamin",
+      "answer": 1
+    },
+    {
+      "question": "Warum kommt ihr zu mir, da ihr doch feindlich gegen mich gesinnt seid und mich aus eurem Lande vertrieben habt?",
+      "biblePassageTipp": "1.Mose 26,27",
+      "choice1": "Isaak",
+      "choice2": "Esau",
+      "choice3": "Joseph",
+      "choice4": "Benjamin",
+      "answer": 1
+    },
+    {
+      "question": "So nimm nun doch deine Jagdgeräte, deinen Köcher und Bogen, und gehe aufs Feld hinaus und erjage ein Stück Wild für mich; dann bereite mir ein Schmackhaftes Gericht, wie ich es liebe, und bringe es mir herein, damit ich esse und dich dann segne, bevor ich sterbe.",
+      "biblePassageTipp": "1.Mose 27,3-4",
+      "choice1": "Isaak",
+      "choice2": "Jakob",
+      "choice3": "Joseph",
+      "choice4": "Benjamin",
+      "answer": 1
+    }
+  ],
+  "2. Mose": [
+	{
+		"question": "Seht das Volk der Israeliten wird uns zu zahlreich und zu stark. Wohlan, wir wollen klug gegen sie zu Werke gehen, damit ihrer nicht noch mehr werden; sonst könnte es geschehen, dass, wenn ein Krieg ausbräche, sie sich auch noch zu unsern Feinden schlügen und gegen uns kämpften und aus dem Lande wegzögen.",
+		"biblePassageTipp": "2.Mose 1,9-10",
+		"choice1": "ägyptischer König",
+		"choice2": "babylonischer König",
+		"choice3": "midianitischer König",
+		"choice4": "edomitischer König",
+		"answer": 1
+	},
+	{
+		"question": "Wenn ihr den Hebräerinnen bei der Geburt Hilfe leistet, so gebt bei der Entbindung wohl acht: wenn das Kind ein Knabe ist, so tötet ihn! Ist es aber ein Mädchen, so mag es am Leben bleiben!",
+		"biblePassageTipp": "2.Mose 1,16",
+		"choice1": "ägyptischer König",
+		"choice2": "babylonischer König",
+		"choice3": "midianitischer König",
+		"choice4": "edomitischer König",
+		"answer": 1
+	},
+	{
+		"question": "Ja, die hebräischen Frauen sind nicht so (schwächlich) wie die ägyptischen, sondern haben eine kräftige Natur; ehe noch die Hebamme zu ihnen kommt, haben sie schon geboren.",
+		"biblePassageTipp": "2.Mose 1,19",
+		"choice1": "Hebammen",
+		"choice2": "Ägyptische Frau",
+		"choice3": "Aufseher",
+		"choice4": "Hebräische Frau",
+		"answer": 1
+	},
+	{
+		"question": "Das ist eins von den Kindern der Hebräer.",
+		"biblePassageTipp": "2.Mose 2,6",
+		"choice1": "Tochter des Pharao",
+		"choice2": "Tochter des Amram",
+		"choice3": "Dienerin",
+		"choice4": "Leibmagd",
+		"answer": 1
+	},
+	{
+		"question": "Soll ich hingehen und dir eine Amme von den Hebräerinnen holen, damit sie dir den Knaben nährt?",
+		"biblePassageTipp": "2.Mose 2,7",
+		"choice1": "Miriam",
+		"choice2": "Jochebed",
+		"choice3": "Dienerin",
+		"choice4": "Leibmagd",
+		"answer": 1
+	},
+	{
+		"question": "Nimm dieses Knäblein mit und nähre es mir! Ich will dir den Lohn dafür geben.",
+		"biblePassageTipp": "2.Mose 2,9",
+		"choice1": "Tochter des Pharao",
+		"choice2": "Miriam",
+		"choice3": "Jochebed",
+		"choice4": "Leibmagd",
+		"answer": 1
+	},
+	{
+		"question": "Warum schlägst du deinen Volksgenossen?",
+		"biblePassageTipp": "2.Mose 2,13",
+		"choice1": "Mose",
+		"choice2": "Aaron",
+		"choice3": "Aufseher",
+		"choice4": "Soldat",
+		"answer": 1
+	},
+	{
+		"question": "Wer hat dich zum Obermann und Richter über uns bestellt? Willst du mich etwa auch totschlagen, wie du den Ägypter totgeschlagen hast?",
+		"biblePassageTipp": "2.Mose 2,14",
+		"choice1": "unrechter Hebräer",
+		"choice2": "unrechter Midianiter",
+		"choice3": "unrechter Ägypter",
+		"choice4": "unrechter Edomiter",
+		"answer": 1
+	},
+	{
+		"question": "Ein äyptischer Mann hat uns gegen die Hirten in Schutz genommen, ja, er hat sogar das Schöpfen für uns besorgt und die Herde getränkt.",
+		"biblePassageTipp": "2.Mose 2,19",
+		"choice1": "Reguels Töchter",
+		"choice2": "Elimelechs Schwiegertöchter",
+		"choice3": "Mordechais Nichte",
+		"choice4": "Jakobs Cousine",
+		"answer": 1
+	},
+	{
+		"question": "Und wo ist er? Warum habt ihr denn den Mann dort draußen gelassen? Ladet ihn doch zum Essen ein!",
+		"biblePassageTipp": "2.Mose 2,20",
+		"choice1": "Reguel",
+		"choice2": "Elimelech",
+		"choice3": "Mordechai",
+		"choice4": "Jakob",
+		"answer": 1
+	},
+	{
+		"question": "Ich will doch hingehen und mir diese wunderbare Erscheinung ansehen, warum der Dornbusch nicht verbrennt.",
+		"biblePassageTipp": "2.Mose 3,3",
+		"choice1": "Mose",
+		"choice2": "Aaron",
+		"choice3": "Jona",
+		"choice4": "Elia",
+		"answer": 1
+	},
+	{
+		"question": "Tritt nicht näher heran! Ziehe dir die Schuhe aus von den Füßen; denn die Stätte, auf der du stehst, ist heiliger Boden.",
+		"biblePassageTipp": "2.Mose 3,5",
+		"choice1": "Gott",
+		"choice2": "Engel",
+		"choice3": "Elia",
+		"choice4": "Jeremia",
+		"answer": 1
+	},
+	{
+		"question": "Ich habe das Elend meines Volkes in Ägypten angesehen und habe ihr Geschrei gehört über die, welche sie treiben; ja ich kenne ihre Schmerzen",
+		"biblePassageTipp": "2.Mose 3,7",
+		"choice1": "Gott",
+		"choice2": "Mose",
+		"choice3": "Engel",
+		"choice4": "Aaron",
+		"answer": 1
+	},
+	{
+		"question": "Wer bin ich, dass ich zum Pharao gehen und die Israeliten aus Ägypten hinausführen sollte?",
+		"biblePassageTipp": "2.Mose 3,11",
+		"choice1": "Mose",
+		"choice2": "Aaron",
+		"choice3": "Miriam",
+		"choice4": "Josua",
+		"answer": 1
+	},
+	{
+		"question": "Ich bin, der ich bin.",
+		"biblePassageTipp": "2.Mose 3,14",
+		"choice1": "Gott",
+		"choice2": "Engel",
+		"choice3": "Mose",
+		"choice4": "Aaron",
+		"answer": 1
+	},
+	{
+		"question": "Wenn ich nun aber zu den Israeliten komme und ihnen sage: 'Der Gott eurer Väter hat mich zu euch gesandt', und wenn sie mich dann fragen; 'Wie heißt er denn?', was soll ich ihnen dann antworten?",
+		"biblePassageTipp": "2.Mose 3,13",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "David",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Ach, sie werden mir nicht glauben und auf meine Aussagen nicht hören, sondern behaupten: 'Der HERR ist dir nicht erschienen!",
+		"biblePassageTipp": "2.Mose 4,1",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "David",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Bitte, HERR! Ich bin kein Mann, der zu reden versteht; ich bin es früher nicht gewesen und bin es auch jetzt nicht, seitdem du zu deinem Knecht redest, sondern ich bin mit Mund und Zunge unbeholfen.",
+		"biblePassageTipp": "2.Mose 4,10",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "David",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Bittte, HERR! Sende lieber einen andern, wen du willst!",
+		"biblePassageTipp": "2.Mose 4,13",
+		"choice1": "Mose",
+		"choice2": "Jesaja",
+		"choice3": "David",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Ich möchte doch einmal zu meinen Angehörigen nach Ägypten zurückkehren, um zu sehen, ob sie noch am Leben sind.",
+		"biblePassageTipp": "2.Mose 4,18",
+		"choice1": "Mose",
+		"choice2": "Daniel",
+		"choice3": "David",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Ich aber werde sein Herz verhärten, dass er das Volk nicht ziehen lässt.",
+		"biblePassageTipp": "2.Mose 4,21",
+		"choice1": "Gott",
+		"choice2": "Engel",
+		"choice3": "Mose",
+		"choice4": "Josua",
+		"answer": 1
+	},
+	{
+		"question": "Ein Blutbräutigam bist du mir!",
+		"biblePassageTipp": "2.Mose 4,25",
+		"choice1": "Zippora",
+		"choice2": "Sara",
+		"choice3": "Rahel",
+		"choice4": "Rebekka",
+		"answer": 1
+	},
+	{
+		"question": "So hat der HERR, der Gott Israels, gesprochen: 'Lass mein Volk ziehen, damit sie mir ein Fest in der Wüste feiern!'",
+		"biblePassageTipp": "2.Mose 5,1",
+		"choice1": "Mose und Aaron",
+		"choice2": "Mose und Josua",
+		"choice3": "Miriam und Aaron",
+		"choice4": "Daniel und seine Freunde",
+		"answer": 1
+	},
+	{
+		"question": "Wer ist der HERR, dass ich seinen Befehlen gehorchen und Israel ziehen lassen müsste? Ich kenne (diesen) HERRN nicht und will auch Israel nicht ziehen lassen.",
+		"biblePassageTipp": "2.Mose 5,2",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Der Gott der Hebräer ist uns erschienen; wir möchten nun drei Tagereisen weit in die Wüste ziehen und dem HERRN, unserm Gott, dort Schlachtopfer darbringen, damit er uns nicht mit der Pest oder mit dem Schwert heimsucht!",
+		"biblePassageTipp": "2.Mose 5,3",
+		"choice1": "Mose und Aaron",
+		"choice2": "Esra",
+		"choice3": "Sacharja",
+		"choice4": "Haggai",
+		"answer": 1
+	},
+	{
+		"question": "Warum wollt ihr, Mose und Aaron, das Volk von seiner Arbeit abziehen? Geht an eure Frondienste!",
+		"biblePassageTipp": "2.Mose 5,4",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Es gibt schon genug Gesindel im Land; und da wollt ihr sie noch von ihren Frondiensten feiern lassen?",
+		"biblePassageTipp": "2.Mose 5,5",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Ihr sollt dem Volk nicht mehr wie bisher Stroh zur Anfertigung der Ziegel liefern! Sie sollen selbst hingehen und sich Stroh zusammensuchen! Dabei sollt ihr ihnen aber dieselbe Zahl von Ziegeln, die sie bisher gefertigt haben, auferlegen, ohne etwas davon zu erlassen!",
+		"biblePassageTipp": "2.Mose 5,6",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Ihr müsst Tag für Tag die volle Arbeit leisten wie früher, als es noch Stroh gab.",
+		"biblePassageTipp": "2.Mose 5,13",
+		"choice1": "Ägyptische Antreiber",
+		"choice2": "edomitische Antreiber",
+		"choice3": "babylonische Antreiber",
+		"choice4": "midianitische Antreiber",
+		"answer": 1
+	},
+	{
+		"question": "Warum habt ihr weder gestern noch heute euren bestimmten Satz Ziegel fertiggestellt wie früher?",
+		"biblePassageTipp": "2.Mose 5,14",
+		"choice1": "Ägyptische Antreiber",
+		"choice2": "edomitische Antreiber",
+		"choice3": "babylonische Antreiber",
+		"choice4": "midianitische Antreiber",
+		"answer": 1
+	},
+	{
+		"question": "Der HERR möge es euch gedenken und euch dafür richten, dass ihr uns beim Pharao und seinen Beamten ganz verhasst gemacht und ihnen das Schwert in die Hand gegeben habt, uns umzubringen!",
+		"biblePassageTipp": "2.Mose 5,21",
+		"choice1": "Israelische Aufseher",
+		"choice2": "Miriam",
+		"choice3": "Israelische Sklaven",
+		"choice4": "Aaron",
+		"answer": 1
+	},
+	{
+		"question": "Herr! Warum lässt du diesem Volk solches Unheil widerfahren? Warum hast du mich hergesandt? Denn seitdem ich zum Pharao gegangen bin, um in deinem Namen zu reden, hat er dies Volk erst recht misshandelt, und du hast zur Rettung deines Volkes nichts getan!",
+		"biblePassageTipp": "2.Mose 5,22-23",
+		"choice1": "Mose",
+		"choice2": "Joseph",
+		"choice3": "Daniel",
+		"choice4": "Esra",
+		"answer": 1
+	},
+	{
+		"question": "Nicht einmal die Israeliten haben auf mich gehört: wie sollte da der Pharao mich anhören, zumal da ich im Reden ungewandt bin!",
+		"biblePassageTipp": "2.Mose 6,12",
+		"choice1": "Mose",
+		"choice2": "Jeschua",
+		"choice3": "Haggai",
+		"choice4": "Sacharja",
+		"answer": 1
+	},
+	{
+		"question": "Wenn der Pharao euch auffordert, ein Wunder zu eurer Beglaubigung zu verrichten, so sollst du zu Aaron saagen: 'Nimm deinen Stab und wirf ihn vor den Pharrao hin!', dann wird er zu einer großen Schlange werden.",
+		"biblePassageTipp": "2.Mose 6,9",
+		"choice1": "Gott",
+		"choice2": "Mose",
+		"choice3": "Miriam",
+		"choice4": "Amram",
+		"answer": 1
+	},
+	{
+		"question": "Legt beim HERRN Fürbitte für mich ein, dass er die Frösche von mir und meinem Volk entferne! Dann will ich das Volk ziehen lassen, damit es dem HERRN opfert.",
+		"biblePassageTipp": "2.Mose 8,4",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Verfüge über mich! Auf wann soll ich für dich, für deine Diener und dein Volk die Vertilgung der Frösche erbitten, damit sie von dir und aus deinen Palästen verschwinden und nur noch im Nil verbleiben?",
+		"biblePassageTipp": "2.Mose 8,5",
+		"choice1": "Mose",
+		"choice2": "Daniel",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Wie du wünschest, so sei es! Du sollst erkennen, dass niemand dem HERRN, unserm Gott, gleich ist. Die Frösche sollen also von dir und aus deinen Palästen, von deinen Dienern und deinem Volk weichen; nur im Nil sollen sie verbleiben!",
+		"biblePassageTipp": "2.Mose 8,6-7",
+		"choice1": "Mose",
+		"choice2": "Daniel",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Geht hin und opfert eurem Gott hier im Lande!",
+		"biblePassageTipp": "2.Mose 8,21",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Es geht nicht an, dass wir das tun; denn wir bringen dem HERRN, unserm Gott, Opfer dar, die den Ägyptern ein Greuel sind.",
+		"biblePassageTipp": "2. Mose 8,22",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Nein, drei Tagereisen weit wollen wir in die Wüste ziehen und dem HERRN, unserm Gott, dort opfern, wie er uns geboten hat.",
+		"biblePassageTipp": "2.Mose 8,23",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Ich will euch ziehen lassen, damit ihr dem HERRN, eurem Gott, in der Wüste opfern könnt; nur entfernt euch nicht zu weit und legt Fürbitte für mich ein!",
+		"biblePassageTipp": "2.Mose 8,24",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Sobald ich dich jetzt verlassen habe, will ich beim HERRN Fürbitte einlegen, dass die Hundsfliegen morgen vom Pharao, von seinen Dienern und seinem Volk verschwinden; nur möge dann der Pharao uns nicht abermals täuschen, indem er das Volk doch nicht ziehen lässt, damit es dem HERRN opfern kann!",
+		"biblePassageTipp": "2.Mose 8,25",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Diesmal habe ich mich versündigt: der HERR ist im Recht, ich aber und mein Volk sind im Unrecht!",
+		"biblePassageTipp": "2.Mose 9,27",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Sobald ich zur Stadt hinausgehe, will ich meine Hände zum HERRN ausbreiten; dann werden die Donnerschläge aufhören, und kein Hagel wird mehr fallen, damit du erkennst, dass die Erde dem HERRN gehört. Aber ich weiß wohl: du und deine Diener, ihr fürchtet euch immer noch nicht vor Gott dem HERRN.",
+		"biblePassageTipp": "2.Mose 9,29-30",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "So hat der HERR, der Gott der Hebräer, gesprochen: 'Wie lange willst du dich noch sträuben, dich vor mir zu demütigen?'",
+		"biblePassageTipp": "2.Mose 10,3",
+		"choice1": "Mose und Aaron",
+		"choice2": "Mose und Josua",
+		"choice3": "Elia und Elisa",
+		"choice4": "Eli und Samuel",
+		"answer": 1
+	},
+	{
+		"question": "Wie lange soll dieser Mensch uns noch unglücklich machen? Lass doch die Leute ziehen, damit sie dem HERRN, ihrem Gott, dienen! Siehst du noch nicht ein, dass Ägypten zugrunde gerichtet wird?",
+		"biblePassageTipp": "2.Mose 10,7",
+		"choice1": "Diener des Pharao",
+		"choice2": "Frau des Pharao",
+		"choice3": "Tochter des Pharao",
+		"choice4": "Berater des Pharao",
+		"answer": 1
+	},
+	{
+		"question": "Mit jung und alt wollen wir hinausziehen, mit unsern Söhnen und unsern Töchtern, mit unserm Kleinvieh und unsern Rindern wollen wir hinausziehen; denn wir haben ein Fest des HERRN zu feiern.",
+		"biblePassageTipp": "2.Mose 10,9",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Möge der HERR ebenso mit euch sein, wie ich euch mit Weib und Kind ziehen lasse! Seht ihr wohl, dass ihr Böses im Sinn habt? Daraus wird nichts! Ihr Männer mögt hinziehen und dem HERRN dienen: das ist ja auch euer Begehr gewesen!",
+		"biblePassageTipp": "2.Mose 10,10-11",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Ich habe mich am HERRN, eurem Gott, und an euch versündigt! Und nun vergib mir meine Verfehlung nur noch dies eine Mal und betet zum HERRN, eurem Gott, dass er wenigstens dieses Verderben von mir abwende!",
+		"biblePassageTipp": "2.Mose 10,16-17",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Zieht hin, dient dem HERRN! Nur euer Kleinvieh und eure Rinder sollen hier zurückbleiben; auch eure Frauen und Kinder mögen mit euch gehen!",
+		"biblePassageTipp": "2.Mose 10,24",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Hinweg von mir! Hüte dich, mir nochmals vor die Augen zu treten! Denn sobald du dich wieder vor mir sehen lässt, bist du des Todes!",
+		"biblePassageTipp": "2.Mose 10,28",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Nicht nur musst du selbst uns Tiere zu Schlacht- und Brandopfern mitgeben, damit wir sie dem HERRN, unserm Gott, darbringen, sondern auch unser Vieh muss mit uns ziehen: keine Klaue darf zurückbleiben!",
+		"biblePassageTipp": "2.Mose 10,25-26",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Elia",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Hierauf sollen sie etwas von dem Blut nehmen und es an die beiden Türpfosten und an die Oberschwelle an den Häusern streiche, in denen sie die Mahlzeit halten.",
+		"biblePassageTipp": "2.Mose 12,7",
+		"choice1": "Gott",
+		"choice2": "Engel",
+		"choice3": "Mose",
+		"choice4": "Josua",
+		"answer": 1
+	},
+	{
+		"question": "Geht hin und holt euch Kleinvieh, für jede Familie ein Stück, und schlachtet es als Passah!",
+		"biblePassageTipp": "2.Mose 12,21",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Salomo",
+		"choice4": "David",
+		"answer": 1
+	},
+	{
+		"question": "Macht euch auf, zieht aus meinem Volk hinweg, sowohl ihr als auch die Israeliten!",
+		"biblePassageTipp": "2.Mose 12,31",
+		"choice1": "König von Ägypten",
+		"choice2": "König von Edom",
+		"choice3": "König von Babylon",
+		"choice4": "König von Midian",
+		"answer": 1
+	},
+	{
+		"question": "Gedenkt des heutigen Tages, an dem ihr aus Ägypten weggezogen seid, aus dem Hause der Knechtschaft!",
+		"biblePassageTipp": "2.Mose 13,3",
+		"choice1": "Mose",
+		"choice2": "Esra",
+		"choice3": "Jeschua",
+		"choice4": "Haggai",
+		"answer": 1
+	},
+	{
+		"question": "Was haben wir da getan, dass wir die Israeliten aus unserm Dienst entlassen haben!",
+		"biblePassageTipp": "2.Mose 14,5",
+		"choice1": "Pharao + Diener",
+		"choice2": "Pharao + Frau",
+		"choice3": "Pharao + Tochter",
+		"choice4": "Pharao + Zauberer",
+		"answer": 1
+	},
+	{
+		"question": "Hast du uns etwa deshalb, weil es in Ägypten keine Gräber gab, mitgenommen, damit wir in der Wüste sterben? Was hast du uns da angetan, dass du uns aus Ägypten weggeführt hast!",
+		"biblePassageTipp": "2.Mose 14,11",
+		"choice1": "Israeliten",
+		"choice2": "Josephs Brüder",
+		"choice3": "Jakobs Frauen",
+		"choice4": "Amrams Kinder",
+		"answer": 1
+	},
+	{
+		"question": "Haben wir dir nicht schon in Ägypten aufs bestimmteste erklärt: 'Lass uns in Ruhe: wir wollen den Ägyptern dienen!'; denn besser wäre es für uns, den Ägyptern zu dienen, als hier in der Wüste zu sterben!",
+		"biblePassageTipp": "1.Mose 14,12",
+		"choice1": "Israeliten",
+		"choice2": "Josephs Brüder",
+		"choice3": "Jakobs Frauen",
+		"choice4": "Amrams Kinder",
+		"answer": 1
+	},
+	{
+		"question": "Fürchtet euch nicht! Haltet nur stand, so werdet ihr sehen, welche Rettung euch der HERR heute noch schaffen wird! Denn so, wie ihr die Ägypter heute seht, werdet ihr sie in alle Ewigkeit nicht wieder sehen. Der HERR wird für euch streiten, verhaltet ihr euch nur ruhig!",
+		"biblePassageTipp": "2.Mose 14,13-14",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Joseph",
+		"choice4": "Daniel",
+		"answer": 1
+	},
+	{
+		"question": "Lasst uns vor den Israeliten fliehen, denn der HERR streitet für sie gegen die Ägypter!",
+		"biblePassageTipp": "2.Mose 14,25",
+		"choice1": "Ägypter",
+		"choice2": "Kanaaniter",
+		"choice3": "Edomiter",
+		"choice4": "Midianiter",
+		"answer": 1
+	},
+	{
+		"question": "Wären wir doch durch die Hand des HERRN in Ägypten gestorben, als wir bei den Fleischtöpfen saßen und reichlich Brot zu essen hatten! Jetzt habt ihr uns in diese Wüste hinausgeführt, um diese ganze Volksgemeinde Hungers sterben zu lassen!",
+		"biblePassageTipp": "2.Mose 16,3",
+		"choice1": "Israeliten",
+		"choice2": "Josephs Brüder",
+		"choice3": "Jakobs Frauen",
+		"choice4": "Amrams Kinder",
+		"answer": 1
+	},
+	{
+		"question": "Heute Abend werdet ihr erkennen, dass der HERR es gewesen ist, der euch aus Ägypten weggeführt hat; und morgen früh, da werdet ihr die Herrlichkeit des HERRN zu sehen bekommen! Denn er hat gehört, wie ihr gegen ihn gemurrt habt; wir dagegen - was sind wir, dass ihr gegen uns murren könntet?",
+		"biblePassageTipp": "2.Mose 16,6-7",
+		"choice1": "Mose und Aaron",
+		"choice2": "Mose und Josua",
+		"choice3": "Elia und Elisa",
+		"choice4": "Eli und Samuel",
+		"answer": 1
+	},
+	{
+		"question": "Ja, daran werdet ihr (die Herrlichkeit des HERRN) erkennen, dass der HERR euch heute abend Fleisch zu essen gbt und morgen früh Brot zum Sattwerden, weil der HERR gehört hat, wie ihr gegen ihn laut gemurrt habt. Denn was sind wir? Euer Murren ist nicht gegen uns gerichtet, sondern gegen den HERRN.",
+		"biblePassageTipp": "2.Mose 16,8",
+		"choice1": "Mose",
+		"choice2": "Joseph",
+		"choice3": "Elisa",
+		"choice4": "Amos",
+		"answer": 1
+	},
+	{
+		"question": "Dies ist das Brot, das der HERR euch zum Essen gegeben hat.",
+		"biblePassageTipp": "2.Mose 16,15",
+		"choice1": "Mose",
+		"choice2": "Joseph",
+		"choice3": "Elisa",
+		"choice4": "Amos",
+		"answer": 1
+	},
+	{
+		"question": "Niemand hebe etwas davon bis zum anderen Morgen auf!",
+		"biblePassageTipp": "2.Mose 16,19",
+		"choice1": "Mose",
+		"choice2": "Joseph",
+		"choice3": "Elisa",
+		"choice4": "Amos",
+		"answer": 1
+	},
+	{
+		"question": "Warum hast du uns nur aus Ägypten hergeführt? Etwa um mich und meine Kinder und mein Vieh hier verdursten lassen?",
+		"biblePassageTipp": "2.Mose 17,3",
+		"choice1": "Israeliten",
+		"choice2": "Josephs Brüder",
+		"choice3": "Jakob",
+		"choice4": "Lea",
+		"answer": 1
+	},
+	{
+		"question": "Wähle uns Männer aus und ziehe zum Kampf mit den Amalekitern aus! Morgen will ich mich mit dem Gottesstabe in der Hand auf die Spitze des Hügels stellen.",
+		"biblePassageTipp": "2.Mose 17,9",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "David",
+		"choice4": "Salomo",
+		"answer": 1
+	},
+	{
+		"question": "Gepriesen sei der HERR, der euch aus der Gewalt der Ägypter und aus der Gewalt des Pharaos errettete und der das Volk aus der Gewaltherrschaft der Ägypter befreit hat! Nun erkenne ich, dass der HERR größer ist als alle Götter; er hat es bewiesen, als (jene) sich übermütig gegen sie benahmen.",
+		"biblePassageTipp": "2.Mose 18,10-11",
+		"choice1": "Jethro",
+		"choice2": "Aaron",
+		"choice3": "Zippora",
+		"choice4": "Miriam",
+		"answer": 1
+	},
+	{
+		"question": "Was machst du dir da mit dem Volk so viel zu schaffen? Warum sitzest du allein zu Gericht, während das ganze Volk vom Morgen bis zum Abend vor dir steht?",
+		"biblePassageTipp": "2.Mose 18,14",
+		"choice1": "Jethro",
+		"choice2": "Aaron",
+		"choice3": "Zippora",
+		"choice4": "Miriam",
+		"answer": 1
+	},
+	{
+		"question": "Ja, das Volk kommt zu mir, um Gott zu befragen; sooft sie einen Rechtshandel haben, kommen sie zu mir, damit ich Schiedsrichter zwischen den Parteien sei und ihnen Gottes Rechtssprüche und Entscheidungen kundtue.",
+		"biblePassageTipp": "2.Mose 18,15-16",
+		"choice1": "Mose",
+		"choice2": "Hiob",
+		"choice3": "Esra",
+		"choice4": "Jesaja",
+		"answer": 1
+	},
+	{
+		"question": "Nun höre mich an: ich will dir einen Rat geben, und Gott möge mit dir sein! Sei du der Vertreter des Volkes Gott gegenüber und bringe du ihre Anliegen vor Gott!",
+		"biblePassageTipp": "2.Mose 18,19",
+		"choice1": "Jethro",
+		"choice2": "Hiob",
+		"choice3": "Esra",
+		"choice4": "Jesaja",
+		"answer": 1
+	},
+	{
+		"question": "Zugleich sieh dich aber unter dem ganzen Volke nach tüchtigen, gottesfürchtigen und zuverlässigen Männern um, die keiner Bestechung zugänglich sind, und setze diese als Obermänner über sie, die einnen über tausend, andere über hundert, andere über fünfzig und andere über zehn, damit sie dem Volke jederzeit Recht sprechen, und zwar so, dass sie alle wichtigen Sachen vor dich bringen, alle geringfügigen Sachen aber selbst entscheiden!",
+		"biblePassageTipp": "2.Mose 18,21-22",
+		"choice1": "Jethro",
+		"choice2": "Hiob",
+		"choice3": "Esra",
+		"choice4": "Jesaja",
+		"answer": 1
+	},
+	{
+		"question": "Alles, was der HERR geboten hat, wollen wir tun!",
+		"biblePassageTipp": "2.Mose 19,8",
+		"choice1": "Israeliten",
+		"choice2": "Noomi und Rut",
+		"choice3": "Jakobs Frauen",
+		"choice4": "Joseph",
+		"answer": 1
+	},
+	{
+		"question": "Das Volk kann ja nicht auf den Berg Sinai hinaufsteigen; denn du selbst hast uns gewarnt und mir geboten, eine Grenze um den Berg festzusetzen und ihn für unnahbar zu erklären.",
+		"biblePassageTipp": "2.Mose 19,23",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Aaron",
+		"choice4": "Miriam",
+		"answer": 1
+	},
+	{
+		"question": "Rede du mit uns, dann wollen wir zuhören; Gott aber möge nicht mit uns reden, sonst müssen wir sterben!",
+		"biblePassageTipp": "2.Mose 20,19",
+		"choice1": "Israeliten",
+		"choice2": "Pharao",
+		"choice3": "Nebukadnezar",
+		"choice4": "Hofni + Pinhas",
+		"answer": 1
+	},
+	{
+		"question": "Fürchtet euch nicht! Denn Gott ist nur deshalb gekommen, um euch auf die Probe zu stellen und damit die Furcht vor ihm euch gegenwärtig bleibt, auf dass ihr nicht sündigt.",
+		"biblePassageTipp": "2.Mose 20,20",
+		"choice1": "Mose",
+		"choice2": "Sacharja",
+		"choice3": "Jeremia",
+		"choice4": "Samuel",
+		"answer": 1
+	},
+	{
+		"question": "Auf! Mache uns einen Gott, der vor uns herziehen soll! Denn von diesem Mose, dem Mann, der uns aus dem Land Ägypten hierher geführt hat, wissen wir nicht, was aus ihm geworden ist.",
+		"biblePassageTipp": "2.Mose 32,1",
+		"choice1": "Israeliten",
+		"choice2": "Miriam",
+		"choice3": "Aaron",
+		"choice4": "Zippora",
+		"answer": 1
+	},
+	{
+		"question": "Reißt die goldenen Ringe ab, die eure Frauen und eure Söhne und Töchter in den Ohren tragen, und bringt sie mir her!",
+		"biblePassageTipp": "2.Mose 32,2",
+		"choice1": "Aaron",
+		"choice2": "Miriam",
+		"choice3": "Josua",
+		"choice4": "Zippora",
+		"answer": 1
+	},
+	{
+		"question": "Dies ist dein Gott, Israel, der dich aus dem Land Ägypten herausgeführt hat!",
+		"biblePassageTipp": "2.Mose 32,4",
+		"choice1": "Israeliten",
+		"choice2": "Mose",
+		"choice3": "Josua",
+		"choice4": "Aaron",
+		"answer": 1
+	},
+	{
+		"question": "Warum, o HERR, soll dein Zorn gegen dein Volk entbrennen, das du mit großer Kraft und starkem Arm aus dem Land Ägypten herausgeführt hast?",
+		"biblePassageTipp": "2.Mose 32, 11",
+		"choice1": "Mose",
+		"choice2": "Gideon",
+		"choice3": "Abimelech",
+		"choice4": "Juda",
+		"answer": 1
+	},
+	{
+		"question": "Das klingt nicht wie Geschrei von Siegern und auch nicht wie Geschrei von Besiegten: nein, lautes Singen höre ich!",
+		"biblePassageTipp": "2.Mose 32,18",
+		"choice1": "Mose",
+		"choice2": "David",
+		"choice3": "Salomo",
+		"choice4": "Saul",
+		"answer": 1
+	},
+	{
+		"question": "Was hat dir dieses Volk getan, dass du es zu einer so großen Sünde verführt hast?",
+		"biblePassageTipp": "2.Mose 32,21",
+		"choice1": "Mose",
+		"choice2": "Samuel",
+		"choice3": "Hiskia",
+		"choice4": "Hosea",
+		"answer": 1
+	},
+	{
+		"question": "Mein Herr möge nicht in Zorn geraten! Du weißt selbst, wie das Volk zum Bösen geneigt ist. Sie forderten mich auf: 'Mach uns einen Gott, der vor uns herziehen soll! Denn von diesem Mose, dem Mann, der uns aus dem Land Ägypten hergeführt hat, wissen wir nicht, was aus ihm geworden ist.'",
+		"biblePassageTipp": "2.Mose 32,22-23",
+		"choice1": "Aaron",
+		"choice2": "Bezalel",
+		"choice3": "Miriam",
+		"choice4": "Jethro",
+		"answer": 1
+	},
+	{
+		"question": "Ihr habt eine schwere Sünde begangen; darum will ich jetzt zum HERRN hinaufsteigen! Vielleicht kann ich euch Sühne für eure Sünde erwirken.",
+		"biblePassageTipp": "2.Mose 32,30",
+		"choice1": "Mose",
+		"choice2": "Elia",
+		"choice3": "Habakuk",
+		"choice4": "Samuel",
+		"answer": 1
+	},
+	{
+		"question": "Ach bitte! Dieses Volk hat eine schwere Sünde begangen: es hat sich einen Gott aus Gold angefertigt! Und nun - vergib ihnen doch ihre Sünde! Wo nicht, so streiche lieber mich aus deinem Buche aus, das du geschrieben hast!",
+		"biblePassageTipp": "2.Mose 32,31-32",
+		"choice1": "Mose",
+		"choice2": "Elia",
+		"choice3": "Habakuk",
+		"choice4": "Samuel",
+		"answer": 1
+	},
+	{
+		"question": "Siehe, du hast mir wohl geboten, dieses Volk hinaufzuführen, hast mich aber nicht wissen lassen, wen du mit mir senden willst; und doch hast du zu mir gesagt: 'Ich kenne dich mit Namen, und du hast auch Gnade bei mir gefunden!'",
+		"biblePassageTipp": "2.Mose 33,12",
+		"choice1": "Mose",
+		"choice2": "Josua",
+		"choice3": "Sacharja",
+		"choice4": "Haggai",
+		"answer": 1
+	},
+	{
+		"question": "Wenn du nicht in Person mitziehst, so lass uns lieber nicht von hier wegziehen! Woran soll man denn sonst erkennen, dass ich samt deinem Volk Gnade bei dir gefunden habe? Doch eben daran, dass du mit uns ziehst und dass wir, ich und dein Volk, dadurch vor allen Völkern auf dem Erdboden ausgezeichnet werden.",
+		"biblePassageTipp": "2.Mose 33,15-16",
+		"choice1": "Mose",
+		"choice2": "Abraham",
+		"choice3": "Jakob",
+		"choice4": "Haggai",
+		"answer": 1
+	},
+	{
+		"question": "Lass mich doch deine Herrlichkeit schauen!",
+		"biblePassageTipp": "2.Mose 33,18",
+		"choice1": "Mose",
+		"choice2": "Elia",
+		"choice3": "Henoch",
+		"choice4": "Johannes",
+		"answer": 1
+	},
+	{
+		"question": "Habe ich irgend Gnade bei dir, o Herr, gefunden, so wolle mein Herr doch in unserer Mitte einherziehen! Denn es ist ein halsstarriges Volk. Aber vergib uns unsere Schuld und Sünde und lass uns dein Eigentum sein!",
+		"biblePassageTipp": "2.Mose 34,9",
+		"choice1": "Mose",
+		"choice2": "Elia",
+		"choice3": "Habakuk",
+		"choice4": "Samuel",
+		"answer": 1
+	}
+],
+ "Matthäus": [
+    {
+      "question": "\"Josef, Sohn Davids, trage keinerlei Bedenken, Maria, deine Verlobte, als Ehefrau zu dir zu nehmen.\"",
+      "biblePassageTipp": "Matthäus 1,20",
+      "choice1": "Gabriel",
+      "choice2": "Michael",
+      "choice3": "Zacharias",
+      "choice4": "Jesus",
+      "answer": 1
+    },
+    {
+      "question": "\"Wo ist der neugeborene König der Juden? Wir haben nämlich seinen Stern im Osten gesehen und sind hergekommen, um ihm unsere Huldigung darzubringen.\"",
+      "biblePassageTipp": "Matthäus 2,2",
+      "choice1": "Die Weisen",
+      "choice2": "Die Hirten",
+      "choice3": "Herodes Gefolge",
+      "choice4": "Die Priester",
+      "answer": 1
+    },
+    {
+      "question": "\"Zieht hin und stellt genaue Nachforschungen nach dem Kindlein an.\"",
+      "biblePassageTipp": "Matthäus 2,8",
+      "choice1": "Herodes",
+      "choice2": "Augustus",
+      "choice3": "Pilatus",
+      "choice4": "Agrippa",
+      "answer": 1
+    },
+    {
+      "question": "\"Steh auf, nimm das Kindlein und seine Mutter mit dir und fliehe nach Ägypten.\"",
+      "biblePassageTipp": "Matthäus 2,13",
+      "choice1": "Ein Engel",
+      "choice2": "Gabriel",
+      "choice3": "Michael",
+      "choice4": "Ein Prophet",
+      "answer": 1
+    },
+    {
+      "question": "\"Steh auf, nimm das Kindlein und seine Mutter zu dir und ziehe heim ins Land Israel!\"",
+      "biblePassageTipp": "Matthäus 2,20",
+      "choice1": "Ein Engel",
+      "choice2": "Gabriel",
+      "choice3": "Michael",
+      "choice4": "Ein Prophet",
+      "answer": 1
+    },
+    {
+      "question": "\"Tut Buße, denn das Himmelreich ist nahe herbeigekommen.\"",
+      "biblePassageTipp": "Matthäus 3,2+4,17; Markus 1,15",
+      "choice1": "Johannes der Täufer und Jesus",
+      "choice2": "Petrus und Andreas",
+      "choice3": "Paulus und Timotheus",
+      "choice4": "Jakobus und Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"So schafft denn Früchte, de der Buße würdig sind, und lasst euch nicht in den Sinn kommen, bei euch zu sagen: 'Wir haben ja Abraham zu Vater.' Denn ich sage euch: Gott vermag dem Abraham aus den Steinen hier Kinder zu erwecken.\"",
+      "biblePassageTipp": "Matthäus 3,8-9; Lukas 3,8",
+      "choice1": "Johannes der Täufer",
+      "choice2": "Jesus",
+      "choice3": "Philippus",
+      "choice4": "Stephanus",
+      "answer": 1
+    },
+    {
+      "question": "\"Ich taufe euch nur mit Wasser zur Buße; der aber nach mir kommt, ist stärker als ich, und ich bin nicht gut genug, ihm seine Schuhe abzunehmen: der wird euch mit heiligem Geist und mit Feuer taufen.\"",
+      "biblePassageTipp": "Matthäus 3,11; Markus 1,7; Lukas 3,16",
+      "choice1": "Johannes der Täufer",
+      "choice2": "Zacharias",
+      "choice3": "Apollos",
+      "choice4": "Simeon",
+      "answer": 1
+    },
+    {
+      "question": "\"Ich müsste von dir getauft werden, und du kommst zu mir?\"",
+      "biblePassageTipp": "Matthäus 3,14",
+      "choice1": "Johannes der Täufer",
+      "choice2": "Simon",
+      "choice3": "Andreas",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Lass es für diesmal geschehen, denn so gebührt es uns, alle Gerechtigkeit zu erfüllen.\"",
+      "biblePassageTipp": "Matthäus 3,15",
+      "choice1": "Jesus",
+      "choice2": "Stephanus",
+      "choice3": "Jakobus",
+      "choice4": "Paulus",
+      "answer": 1
+    },
+    {
+      "question": "\"Dieser ist mein geliebter Sohn, an dem ich Wohlgefallen gefunden habe.\"",
+      "biblePassageTipp": "Matthäus 3,17; Markus 1,11; Lukas 3,22",
+      "choice1": "Gott, der Vater",
+      "choice2": "Der Heilige Geist",
+      "choice3": "Ein Prophet",
+      "choice4": "Ein Engel",
+      "answer": 1
+    },
+    {
+      "question": "\"Bist du Gottes Sohn, so gebiete, dass diese Steine zu Broten werden.\"",
+      "biblePassageTipp": "Matthäus 4,3; Lukas 4,3",
+      "choice1": "Der Teufel",
+      "choice2": "Ein Dämon",
+      "choice3": "Ein Jünger",
+      "choice4": "Ein Pharisäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Bist du Gottes Sohn, so stürze dich hier hinab! Denn es steht geschrieben: 'Er wird seine Engel für dich entbieten, und sie werdendich auf den Armen tragen, damit du mit deinem Fuß an keinen Stein stoßest.\"",
+      "biblePassageTipp": "Matthäus 4,6; Lukas 4,9-10",
+      "choice1": "Der Teufel",
+      "choice2": "Ein Dämon",
+      "choice3": "Ein römischer Soldat",
+      "choice4": "Ein Sadduzäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Dies alles will ich dir geben, wenn du dich nierderwirfst und mich anbetest.\"",
+      "biblePassageTipp": "Matthäus 4,9; Lukas 4,6-7",
+      "choice1": "Der Teufel",
+      "choice2": "Gott",
+      "choice3": "Herodes der Große",
+      "choice4": "Der Hohe Priester",
+      "answer": 1
+    },
+    {
+      "question": "\"Weg mit dir, Satan! Denn es steht geschrieben: 'Den Hern, deinen Gott, sollst du anbeten und ihm allein dienen!'\"",
+      "biblePassageTipp": "Matthäus 4,10; Lukas 4,8",
+      "choice1": "Jesus",
+      "choice2": "Paulus",
+      "choice3": "Petrus",
+      "choice4": "Timotheus",
+      "answer": 1
+    },
+    {
+      "question": "\"Kommt, folgt mir nach, so will ich euch zu Menschenfischern machen!\"",
+      "biblePassageTipp": "Matthäus 4,19; Markus 1,17",
+      "choice1": "Jesus",
+      "choice2": "Paulus",
+      "choice3": "Simon (der Zylot)",
+      "choice4": "Barnabas",
+      "answer": 1
+    },
+    {
+      "question": "\"Selig sind, die nach der Gerechtigkeit hungern und dürsten, denn sie werden gesättigt werden!\"",
+      "biblePassageTipp": "Matthäus 5,6",
+      "choice1": "Jesus",
+      "choice2": "Johannes",
+      "choice3": "Judas",
+      "choice4": "Apollos",
+      "answer": 1
+    },
+    {
+      "question": "\"Selig sind die Barmherzigen, denn sie werden Barmherzigkeit erlangen!\"",
+      "biblePassageTipp": "Matthäus 5,7",
+      "choice1": "Jesus",
+      "choice2": "Nikodemus",
+      "choice3": "Petrus",
+      "choice4": "Hananias",
+      "answer": 1
+    },
+    {
+      "question": "\"Selig sind die Friedfertigen, denn sie werden Söhne Gottes heißen!\"",
+      "biblePassageTipp": "Matthäus 5,9",
+      "choice1": "Jesus",
+      "choice2": "Jakobus",
+      "choice3": "Ein Engel",
+      "choice4": "Kornelius",
+      "answer": 1
+    },
+    {
+      "question": "\"Ihr seid das Licht der Welt!\"",
+      "biblePassageTipp": "Matthäus 5,14",
+      "choice1": "Jesus",
+      "choice2": "Paulus",
+      "choice3": "Petrus",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Bis Himmel und Erde vergehen, wird vom Gesetz nicht ein einziges Jota und kein Strichlein vergehen, bis alles in Erfüllung gegangen ist.\"",
+      "biblePassageTipp": "Matthäus 5,18",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Ein Pharisäer",
+      "choice4": "Ein Sadduzäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Wenn dich also dein rechtes Auge ärgert, so reiß es aus und wirf es weg von dir; denn s ist besser für dich, dass eines deiner Glieder verloren geht, als dass dein ganzer Leib in die Hölle geworfen wird.\"",
+      "biblePassageTipp": "Matthäus 5,29",
+      "choice1": "Jesus",
+      "choice2": "Jakobus",
+      "choice3": "Petrus",
+      "choice4": "Thomas",
+      "answer": 1
+    },
+    {
+      "question": "\"Ihr sollt dem Bösen keinen Widerstand leisten; sondern wer dich auf die rechte Wange schlägt, dem halte auch die andere hin.\"",
+      "biblePassageTipp": "Matthäus 5,39",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Der reiche Jüngling",
+      "choice4": "Stephanus",
+      "answer": 1
+    },
+    {
+      "question": "\"Darum sollt ihr vollkommen sein, wie euer himmlischer Vater vollkommen ist.\"",
+      "biblePassageTipp": "Matthäus 5,48",
+      "choice1": "Jesus",
+      "choice2": "Paulus",
+      "choice3": "Apollos",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Du aber, wenn du beten willst, so geh in deine Kammer, schließe deine Tür zu und bete zu deinem Vater, der im Verborgenen ist; dein Vater aber, der auch ins Verborgene hineinsieht, wird es dir alsdann vergelten.\"",
+      "biblePassageTipp": "Matthäus 6,6",
+      "choice1": "Jesus",
+      "choice2": "Lukas",
+      "choice3": "Markus",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Sammelt euch nicht Schätze hier auf der Erde, wo Motten und Rost sie vernichten und wo Diebe einbrechen und stehlen! Sammelt euch vielmehr Schätze im Himmel, wo ewrder Mottennoch Rost sie vernichten und wo keine Diebe einbrechen und stehlen!\"",
+      "biblePassageTipp": "Matthäus 6,19-20",
+      "choice1": "Jesus",
+      "choice2": "Maria",
+      "choice3": "Elisabeth",
+      "choice4": "Zachäus",
+      "answer": 1
+    },
+    {
+      "question": "\"Macht euch keine Sorgen um den morgenden Tag! Denn der morgende Tag wird seine eigenen Sorgen haben.\"",
+      "biblePassageTipp": "Matthäus 6,34",
+      "choice1": "Jesus",
+      "choice2": "Josef",
+      "choice3": "Petrus",
+      "choice4": "Paulus",
+      "answer": 1
+    },
+    {
+      "question": "\"Richtet nicht, damit ihr nicht gerichtet werdet!\"",
+      "biblePassageTipp": "Matthäus 7,1; Lukas 6,37",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Silas",
+      "choice4": "Aquilla",
+      "answer": 1
+    },
+    {
+      "question": "\"Was siehst du aber den Splitter im Auge deines Bruders, während du den Balken in deinem eigenen Auge nicht wahrnimmst?\"",
+      "biblePassageTipp": "Matthäus 7,3; Lukas 6,41",
+      "choice1": "Jesus",
+      "choice2": "Petrus  ",
+      "choice3": "Nikodemus",
+      "choice4": "Matthias",
+      "answer": 1
+    },
+    {
+      "question": "\"Gehet durch die Enge Pforte ein; denn weit ist die Pforte und breit der Weg, derins Verderben führt, und es sind ihrer viele, die auf ihm hineingehen. Eng dagegen ist die Pforte und schmal der Weg, derins Leben führt, und nur wenige sind es, die ihn finden.\"",
+      "biblePassageTipp": "Matthäus 7,13-14; Lukas 13,24",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Timotheus",
+      "choice4": "Paulus",
+      "answer": 1
+    },
+    {
+      "question": "\"Darum wird jeder, der diese meine Worte hört und nach ihnen tut, einem klugen Manne gleichen, der sein Haus auf Felsengrund gebaut hat.\"",
+      "biblePassageTipp": "Matthäus 7,24; Lukas 6,47-48",
+      "choice1": "Jesus",
+      "choice2": "Salomo",
+      "choice3": "Gabriel",
+      "choice4": "Bartholomäus",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, wenn du willst, kannst du mich reinigen.\"",
+      "biblePassageTipp": "Matthäus 8,2; Markus 1,40; Lukas 5,12",
+      "choice1": "Ein Aussätziger",
+      "choice2": "Ein von Dämonen Besessener",
+      "choice3": "Ein Blinder",
+      "choice4": "Ein Lahmer",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, mein Diener liegt gelähmt bei mir zu Hause darnieder und leidet schreckliche Schmerzen.\"",
+      "biblePassageTipp": "Matthäus 8,6; Lukas 7,3",
+      "choice1": "Ein Hauptmann",
+      "choice2": "Ein Priester",
+      "choice3": "Ein Jünger Jesu",
+      "choice4": "Ein Schriftgelehrter",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, ich bin nicht wert, dass du unter mein Dach trittst; nein, gebite nur mit einem Wort, dann wird mein Diener gesund werden.\"",
+      "biblePassageTipp": "Matthäus 8,8; Lukas 7,6",
+      "choice1": "Ein Hauptmann",
+      "choice2": "Eine Samaritanerin",
+      "choice3": "Eine arme Witwe",
+      "choice4": "Simon der Zylot",
+      "answer": 1
+    },
+    {
+      "question": "\"Meister, ich will dir folgen, wohin du auch gehst!\"",
+      "biblePassageTipp": "Matthäus 8,19; Lukas 9,57",
+      "choice1": "Ein Schriftgelehrter",
+      "choice2": "Thomas",
+      "choice3": "Der reiche Jüngling",
+      "choice4": "Ein Synagogenvorsteher",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, erlaube mir, zuerst noch hinzugehen und meinen Vater zu begraben.\"",
+      "biblePassageTipp": "Matthäus 8,21; Lukas 9,59",
+      "choice1": "Ein Jünger",
+      "choice2": "Ein Priester",
+      "choice3": "Ein Sadduzäer",
+      "choice4": "Ein Pharisäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, hilf uns: wir gehen unter!\"",
+      "biblePassageTipp": "Matthäus 8,25; Markus 4,38; Lukas 8,24",
+      "choice1": "Die Jünger",
+      "choice2": "Jesu Geschwister",
+      "choice3": "Römische Gefangene",
+      "choice4": "Jüdische Sklaven",
+      "answer": 1
+    },
+    {
+      "question": "\"Was ist das für ein Mann, dass sogar die Winde und der See ihm gehorsam sind!\"",
+      "biblePassageTipp": "Matthäus 8,27; Markus 4,41; Lukas 8,25",
+      "choice1": "Die Leute",
+      "choice2": "Die Gefangenen",
+      "choice3": "Die römischen Soldaten",
+      "choice4": "Die Jünger",
+      "answer": 1
+    },
+    {
+      "question": "\"Was hast du mit uns vor, du Sohn Gottes? Bist du hergekommen, um uns vor der Zeit zu quälen?\"",
+      "biblePassageTipp": "Matthäus 8,29; Markus 5,7; Lukas 8,28",
+      "choice1": "Zwei Besessene",
+      "choice2": "Zehn Aussätzige",
+      "choice3": "Vier Betrunkene",
+      "choice4": "Drei Verräter",
+      "answer": 1
+    },
+    {
+      "question": "\"Sei getrost, mein Sohn: deine Sünden sind dir vergeben!\"",
+      "biblePassageTipp": "Matthäus 9,2; Markus 2,5; Lukas 5,20",
+      "choice1": "Jesus",
+      "choice2": "Ein Engel",
+      "choice3": "Petrus",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Steh auf, nimm dein Bett und gehe heim in dein Haus!\"",
+      "biblePassageTipp": "Matthäus 9,6; Markus 2,11; Lukas 5,24",
+      "choice1": "Jesus",
+      "choice2": "Paulus",
+      "choice3": "Barnabas",
+      "choice4": "Timotheus",
+      "answer": 1
+    },
+    {
+      "question": "\"Warum isst euer Meister mit den Zöllnern und Sündern?\"",
+      "biblePassageTipp": "Matthäus 9,11; Markus 2,16; Lukas 5,30",
+      "choice1": "Die Pharisäer",
+      "choice2": "Der reiche Jüngling",
+      "choice3": "Ein Synagogenvorsteher",
+      "choice4": "Eine Samariterin",
+      "answer": 1
+    },
+    {
+      "question": "\"Die Gesunden haben keinen Arzt nötig, wohl aber die Kranken!\"",
+      "biblePassageTipp": "Matthäus 9,12; Markus 2,17; Lukas 5,31",
+      "choice1": "Jesus",
+      "choice2": "Nikodemus",
+      "choice3": "Jakobus",
+      "choice4": "Matthäus",
+      "answer": 1
+    },
+    {
+      "question": "\"Warum fasten wir und die Pharisäer, während deine Jünger es nicht tun?\"",
+      "biblePassageTipp": "Matthäus 9,14; Markus 2,18",
+      "choice1": "Die Jünger des Johannes",
+      "choice2": "Jesu leibliche Familie",
+      "choice3": "Eine Gruppe frommer Samaritaner",
+      "choice4": "Nikodemus",
+      "answer": 1
+    },
+    {
+      "question": "\"Meine Tochter ist soeben gestorben; aber komm und lege ihr deine Hand auf, dann wird sie wieder zum Leben erwachen.\"",
+      "biblePassageTipp": "Matthäus 9,18; Markus 5,23",
+      "choice1": "Ein Synagogenvorsteher",
+      "choice2": "Ein römischer Hauptmann",
+      "choice3": "Ein Pharisäer",
+      "choice4": "Ein einfacher Mann",
+      "answer": 1
+    },
+    {
+      "question": "\"Wenn ich nur seinen Rock anfasse, so wird mir geholfen sein.\"",
+      "biblePassageTipp": "Matthäus 9,21; Markus 5,28",
+      "choice1": "Eine kranke Frau",
+      "choice2": "Ein Aussätziger",
+      "choice3": "Ein Gelähmter",
+      "choice4": "Ein Blinder",
+      "answer": 1
+    },
+    {
+      "question": "\"Sohn Davids, erbarme dich unser!\"",
+      "biblePassageTipp": "Matthäus 9,27",
+      "choice1": "Zwei Blinde",
+      "choice2": "Das Volk Israel",
+      "choice3": "Die Aussätzigen",
+      "choice4": "Die Freunde des Gelähmten",
+      "answer": 1
+    },
+    {
+      "question": "\"Noch niemals hat man etwas Derartiges in Israel gesehen!\"",
+      "biblePassageTipp": "Matthäus 9,33",
+      "choice1": "Die Volksmenge",
+      "choice2": "Die Pharisäer",
+      "choice3": "Salomo",
+      "choice4": "Die Fischer",
+      "answer": 1
+    },
+    {
+      "question": "\"Im Bunde mit dem Obersten der bösen Geister treibt er die Geister aus!\"",
+      "biblePassageTipp": "Matthäus 9,34; Markus 3,22; Lukas 11,15",
+      "choice1": "Die Pharisäer",
+      "choice2": "Die Sadduzäer",
+      "choice3": "Jesus",
+      "choice4": "Johannes der Täufer",
+      "answer": 1
+    },
+    {
+      "question": "\"Die Ernte ist groß, aber die Zahl der Arbeiter ist klein.\"",
+      "biblePassageTipp": "Matthäus 9,37; Lukas 10,2",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Petrus",
+      "choice4": "Paulus",
+      "answer": 1
+    },
+    {
+      "question": "\"Darum seid klug wie die Schlangen und ohne Falsch wie die Tauben!\"",
+      "biblePassageTipp": "Matthäus 10,16",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Petrus",
+      "choice4": "Paulus",
+      "answer": 1
+    },
+    {
+      "question": "\"Fürchtet euch dabei nicht vor denen, die wohl den Leib töten, aber die Seele nicht zu töten vermögen; fürchtet euch vielmehr vor dem, der die Macht hat, sowohl die Seele als den Leib in der Hölle zu verderben.\"",
+      "biblePassageTipp": "Matthäus 10,28; Lukas 12,4-5",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Johannes",
+      "choice4": "Markus",
+      "answer": 1
+    },
+    {
+      "question": "\"Wer sein Leben  findet, wird es verlieren, und wer sein Leben um meinetwillen verliert, der wird es finden.\"",
+      "biblePassageTipp": "Matthäus 10,39; Lukkas 17,33",
+      "choice1": "Jesus",
+      "choice2": "Ein Wanderprediger",
+      "choice3": "Judas",
+      "choice4": "Engel",
+      "answer": 1
+    },
+    {
+      "question": "\"Bist du es, der da kommen soll, oder sollen wir auf einen anderen warten?\"",
+      "biblePassageTipp": "Matthäus 11,3; Lukas 7,19",
+      "choice1": "Johannes der Täufer",
+      "choice2": "Nikodemus",
+      "choice3": "Simon Petrus",
+      "choice4": "Maria",
+      "answer": 1
+    },
+    {
+      "question": "\"Wir haben euch gepfiffen, doch ihr habt nicht getanzt; wir haben ein Klagelied angestimmt, doch ihr habt euch nicht an die Brust geschlagen!\"",
+      "biblePassageTipp": "Matthäus 11,17; Lukas 7,32",
+      "choice1": "Jesus",
+      "choice2": "Jesu Jünger",
+      "choice3": "Johannes Jünger",
+      "choice4": "Jeremia",
+      "answer": 1
+    },
+    {
+      "question": "\"Sieh doch! Deine Jünger tun da etwas, was man am Sabbat nicht tun darf!\"",
+      "biblePassageTipp": "Matthäus 12,2; Lukas 6,2",
+      "choice1": "Die Pharisäer",
+      "choice2": "Die Volksmenge",
+      "choice3": "Die Leute in der Synagoge",
+      "choice4": "Jünger des Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Darf man am Sabbat heilen?\"",
+      "biblePassageTipp": "Matthäus 12,10; Lukas 6,9; 14,3",
+      "choice1": "Die Leute in der Synagoge",
+      "choice2": "Nikodemus",
+      "choice3": "Die Pharisäer",
+      "choice4": "Die Sadduzäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Sollte dieser nicht doch der Sohn Davids sein?\"",
+      "biblePassageTipp": "Matthäus 12,23",
+      "choice1": "Die Volksmenge",
+      "choice2": "Nikodemus",
+      "choice3": "Die Leute in der Synagoge",
+      "choice4": "Andreas",
+      "answer": 1
+    },
+    {
+      "question": "\"Denn wovon das Herz voll ist, davon redet der Mund.\"",
+      "biblePassageTipp": "Matthäus 12,34",
+      "choice1": "Jesus",
+      "choice2": "Paulus",
+      "choice3": "Petrus",
+      "choice4": "Jakobus",
+      "answer": 1
+    },
+    {
+      "question": "\"Von jedem unnützen Wort, das die Menschen reden, davon werden sie Rechenschaft am Tage des Gericht zu geben haben; denn nach deinen Worten wirst du gerecht gesprochen werden, und nach deinen Worten wirst du verurteilt werden.\"",
+      "biblePassageTipp": "Matthäus 12,36-37",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Johannes",
+      "choice4": "Jakobus",
+      "answer": 1
+    },
+    {
+      "question": "\"Meister, wir möchten ein Wunderzeichen von dir sehen!\"",
+      "biblePassageTipp": "Matthäus 12,38; Markus 8,11",
+      "choice1": "Schriftgelehrte und Pharisäer",
+      "choice2": "Volk Israel",
+      "choice3": "Die Jünger",
+      "choice4": "Jünger des Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Ich will in mein Haus zurückkehren, das ich verlassen habe!\"",
+      "biblePassageTipp": "Matthäus 12,44; Lukas 11,24",
+      "choice1": "Ein unreiner Geist",
+      "choice2": "Jesus",
+      "choice3": "Reicher Jüngling",
+      "choice4": "Petrus",
+      "answer": 1
+    },
+    {
+      "question": "\"Deine Mutter und deine Brüder stehen draußen und wünschen dich zu sprechen.\"",
+      "biblePassageTipp": "Matthäus 12,47; Markus 3,32; Lukas 8,20",
+      "choice1": "Jemand",
+      "choice2": "Paulus",
+      "choice3": "Matthäus",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Warum redest du in Gleichnissen zu ihnen?\"",
+      "biblePassageTipp": "Matthäus 13,10",
+      "choice1": "Die Jünger",
+      "choice2": "Jesu Mutter",
+      "choice3": "Jesu Brüder",
+      "choice4": "Die Pharisäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Denn wer hat, dem wird gegeben werden, so dass er Überfluss hat; wer aber nicht hat, dem wird auch das genommen werden, was er hat.\"",
+      "biblePassageTipp": "Matthäus 13,12; Markus 4,25; Lukas 8,18",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Johannes",
+      "choice4": "Jakobus",
+      "answer": 1
+    },
+    {
+      "question": "\"Erkläre uns das Gleichnis vom Unkraut auf dem Acker!\"",
+      "biblePassageTipp": "Matthäus 13,36",
+      "choice1": "Die Jünger",
+      "choice2": "Die Volksmenge",
+      "choice3": "Die Pharisäer",
+      "choice4": "Die Schriftgelehrten",
+      "answer": 1
+    },
+    {
+      "question": "\"Woher hat dieser solche Weisheit und die Machttaten? Ist dieser nicht der Sohn des Zimmermanns?\"",
+      "biblePassageTipp": "Matthäus 13,54-55; Markus 6,2; Lukas 4,22.36",
+      "choice1": "Die Leute aus Nazareth",
+      "choice2": "Jesu Geschwister",
+      "choice3": "Die Volksmenge",
+      "choice4": "Die Schriftgelehrten",
+      "answer": 1
+    },
+    {
+      "question": "\"Das ist Johannes der Täufer; der ist von den Toten auferweckt worden; darum wirken die Wunderkräfte in ihm so wirksam!\"",
+      "biblePassageTipp": "Matthäus 14,2; Markus 6,14; Lukas 9,7-9",
+      "choice1": "Herodes (der Vierfürst)",
+      "choice2": "Die Volksmenge",
+      "choice3": "Die Pharisäer",
+      "choice4": "Jünger des Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Gib mit hier auf einer Schüssel den Kopf Johannes des Täufers.\"",
+      "biblePassageTipp": "Matthäus 14,8; Markus 6,24",
+      "choice1": "Die Tochter der Herodias",
+      "choice2": "Herodias",
+      "choice3": "Herodes",
+      "choice4": "Philippus",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, wenn du es bist, so lass mich über das Wasser zu dir kommen!\"",
+      "biblePassageTipp": "Matthäus 14,28",
+      "choice1": "Petrus",
+      "choice2": "Jakobus",
+      "choice3": "Johannes",
+      "choice4": "Matthäus",
+      "answer": 1
+    },
+    {
+      "question": "\"Du bist wahrhaftig Gottes Sohn!\"",
+      "biblePassageTipp": "Matthäus 14,33",
+      "choice1": "Die Männer im Boot",
+      "choice2": "Nikodemus",
+      "choice3": "Maria",
+      "choice4": "Die Leute in der Synagoge",
+      "answer": 1
+    },
+    {
+      "question": "\"Warum übertreten deine Jünger die Satzungen, welche uns die Alten überliefert haben?\"",
+      "biblePassageTipp": "Matthäus 15,2; Markus 7,5",
+      "choice1": "Pharisäer und Schriftgelehrte aus Jerusalem",
+      "choice2": "Nikodemus",
+      "choice3": "Die Volksmenge",
+      "choice4": "Die Leute in der Synagoge",
+      "answer": 1
+    },
+    {
+      "question": "\"Nicht das, was in den Mund hineingeht, verunreinigt den Menschen, sondern was aus dem Munde herauskommt, das macht den Menschen unrein.\"",
+      "biblePassageTipp": "Matthäus 15,11; Markus 7,20",
+      "choice1": "Jesus",
+      "choice2": "Paulus",
+      "choice3": "Petrus",
+      "choice4": "Jakobus",
+      "answer": 1
+    },
+    {
+      "question": "\"Weist du, dass die Pharisäer an dem Wort, das sie von dir haben hören müssen, Anstoß genommen haben?\"",
+      "biblePassageTipp": "Matthäus 15,12",
+      "choice1": "Die Jünger",
+      "choice2": "Barnabas",
+      "choice3": "Paulus",
+      "choice4": "Timotheus",
+      "answer": 1
+    },
+    {
+      "question": "\"Erbarme dich meiner, Herr, du Sohn Davids! Meine Tochter wird von einem bösen Geist schlimm geplagt!\"",
+      "biblePassageTipp": "Matthäus 15,22; Markus 7,26",
+      "choice1": "Eine kanaanäische Frau",
+      "choice2": "Jairus",
+      "choice3": "Ein Hauptmann",
+      "choice4": "Marias Mutter",
+      "answer": 1
+    },
+    {
+      "question": "\"Oh doch, Herr! Die Hündlein bekommen ja auch von den Brocken zu essen, die vom Tisch ihrer Herren fallen.\"",
+      "biblePassageTipp": "Matthäus 15,27; Markus 7,28",
+      "choice1": "Eine kanaanäische Frau",
+      "choice2": "Eine Samariterin",
+      "choice3": "Eine Ehebrecherin",
+      "choice4": "Eine Witwe",
+      "answer": 1
+    },
+    {
+      "question": "\"Das sagt er deshalb, weil wir keine Brote mitgenommen haben.\"",
+      "biblePassageTipp": "Matthäus 16,7",
+      "choice1": "Die Jünger",
+      "choice2": "Die 5000",
+      "choice3": "Die 4000",
+      "choice4": "Die Pharisäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Du bist Christus, der Sohn des lebendigen Gottes!\"",
+      "biblePassageTipp": "Matthäus 16,16; Markus 8,29; Lukas 9,20",
+      "choice1": "Petrus",
+      "choice2": "Nikodemus",
+      "choice3": "Johannes der Täufer",
+      "choice4": "Andreas",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, das verhüte Gott! Nimmermehr darf dir das widerfahren!\"",
+      "biblePassageTipp": "Matthäus 16,22",
+      "choice1": "Petrus",
+      "choice2": "Judas",
+      "choice3": "Johannes der Täufer",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Mir aus den Augen, Satan! Tritt hinter mich!\"",
+      "biblePassageTipp": "Matthäus 16,23; Markus 8,33",
+      "choice1": "Jesus",
+      "choice2": "Petrus",
+      "choice3": "Johannes der Täufer",
+      "choice4": "Die Pharisäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, hier sind wir gut aufgehoben! Willst du, so werde ich drei Hütten bauen, eine für dich, eine für Mose und eine für Elia.\"",
+      "biblePassageTipp": "Matthäus 17,4; Markus 9,5; Lukas 9,33",
+      "choice1": "Petrus",
+      "choice2": "Johannes",
+      "choice3": "Jakobus",
+      "choice4": "Andreas",
+      "answer": 1
+    },
+    {
+      "question": "\"Dies ist mein geliebter Sohn, an dem ich Wohlgefallen gefunden haben: höret auf ihn!",
+      "biblePassageTipp": "Matthäus 17,5; Markus 9,7; Lukas 9,35",
+      "choice1": "Eine Stimme aus der Wolke",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, erbarme dich meines Sohnes! Er ist fallsüchtig und hat schwer zu leiden; denn oft fällt er ins Feuer und oft auch ins Wasser. Ich habe ihn schon zu deinen Jüngern gebracht, doch sie haben ihn nicht heilen können.\"",
+      "biblePassageTipp": "Matthäus 17,15-16; Markus 9,17-18; Lukas 9,38-40",
+      "choice1": "Ein Mann",
+      "choice2": "Eine Frau",
+      "choice3": "Eine Witwe",
+      "answer": 1
+    },
+    {
+      "question": "\"Warum haben wir den Geist nicht austreiben können?\"",
+      "biblePassageTipp": "Matthäus 17,19; Markus 9,28",
+      "choice1": "Die Jünger",
+      "choice2": "Nikodemus",
+      "choice3": "Die Pharisäer",
+      "choice4": "Jünger des Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Der Menschensohn wird in die Hände der Menschen überliefert werden; sie werden ihn töten, und am dritten Tage wird er auferweckt werden.\"",
+      "biblePassageTipp": "Matthäus 17,22-23; Markus 9,31; Lukas 9,22",
+      "choice1": "Jesus",
+      "choice2": "Jünger des Johannes",
+      "choice3": "Johannes der Täufer",
+      "choice4": "Jesu Mutter",
+      "answer": 1
+    },
+    {
+      "question": "\"Entrichtet euer Meister die Doppeldrachme (=Tempelsteuer) nicht?",
+      "biblePassageTipp": "Matthäus 17,24",
+      "choice1": "Einsammler der Tempelsteuer",
+      "choice2": "Matthäus",
+      "choice3": "Pharisäer",
+      "choice4": "Jünger des Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Wer ist denn der Größte im Himmelreich?",
+      "biblePassageTipp": "Matthäus 18,1",
+      "choice1": "Die Jünger",
+      "choice2": "Mutter der Donnersöhne",
+      "choice3": "Die Pharisäer",
+      "choice4": "Nikodemus",
+      "answer": 1
+    },
+    {
+      "question": "\"Wahrlich ich sage euch: Wenn ihr nicht umkehrt und wie die Kinder werdet, so werdet ihr nimmermehr ins Himmelreich eingehen.\"",
+      "biblePassageTipp": "Matthäus 18,3; Markus 10,15; Lukas 18,17",
+      "choice1": "Jesus",
+      "choice2": "Paulus",
+      "choice3": "Timotheus",
+      "choice4": "Johannes der Täufer",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, wie oft muss ich meinem Bruder vergeben, wenn er sich gegen mich vergeht? Bis zu siebenmal?\"",
+      "biblePassageTipp": "Matthäus 18,21",
+      "choice1": "Petrus",
+      "choice2": "Jakobus",
+      "choice3": "Johannes",
+      "choice4": "Matthäus",
+      "answer": 1
+    },
+    {
+      "question": "\"Habe Geduld mit mir: ich will dir alles bezahlen.\"",
+      "biblePassageTipp": "Matthäus 18,26",
+      "choice1": "Der undankbare Knecht",
+      "choice2": "Petrus",
+      "choice3": "Andreas",
+      "choice4": "Ein Zollschuldner",
+      "answer": 1
+    },
+    {
+      "question": "\"Darf man seine Frau aus jedem beliebigen Grunde entlassen?\"",
+      "biblePassageTipp": "Matthäus 19,3; Markus 10,2",
+      "choice1": "Die Pharisäer",
+      "choice2": "Die Volksmenge",
+      "choice3": "Die Schriftgelehrten",
+      "choice4": "Nikodemus",
+      "answer": 1
+    },
+    {
+      "question": "\"Was somit Gott zusammengefügt hat, das soll der Mensch nicht scheiden.\"",
+      "biblePassageTipp": "Matthäus 19,6; Markus 10,9",
+      "choice1": "Jesus",
+      "choice2": "Die Schriftgelehrten",
+      "choice3": "Nikodemus",
+      "choice4": "Die Pharisäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Wenn es mit dem Rechtsverhältnis des Mannes gegenüber seiner Frau so steht, dann ist es nicht geraten, sich zu verheiraten.\"",
+      "biblePassageTipp": "Matthäus 19,10",
+      "choice1": "Die Jünger",
+      "choice2": "Die Schriftgelehrten",
+      "choice3": "Nikodemus",
+      "choice4": "Die Pharisäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Meister, was muss ich Gutes tun, um ewiges Leben zu erlangen?\"",
+      "biblePassageTipp": "Matthäus 19,16; Markus 10,17; Lukas 18,18",
+      "choice1": "Der reiche Jüngling",
+      "choice2": "Jünger des Johannes",
+      "choice3": "Petrus",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Es ist leichter, dass ein Kamel durch ein Nadelöhr hindurchgeht, als dass ein Reicher in das Reich Gottes eingeht.\"",
+      "biblePassageTipp": "Matthäus 19,24; Markus 10,24-25; Lukas 18,24-25",
+      "choice1": "Jesus",
+      "choice2": "Jünger des Johannes",
+      "choice3": "Johannes der Täufer",
+      "choice4": "Jesu Jünger",
+      "answer": 1
+    },
+    {
+      "question": "\"Siehe, wir haben alles verlassen und sind die nachgefolgt: welcher Lohn wird uns also dafür zuteil werden?\"",
+      "biblePassageTipp": "Matthäus 19,27; Markus 10,28; Lukas 18,28",
+      "choice1": "Petrus",
+      "choice2": "Jakobus",
+      "choice3": "Johannes",
+      "choice4": "Matthäus",
+      "answer": 1
+    },
+    {
+      "question": "\"Bestimme, dass diese meine beiden Söhne dereinst in deinem Königreich einer zu deiner Rechten und einer zu deiner Linken sitzen sollen.\"",
+      "biblePassageTipp": "Matthäus 20,21; Markus 10,35",
+      "choice1": "Die Mutter von Johannes und Jakobus",
+      "choice2": "Die Mutter von Petrus und Andreas",
+      "choice3": "Die Mutter von Matthäus und Jakobus",
+      "choice4": "Die Mutter von Johannes und Thomas",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, erbarme dich unser, Sohn Davids!\"",
+      "biblePassageTipp": "Matthäus 20,30; Markus 10,48; Lukas 18,38",
+      "choice1": "Zwei Blinde am Wege",
+      "choice2": "Die Jünger",
+      "choice3": "Die Volksmenge",
+      "choice4": "Zwei Lahme",
+      "answer": 1
+    },
+    {
+      "question": "\"Hosianna dem Sohne Davids! Gepriesen sei, der da kommt im Namen des Herrn!\"",
+      "biblePassageTipp": "Matthäus 21,9; Markus 11,9; Lukas 19,38",
+      "choice1": "Die Scharen",
+      "choice2": "Die Samariter",
+      "choice3": "Die Gerasener",
+      "choice4": "Die Jünger",
+      "answer": 1
+    },
+    {
+      "question": "\"Dies ist der Prophet Jesus aus Nazareth in Galiläa!\"",
+      "biblePassageTipp": "Matthäus 21,11",
+      "choice1": "Die Volksmenge",
+      "choice2": "Die Samariter",
+      "choice3": "Die Gerasener",
+      "choice4": "Die Jünger",
+      "answer": 1
+    },
+    {
+      "question": "\"Aufgrund welcher Vollmacht trittst du in dieser Weise hier auf, und wer hat dir die Vollmacht dazu gegeben?\"",
+      "biblePassageTipp": "Matthäus 21,23; Markus 11,28; Lukas 20,2",
+      "choice1": "Die Hohenpriester und Ältesten",
+      "choice2": "Pilatus",
+      "choice3": "Nikodemus",
+      "choice4": "Jünger des Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Meister, wir wissen, dass du wahrhaftig bist und den Weg Gottes mit Wahrhaftigkeit lehrst; auch nimmst du auf niemand Rücksicht, denn du siehst die Person der Menschen nicht an. So sage uns denn deine Meinung: Ist es recht, dass man dem Kaiser Steuer entrichtet, oder nicht?\"",
+      "biblePassageTipp": "Matthäs 22,16-17; Markus 12,14; Lukas 20,21-22",
+      "choice1": "Die Anhänger des Herodes",
+      "choice2": "Die Zolleintreiber",
+      "choice3": "Jünger des Johannes",
+      "choice4": "Die Jünger",
+      "answer": 1
+    },
+    {
+      "question": "\"So gebt dem Kaiser, was dem Kaiser zusteht, und Gott, was Gott zusteht!\"",
+      "biblePassageTipp": "Matthäus 22,21; Markus 12,17; Lukas 20,25",
+      "choice1": "Jesus",
+      "choice2": "Johannes",
+      "choice3": "Johannes der Täufer",
+      "choice4": "Petrus",
+      "answer": 1
+    },
+    {
+      "question": "\"Meister, Mose hat geboten: 'Wenn jemand kinderlos stirbt, so soll sein Bruder dessen Frau heiraten und für seinen Bruder das Geschlecht fortpflanzen. Nun lebten sieben Brüder bei uns …\"",
+      "biblePassageTipp": "Matthäus 22,24-25; Markus 12,19; Lukas 20,28-29",
+      "choice1": "Die Sadduzäer",
+      "choice2": "Die Volksmenge",
+      "choice3": "Die Schriftgelehrten",
+      "choice4": "Die Pharisäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Alles nun, was sie euch sagen, das tut und befolgt, aber nach ihren Werken richtet euch nicht; denn sie sagen es nur, tun es aber nicht.\"",
+      "biblePassageTipp": "Matthäus 23,3",
+      "choice1": "Jesus",
+      "choice2": "Paulus",
+      "choice3": "Petrus",
+      "choice4": "Jakobus",
+      "answer": 1
+    },
+    {
+      "question": "\"Wer sich aber selbst erhöht, wird erniedrigt werden, und wer sich selbst erniedrigt, wird erhöht werden.\"",
+      "biblePassageTipp": "Matthäus 23,12",
+      "choice1": "Jesus",
+      "choice2": "Paulus",
+      "choice3": "Petrus",
+      "choice4": "Jakobus",
+      "answer": 1
+    },
+    {
+      "question": "\"Sage uns doch: wann wird dies geschehen? Und welches ist das Zeichen deiner Ankunft und der Vollendung der Weltzeit?\"",
+      "biblePassageTipp": "Mathäus 24,3; Lukas 21,7",
+      "choice1": "Die Jünger",
+      "choice2": "Die Volksmenge",
+      "choice3": "Die Schriftgelehrten",
+      "choice4": "Die Pharisäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Himmel und Erde werden vergehen, meine Worte aber werden nimmermehr vergehen.\"",
+      "biblePassageTipp": "Matthäus 24,35",
+      "choice1": "Jesus",
+      "answer": 1
+    },
+    {
+      "question": "\"Seid also wachsam, denn ihr wisst nicht, an welchem Tage der Herr kommt.\"",
+      "biblePassageTipp": "Matthäus 24,42; Markus 13,33; Lukas 12,40",
+      "choice1": "Jesus",
+      "choice2": "Paulus",
+      "choice3": "Johannes der Täufer",
+      "choice4": "Petrus",
+      "answer": 1
+    },
+    {
+      "question": "\"Gebt uns von eurem Öl, denn unsere Lampen wollen ausgehen!\"",
+      "biblePassageTipp": "Matthäus 25,8",
+      "choice1": "Die törichten Jungfrauen",
+      "choice2": "Die Hochzeitsgesellschaft",
+      "choice3": "Die Jünger",
+      "choice4": "Die Volksmenge",
+      "answer": 1
+    },
+    {
+      "question": "\"Schön, du guter und treuer Knecht! Du bist über Wenigem treu gewesen, ich will dich über Vieles setzen: gehe ein zum Freudenmahl deines Herrn!\"",
+      "biblePassageTipp": "Matthäus 25,21",
+      "choice1": "Der Herr (aus dem Gleichnis)",
+      "choice2": "Ein Römer",
+      "choice3": "Ein Pharisäer",
+      "choice4": "Ein Zöllner",
+      "answer": 1
+    },
+    {
+      "question": "\"Nur nicht während des Festes, damit keine Unruhen unter dem Volk entstehen!\"",
+      "biblePassageTipp": "Matthäus 26,5; Markus 14,2",
+      "choice1": "Die Hohenpriester und Ältesten",
+      "choice2": "Die Römer",
+      "choice3": "Die Pharisäer",
+      "choice4": "Nikodemus",
+      "answer": 1
+    },
+    {
+      "question": "\"Wozu diese Verschwendung? Dieses Salböl hätte man doch teuer verkaufen und den Erlös den Armen geben können?\"",
+      "biblePassageTipp": "Matthäus 26,8-9; Markus 14,4-5",
+      "choice1": "Die Jünger",
+      "choice2": "Maria",
+      "choice3": "Die Pharisäer",
+      "choice4": "Nikodemus",
+      "answer": 1
+    },
+    {
+      "question": "\"Was wollt ihr mir geben, dass ich ihn euch in die Hände liefere?\"",
+      "biblePassageTipp": "Matthäus 26,15",
+      "choice1": "Judas Iskariot",
+      "choice2": "Saulus",
+      "choice3": "Pilatus",
+      "choice4": "Kaiphas",
+      "answer": 1
+    },
+    {
+      "question": "\"Mögen auch alle an dir Anstoß nehmen: ich werde niemals an dir Anstoß nehmen!\"",
+      "biblePassageTipp": "Matthäus 26,33; Markus 14,29",
+      "choice1": "Petrus",
+      "choice2": "Johannes",
+      "choice3": "Jakobus",
+      "choice4": "Andreas",
+      "answer": 1
+    },
+    {
+      "question": "\"Wachet, und betet, damit ihr nicht in Versuchung geratet! Der Geist ist willig, das Fleisch aber ist schwach.\"",
+      "biblePassageTipp": "Matthäus 26,41; Markus 14,38",
+      "choice1": "Jesus",
+      "choice2": "Johannes",
+      "choice3": "Jakobus",
+      "choice4": "Petrus",
+      "answer": 1
+    },
+    {
+      "question": "\"Der, den ich küssen werde, der ist's; den nehmt fest!\"",
+      "biblePassageTipp": "Matthäus 26,48; Markus 14,44",
+      "choice1": "Judas Iskariot",
+      "choice2": "Saulus",
+      "choice3": "Pilatus",
+      "choice4": "Judas Thaddäus",
+      "answer": 1
+    },
+    {
+      "question": "\"Entgegnest du nichts auf das, was diese Zeugen gegen dich aussagen?\"",
+      "biblePassageTipp": "Matthäus 26,62",
+      "choice1": "Der Hohepriester",
+      "choice2": "Pilatus",
+      "choice3": "Tiberius",
+      "choice4": "Herodes Antipas",
+      "answer": 1
+    },
+    {
+      "question": "\"Ich beschwöre dich bei dem lebendigen Gott: Sage uns, bist du Christus, der Sohn Gottes?\"",
+      "biblePassageTipp": "Matthäus 26,63; Markus 14,61; Lukas 22,70",
+      "choice1": "Der Hohepriester",
+      "choice2": "Nikodemus",
+      "choice3": "Johannes der Täufer",
+      "choice4": "Jünger des Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Er hat Gott gelästert! Wozu brauchen wir noch Zeugen? Jetzt habt ihr selbst die Gotteslästerung gehört! Was urteilt ihr?\"",
+      "biblePassageTipp": "Matthäus 26,65; Lukas 22,71",
+      "choice1": "Der Hohepriester",
+      "choice2": "Pilatus",
+      "choice3": "Tiberius",
+      "choice4": "Herodes Antipas",
+      "answer": 1
+    },
+    {
+      "question": "\"Du bist auch bei Jesus, dem Galiläer, gewesen!\"",
+      "biblePassageTipp": "Matthäus 26,69; Markus 14,67; Lukas 22,59",
+      "choice1": "Eine Magd",
+      "choice2": "Ein Knecht",
+      "choice3": "Ein Pharisäer",
+      "choice4": "Ein Schriftgelehrter",
+      "answer": 1
+    },
+    {
+      "question": "\"Ich habe unrecht getan, dass ich unschuldiges Blut überantwortet habe!\"",
+      "biblePassageTipp": "Matthäus 27,4",
+      "choice1": "Judas Iskariot",
+      "choice2": "Saulus",
+      "choice3": "Paulus",
+      "choice4": "Pilatus",
+      "answer": 1
+    },
+    {
+      "question": "\"Bist du der König der Juden?\"",
+      "biblePassageTipp": "Matthäus 27,11; Markus 15,2; Lukas 23,3",
+      "choice1": "Der Statthalter",
+      "choice2": "Tiberius",
+      "choice3": "Herodes Antipas",
+      "choice4": "Der Hohepriester",
+      "answer": 1
+    },
+    {
+      "question": "\"Wen soll ich freigeben, Barabbas oder Jesus, den man Christus nennt?\"",
+      "biblePassageTipp": "Matthäus 27,17; Markus 15,9",
+      "choice1": "Pilatus",
+      "choice2": "Kaiphas",
+      "choice3": "Tiberius",
+      "choice4": "Herodes Antipas",
+      "answer": 1
+    },
+    {
+      "question": "\"Habe du mit diesem Gerechten nichts zu schaffen! Denn ich habe heute Nacht im Traum viel um seinetwillen ausgestanden.\"",
+      "biblePassageTipp": "Matthäus 27,19",
+      "choice1": "Die Frau des Pilatus",
+      "choice2": "Die Frau des Kaiphas",
+      "choice3": "Die Frau des Tiberius",
+      "choice4": "Die Frau des Herodes",
+      "answer": 1
+    },
+    {
+      "question": "\"Ich bin am Blut dieses Gerechten unschuldig; seht ihr zu!\"",
+      "biblePassageTipp": "Matthäus 27,24",
+      "choice1": "Pilatus",
+      "choice2": "Kaiphas",
+      "choice3": "Tiberius",
+      "choice4": "Herodes Antipas",
+      "answer": 1
+    },
+    {
+      "question": "\"Sein Blut kommt über uns und unsere Kinder!\"",
+      "biblePassageTipp": "Matthäus 27,25",
+      "choice1": "Das gesamte Volk",
+      "choice2": "Kaiphas",
+      "choice3": "Tiberius",
+      "choice4": "Herodes Antipas",
+      "answer": 1
+    },
+    {
+      "question": "\"Mein Gott, mein Gott, warum hast du mich verlassen?\"",
+      "biblePassageTipp": "Matthäus 27,46; Markus 15,34",
+      "choice1": "Jesus",
+      "choice2": "Petrus",
+      "choice3": "Stephanus",
+      "choice4": "Johannes der Täufer",
+      "answer": 1
+    },
+    {
+      "question": "\"Dieser ist wirklich Gottes Sohn gewesen!\"",
+      "biblePassageTipp": "Matthäus 27,54; Markus 15,39; Lukas 23,47",
+      "choice1": "Der Hauptmann",
+      "choice2": "Pilatus",
+      "choice3": "Kaiphas",
+      "choice4": "Tiberius",
+      "answer": 1
+    },
+    {
+      "question": "\"Ihr sollt eine Wachmannschaft haben; geht hin und verwahrt das Grab sicher, so gut ihr könnt!\"",
+      "biblePassageTipp": "Mathtäus 27,65",
+      "choice1": "Pilatus",
+      "choice2": "Kaiphas",
+      "choice3": "Tiberius",
+      "choice4": "Herodes Antipas",
+      "answer": 1
+    },
+    {
+      "question": "\"Fürchtet euch nicht! Denn ich weiß, dass ihr Jesus, den Gekreuzigten, sucht.\"",
+      "biblePassageTipp": "Matthäus 28,5; Markus 16,6",
+      "choice1": "Ein Engel",
+      "choice2": "Ein Jünger",
+      "choice3": "Ein Gärtner",
+      "choice4": "Maria",
+      "answer": 1
+    },
+    {
+      "question": "\"Macht folgende Aussagen: 'Seine Jünger sind bei Nacht gekommen und haben ihn gestohlen, während wir schliefen.\"",
+      "biblePassageTipp": "Matthäus 28,13",
+      "choice1": "Die Ältesten",
+      "choice2": "Die Schriftgelehrten",
+      "choice3": "Die Pharisäer",
+      "choice4": "Pilatus",
+      "answer": 1
+    }
+  ],
+  "Markus": [
+    {
+      "question": "\"Er lästert ja Gott! Wer kann Sünden vergeben außer Gott allein?\"",
+      "biblePassageTipp": "Markus 2,7; Matthäus 9,3",
+      "choice1": "Schriftgelehrte",
+      "choice2": "Pharisäer",
+      "choice3": "Volksmenge",
+      "choice4": "Nikodemus",
+      "answer": 1
+    },
+    {
+      "question": "\"Legion heiße ich, denn wir sind unser viele.\"",
+      "biblePassageTipp": "Markus 5,9; Lukas 8,30",
+      "choice1": "Ein unreiner Geist",
+      "choice2": "Ein Soldat",
+      "choice3": "Ein Römer",
+      "choice4": "Ein Sklave",
+      "answer": 1
+    },
+    {
+      "question": "\"Wer hat meine Kleider angefasst?\"",
+      "biblePassageTipp": "Markus 5,30; Lukas 8,45",
+      "choice1": "Jesus",
+      "choice2": "Petrus",
+      "choice3": "Maria",
+      "choice4": "Salome",
+      "answer": 1
+    },
+    {
+      "question": "\"Was du dir auch von mir erbitten magst, das will ich dir geben  bis zu Hälfte meines Reiches!\"",
+      "biblePassageTipp": "Markus 6,23",
+      "choice1": "Herodes",
+      "choice2": "Herodias",
+      "choice3": "Pilatus",
+      "choice4": "Kaiphas",
+      "answer": 1
+    },
+    {
+      "question": "\"Ich nehme die Menschen wahr: sie kommen mir bei ihrem Umhergehen wie Bäume vor.\"",
+      "biblePassageTipp": "Markus 8,24",
+      "choice1": "Ein halb geheilter Blinder",
+      "choice2": "Ein Tauber",
+      "choice3": "Ein Gelähmter",
+      "choice4": "Ein Blinder",
+      "answer": 1
+    },
+    {
+      "question": "\"Ich glaube: hilf meinem Unglauben!",
+      "biblePassageTipp": "Markus 9,24",
+      "choice1": "Vater eines kranken Jungen",
+      "choice2": "Jairus",
+      "choice3": "Ein Hauptmann",
+      "choice4": "Ein Blinder",
+      "answer": 1
+    },
+    {
+      "question": "\"Meister, wir haben einen, der nicht mit uns dir nachfolgt, unter Anwendung deines Namens böse Geister austreiben sehen und haben es ihm untersagt, weil er uns nicht nachfolgt.\"",
+      "biblePassageTipp": "Markus 9,38; Lukas 9,49",
+      "choice1": "Johannes",
+      "choice2": "Petrus",
+      "choice3": "Jakobus",
+      "choice4": "Andreas",
+      "answer": 1
+    },
+    {
+      "question": "\"Meister, sieh einmal: was für Steine und was für ein Prachtbau ist das!\"",
+      "biblePassageTipp": "Markus 13,1",
+      "choice1": "Ein Jünger Jesu",
+      "choice2": "Ein Jünger des Johannes",
+      "choice3": "Maria",
+      "choice4": "Nikodemus",
+      "answer": 1
+    }
+  ],
+  "Lukas": [
+    {
+      "question": "\"Weil bekanntlich schon viele es unternommen haben, einen Bericht über die Begebenheiten, die sich unter uns erfüllt haben, so abzufassen, wie die Männer sie uns überliefert haben, die von Anbeginn an Augenzeugen und Diener des Wortes gewesen sind, habe auch ich mich entschlossen, nachdem ich allen Tatsachen von den Anfängen an sorgfältig nachgegangen bin, alles für dich, hochedler Theophilus, in richtiger Reihenfolge aufzuzeichnen.\"",
+      "biblePassageTipp": "Lukas 1,1-3",
+      "choice1": "Lukas",
+      "choice2": "Matthäus",
+      "choice3": "Markus",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Fürchte dich nicht, Zacharias, denn dein Gebet hat Erhörung gefunden.\"",
+      "biblePassageTipp": "Lukas 1,13",
+      "choice1": "Gabriel",
+      "choice2": "Michael",
+      "choice3": "Jesaja",
+      "choice4": "Elia",
+      "answer": 1
+    },
+    {
+      "question": "\"Du wirst Freude und Jubel darüber empfinden, und viele werden sich über seine Geburt freuen, denn er wird\r\ngroß vor dem Herrn sein.\"",
+      "biblePassageTipp": "Lukas 1,14-15",
+      "choice1": "Gabriel",
+      "choice2": "Michael",
+      "choice3": "Jesaja",
+      "choice4": "Elia",
+      "answer": 1
+    },
+    {
+      "question": "\"Wie soll ich das für möglich halten? Ich selbst bin ja ein alter Mann, und meine Frau ist auch schon betagt.\"",
+      "biblePassageTipp": "Lukas 1,18",
+      "choice1": "Zacharias",
+      "choice2": "Abram",
+      "choice3": "Abraham",
+      "choice4": "Elkana",
+      "answer": 1
+    },
+    {
+      "question": "\"Du wirst stumm sein und nicht reden können bis zu dem Tage, an dem diese meine Verheißung sich erfüllt, weil du meinen Worten nicht\r\ngeglaubt hast, die zu ihrer Zeit in Erfüllung gehen werden.\"",
+      "biblePassageTipp": "Lukas 1,20",
+      "choice1": "Gabriel",
+      "choice2": "Michael",
+      "choice3": "Jesaja",
+      "choice4": "Elia",
+      "answer": 1
+    },
+    {
+      "question": "\"Sei gegrüßt, du Begnadete: der Herr ist mit dir!\"",
+      "biblePassageTipp": "Lukas 1,28",
+      "choice1": "Gabriel",
+      "choice2": "Michael",
+      "choice3": "Jesaja",
+      "choice4": "Elia",
+      "answer": 1
+    },
+    {
+      "question": "\"Wie soll das möglich sein? Ich weiß von keinem Manne.\"",
+      "biblePassageTipp": "Lukas 1,34",
+      "choice1": "Maria",
+      "choice2": "Rahel",
+      "choice3": "Lea",
+      "choice4": "Esther",
+      "answer": 1
+    },
+    {
+      "question": "\"Siehe, ich bin des Herrn Magd: mir geschehe nach deinem Wort.\"",
+      "biblePassageTipp": "Lukas 1,38",
+      "choice1": "Maria",
+      "choice2": "Elisabeth",
+      "choice3": "Esther",
+      "choice4": "Hanna",
+      "answer": 1
+    },
+    {
+      "question": "\"Gesegnet bist du unter den Frauen, und gesegnet ist die Frucht deines Leibes!\"",
+      "biblePassageTipp": "Lukas 1,42",
+      "choice1": "Elisabeth",
+      "choice2": "Maria",
+      "choice3": "Gabriel",
+      "choice4": "Michael",
+      "answer": 1
+    },
+    {
+      "question": "\"Meine Seele erhebt den Herrn, und mein Geist jubelt über Gott, meinen Retter, weil er die Niedrigkeit seiner Magd angesehen hat.\"",
+      "biblePassageTipp": "Lukas 1,47-48",
+      "choice1": "Maria",
+      "choice2": "Elisabeth",
+      "choice3": "Hanna",
+      "choice4": "Rahel",
+      "answer": 1
+    },
+    {
+      "question": "\"Nein, er soll Johannes heißen!\"",
+      "biblePassageTipp": "Lukas 1,60",
+      "choice1": "Elisabeth",
+      "choice2": "Zacharias",
+      "choice3": "Gabriel",
+      "choice4": "Michael",
+      "answer": 1
+    },
+    {
+      "question": "\"Johannes ist sein Name.\"",
+      "biblePassageTipp": "Lukas 1,63",
+      "choice1": "Zacharias",
+      "choice2": "Elisabeth",
+      "choice3": "Gabriel",
+      "choice4": "Michael",
+      "answer": 1
+    },
+    {
+      "question": "\"Gepriesen sei der Herr, der Gott Israels! Denn er hat sein Volk gnädig angesehen und ihm Erlösung geschaffen und hat uns ein Horn des Heils aufgerichtet im Hause Davids, seines Knechtes.\"",
+      "biblePassageTipp": "Lukas 1,68-69",
+      "choice1": "Zacharias",
+      "choice2": "Elisabeth",
+      "choice3": "Simeon",
+      "choice4": "Maria",
+      "answer": 1
+    },
+    {
+      "question": "\"Fürchtet euch nicht! Denn wisset wohl: ich verkündige euch große Freude, die dem ganzen Volke widerfahren wird.\"",
+      "biblePassageTipp": "Lukas 2,10",
+      "choice1": "Ein Engel des Herrn",
+      "choice2": "Elia",
+      "choice3": "Jesus",
+      "choice4": "Jesaja",
+      "answer": 1
+    },
+    {
+      "question": "\"Ehre sei Gott in Himmelshöhen und Friede auf Erden in den Menschen des Wohlgefallens.\"",
+      "biblePassageTipp": "Lukas 2,14",
+      "choice1": "Die himmlischen Heerscharen",
+      "choice2": "Zacharias",
+      "choice3": "Elisabeth",
+      "choice4": "Maria",
+      "answer": 1
+    },
+    {
+      "question": "\"Wir wollen doch bis Bethlehem hinübergehen und uns die Sache ansehen, die sich dort begeben hat und die der Herr uns hat verkündigen\r\nLassen!\"",
+      "biblePassageTipp": "Lukas 2,15",
+      "choice1": "Die Hirten",
+      "choice2": "Die Weisen",
+      "choice3": "Die Waisen",
+      "choice4": "Zacharias",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, nun entlässt du deinen Knecht, wie du ihm verheißen hast, im Frieden; denn meine Augen haben dein Heil gesehen.\"",
+      "biblePassageTipp": "Lukas 2,29-30",
+      "choice1": "Simeon",
+      "choice2": "Elia",
+      "choice3": "Henoch",
+      "choice4": "David",
+      "answer": 1
+    },
+    {
+      "question": "\"Wisse wohl: dieser ist vielen zum Fallen und zum Aufstehen in Israel bestimmt und zu einem Zeichen, das Widerspruch erfährt - und auch dir selbst wird ein Schwert durch die Seele dringen -, auf dass aus vielen Herzen die Gedanken offenbar werden.\"",
+      "biblePassageTipp": "Lukas 2,34-35",
+      "choice1": "Simeon",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Michael",
+      "choice4": "Gabriel",
+      "answer": 1
+    },
+    {
+      "question": "\"Kind, warum hast du uns das angetan? Bedenke doch: dein Vater und ich suchen dich mit Angst!\"",
+      "biblePassageTipp": "Lukas 2,48",
+      "choice1": "Maria",
+      "choice2": "Elisabeth",
+      "choice3": "Rahel",
+      "choice4": "Hanna",
+      "answer": 1
+    },
+    {
+      "question": "\"Wie habt ihr mich nur suchen können? Wusstet ihr nicht, dass ich im Hause meines Vater sein muss?\"",
+      "biblePassageTipp": "Lukas 2,49",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Joseph",
+      "choice4": "Samuel",
+      "answer": 1
+    },
+    {
+      "question": "\"Fordert nicht mehr Geld von den Leuten, als euch vorgeschrieben ist!\"",
+      "biblePassageTipp": "Lukas 3,13",
+      "choice1": "Johannes der Täufer",
+      "choice2": "Jesus",
+      "choice3": "Johannes",
+      "choice4": "Paulus",
+      "answer": 1
+    },
+    {
+      "question": "„Tut niemand Gewalt, und erpresst niemanden, und begnügt euch mit eurem Sold!“",
+      "biblePassageTipp": "Lukas 3,14",
+      "choice1": "Johannes der Täufer",
+      "choice2": "Jesus",
+      "choice3": "Paulus",
+      "choice4": "Jakobus",
+      "answer": 1
+    },
+    {
+      "question": "\"Heute ist dieses Schriftwort, das ihr soeben vernommen habt, zur Erfüllung gekommen!\"",
+      "biblePassageTipp": "Lukas 4,21",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Paulus",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Und viele Aussätzige gab es in Israel zur Zeit des Propheten Elisa, und doch wurde kein einziger von ihnen gereinigt, sondern nur der Syrer Naeman.\"",
+      "biblePassageTipp": "Lukas 4,27",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Paulus",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Meister, die ganze Nacht hindurch haben wir gearbeitet und nichts gefangen; doch auf dein Wort hin will ich die Netze auswerfen.\"",
+      "biblePassageTipp": "Lukas 5,4",
+      "choice1": "Petrus",
+      "choice2": "Andreas",
+      "choice3": "Jakobus",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, gehe weg von mir, denn ich bin ein sündiger Mensch!\"",
+      "biblePassageTipp": "Lukas 5,8",
+      "choice1": "Petrus",
+      "choice2": "Johannes",
+      "choice3": "Matthäus",
+      "choice4": "Bartolomäus",
+      "answer": 1
+    },
+    {
+      "question": "\"Fürchte dich nicht! Von nun an wirst du ein Menschenfischer sein.\"",
+      "biblePassageTipp": "Lukas 5,10",
+      "choice1": "Jesus",
+      "choice2": "Johannes",
+      "choice3": "Andreas",
+      "choice4": "Petrus",
+      "answer": 1
+    },
+    {
+      "question": "\"Wenn dieser wirklich ein Prophet wäre, so müsste er wissen, wer und was für eine Frau das ist, die ihn da berührt, dass sie nämlich eine Sünderin ist.\"",
+      "biblePassageTipp": "Lukas 7,39",
+      "choice1": "Simon (Pharisäer)",
+      "choice2": "Simon (Petrus)",
+      "choice3": "Simon (der Zelot)",
+      "choice4": "Simeon",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, willst du, dass wir aussprechen, es solle Feuer vom Himmel fallen und sie verzehren, wie auch Elia getan hat?\"",
+      "biblePassageTipp": "Lukas 9,54",
+      "choice1": "Jakobus und Johannes",
+      "choice2": "Petrus und Andreas",
+      "choice3": "Petrus und Johannes",
+      "choice4": "Andreas und Jakobus",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, auch die bösen Geister sind uns kraft deines Namens gehorsam!\"",
+      "biblePassageTipp": "Lukas 10,17",
+      "choice1": "Die 70 Jünger",
+      "choice2": "Die 12 Jünger",
+      "choice3": "Johannes",
+      "choice4": "Petrus",
+      "answer": 1
+    },
+    {
+      "question": "\"Ja, wer ist denn mein Nächster?\"",
+      "biblePassageTipp": "Lukas 10,29",
+      "choice1": "Ein Gesetzeslehrer",
+      "choice2": "Petrus",
+      "choice3": "Nikodemus",
+      "choice4": "Ein Pharisäer",
+      "answer": 1
+    },
+    {
+      "question": "Verpflege ihn! Und was du mehr aufwendest, will ich dir bezahlen, wenn ich wiederkomme.“",
+      "biblePassageTipp": "Lukas 10,35",
+      "choice1": "Der barmherzige Samariter",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, machst du dir nichts daraus, dass meine Schwester die Bedienung mir allein überlassen hat? Sage ihr doch, sie möge mir zur Hand gehen!\"",
+      "biblePassageTipp": "Lukas 10,40",
+      "choice1": "Martha",
+      "choice2": "Maria",
+      "choice3": "Salome",
+      "choice4": "Lazarus",
+      "answer": 1
+    },
+    {
+      "question": "\"Selig ist der Mutterschoß, der dich getragen, und die Brüste, die dich genährt haben!\"",
+      "biblePassageTipp": "Lukas 11,27",
+      "choice1": "Eine Frau aus der Volksmenge",
+      "choice2": "Elisabeth",
+      "choice3": "Maria",
+      "choice4": "Salome",
+      "answer": 1
+    },
+    {
+      "question": "\"Meister, mit diesen Worten beleidigst du auch uns!\"",
+      "biblePassageTipp": "Lukas 11,45",
+      "choice1": "Ein Gesetzeslehrer",
+      "choice2": "Ein Pharisäer",
+      "choice3": "Ein Jünger",
+      "choice4": "Nikodemus",
+      "answer": 1
+    },
+    {
+      "question": "\"Meister, sage doch meinem Bruder, er solle die Erbschaft mit mir teilen!\"",
+      "biblePassageTipp": "Lukas 12,13",
+      "choice1": "Ein Mann aus der Volksmenge",
+      "choice2": "Ein Jünger",
+      "choice3": "Maria",
+      "choice4": "Eine Frau aus der Volksmenge",
+      "answer": 1
+    },
+    {
+      "question": "\"Sechs Tage sind da, an denen man arbeiten soll; an diesen also kommt und lasst euch heilen, aber nicht am Sabbattage!\"",
+      "biblePassageTipp": "Lukas 13,14",
+      "choice1": "Ein Synagogenvorsteher",
+      "choice2": "Ein Pharisäer",
+      "choice3": "Ein Schriftgelehrter",
+      "choice4": "Ein Mann aus der Volksmenge",
+      "answer": 1
+    },
+    {
+      "question": "\"Entferne dich von hier und ziehe weiter, denn Herodes will dich töten!\"",
+      "biblePassageTipp": "Lukas 13,31",
+      "choice1": "Einige Pharisäer",
+      "choice2": "Einige aus der Volksmenge",
+      "choice3": "Die Jünger",
+      "choice4": "Einige Frauen",
+      "answer": 1
+    },
+    {
+      "question": "\"Wer im Kleinsten treu ist, der ist auch im Großen treu, und wer im Kleinsten ungerecht ist, der ist auch im Großen ungerecht.\"",
+      "biblePassageTipp": "Lukas 16,10",
+      "choice1": "Jesus",
+      "choice2": "Johannes der Täufer",
+      "choice3": "Johannes",
+      "choice4": "Paulus",
+      "answer": 1
+    },
+    {
+      "question": "\"Mein Sohn, denke daran, dass du dein Gutes während deines Erdenlebens empfangen hast, und Lazarus gleicherweise das Üble; jetzt aber wird er hier getröstet, während du Qualen leiden musst.\"",
+      "biblePassageTipp": "Lukas 16,25",
+      "choice1": "Abraham",
+      "choice2": "Mose",
+      "choice3": "Elia",
+      "choice4": "Henoch",
+      "answer": 1
+    },
+    {
+      "question": "\"Wenn sie nicht auf Mose und die Propheten hören, so werden sie sich auch nicht überzeugen lassen, wenn einer von den Toten aufersteht.\"",
+      "biblePassageTipp": "Lukas 16,31",
+      "choice1": "Abraham",
+      "choice2": "Mose",
+      "choice3": "Elia",
+      "choice4": "Henoch",
+      "answer": 1
+    },
+    {
+      "question": "\"Mehre uns den Glauben!\"",
+      "biblePassageTipp": "Lukas 17,5",
+      "choice1": "Die Apostel",
+      "choice2": "Die Volksmenge",
+      "choice3": "Nikodemus",
+      "choice4": "Maria",
+      "answer": 1
+    },
+    {
+      "question": "\"Jesus, lieber Meister, erbarme dich unser!\"",
+      "biblePassageTipp": "Lukas 17,13",
+      "choice1": "Zehn Aussätzige",
+      "choice2": "Zwei Besessene",
+      "choice3": "Zwei Blinde",
+      "choice4": "Zehn Lahme",
+      "answer": 1
+    },
+    {
+      "question": "\"Wo das Aas liegt, da sammeln sich auch die Geier.\"",
+      "biblePassageTipp": "Lukas 17,37; Matthäus 24,28",
+      "choice1": "Jesus",
+      "choice2": "Ein Pharisäer",
+      "choice3": "Ein Jünger",
+      "choice4": "Johannes der Täufer",
+      "answer": 1
+    },
+    {
+      "question": "\"Wenn ich auch Gott nicht fürchte und auf keinen Menschen Rücksicht nehme, will ich dieser Witwe doch zu ihrem Recht verhelfen, weil sie mir lästig fällt; sonst kommt sie schließlich noch und wird handgreiflich gegen mich.\"",
+      "biblePassageTipp": "Lukas 18,4-5",
+      "choice1": "Der ungerechte Richter",
+      "choice2": "Pilatus",
+      "choice3": "Kaiphas",
+      "choice4": "Ein Soldat",
+      "answer": 1
+    },
+    {
+      "question": "\"Gott, sei mir Sünder gnädig!\"",
+      "biblePassageTipp": "Lukas 18,13",
+      "choice1": "Ein Zöllner",
+      "choice2": "Ein Blinder",
+      "choice3": "Ein Aussätziger",
+      "choice4": "Ein Pharisäer",
+      "answer": 1
+    },
+    {
+      "question": "\"Siehe, Herr, die Hälfte meines Vermögens will ich den Armen geben, und wenn ich jemand in etwas übervorteilt habe, will ich es ihm vierfach ersetzen.\"",
+      "biblePassageTipp": "Lukas 19,8",
+      "choice1": "Zachäus",
+      "choice2": "Matthäus",
+      "choice3": "Der reiche Jüngling",
+      "choice4": "Nikodemus",
+      "answer": 1
+    },
+    {
+      "question": "\"Herr, ich bin bereit mit dir sowohl ins Gefängnis als auch in den Tod zu gehen!\"",
+      "biblePassageTipp": "Lukas 22,33",
+      "choice1": "Petrus",
+      "choice2": "Johannes",
+      "choice3": "Andreas",
+      "choice4": "Jakobus",
+      "answer": 1
+    },
+    {
+      "question": "\"Vater, vergib ihnen, denn sie wissen nicht, was sie tun!\"",
+      "biblePassageTipp": "Lukas 23,34",
+      "choice1": "Jesus",
+      "choice2": "Stephanus",
+      "choice3": "Andreas",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Jesus, denke an mich, wenn du in deine Königsherrschaft kommst!\"",
+      "biblePassageTipp": "Lukas 23,42",
+      "choice1": "Der Schächer am Kreuz",
+      "choice2": "Petrus",
+      "choice3": "Johannes",
+      "choice4": "Jakobus",
+      "answer": 1
+    },
+    {
+      "question": "\"Wahrlich ich sage dir: Heute noch wirst du mit mir im Paradiese sein!\"",
+      "biblePassageTipp": "Lukas 23,43",
+      "choice1": "Jesus",
+      "choice2": "Lazarus",
+      "choice3": "Abraham",
+      "choice4": "Der reiche Mann",
+      "answer": 1
+    },
+    {
+      "question": "\"Vater, in deine Hände befehle ich meinen Geist!\"",
+      "biblePassageTipp": "Lukas 23,46",
+      "choice1": "Jesus",
+      "choice2": "Mose",
+      "choice3": "David",
+      "choice4": "Stephanus",
+      "answer": 1
+    },
+    {
+      "question": "\"Was sucht ihr den Lebenden bei den Toten?\"",
+      "biblePassageTipp": "Lukas 24,5",
+      "choice1": "Zwei Engel",
+      "choice2": "Jesus",
+      "choice3": "Der Gärtner",
+      "choice4": "Die Jünger",
+      "answer": 1
+    },
+    {
+      "question": "\"Du bist wohl der einzige, der sich in Jerusalem aufhält und nichts von dem erfahren hat, was in diesen Tagen dort geschehen ist?\"",
+      "biblePassageTipp": "Lukas 24,18",
+      "choice1": "Kleopas",
+      "choice2": "Petrus",
+      "choice3": "Johannes",
+      "choice4": "Maria",
+      "answer": 1
+    },
+    {
+      "question": "\"Musste denn Christus dies nicht leiden und dann in seine Herrlichkeit eingehen?\"",
+      "biblePassageTipp": "Lukas 24,26",
+      "choice1": "Jesus",
+      "choice2": "Petrus",
+      "choice3": "Johannes",
+      "choice4": "Maria",
+      "answer": 1
+    },
+    {
+      "question": "\"Bleibe bei uns, denn es will Abend werden, und der Tag hat sich schon geneigt!\"",
+      "biblePassageTipp": "Lukas 24,29",
+      "choice1": "Die Emmaus-Jünger",
+      "choice2": "Abraham",
+      "choice3": "Lot",
+      "choice4": "Lazarus",
+      "answer": 1
+    },
+    {
+      "question": "\"Brannte nicht unser Herz in uns, als er unterwegs mit uns redete und uns den Sinn der Schriftstellen erschloss?\"",
+      "biblePassageTipp": "Lukas 24,32",
+      "choice1": "Die Emmaus-Jünger",
+      "choice2": "Der Kämmerer aus Äthiopien",
+      "choice3": "Jesaja",
+      "choice4": "Philippus",
+      "answer": 1
+    },
+    {
+      "question": "\"Der Herr ist wirklich auferweckt worden und ist dem Simon erschienen!\"",
+      "biblePassageTipp": "Lukas 24,34",
+      "choice1": "Die Elf",
+      "choice2": "Die Frauen",
+      "choice3": "Thomas",
+      "choice4": "Die Emmaus Jünger",
+      "answer": 1
+    },
+    {
+      "question": "„So hat der Herr an mir gehandelt in den Tagen, da er mich angesehen hat, um meine Schmach unter den Menschen hinwegzunehmen!“",
+      "biblePassageTipp": "Lukas 1,25",
+      "choice1": "Elisabeth",
+      "choice2": "Rahel",
+      "choice3": "Hanna",
+      "choice4": "Sarah",
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+<widget
+    android-versionCode = '1'
+    id = 'com.HerbertHorst.BibelQuizz'
+    version = '1.6.4'
+    xmlns = 'https://www.w3.org/ns/widgets'>
+
+    <name>Bibel Zitate Quizz</name>
+    <description> Erste Version vom Bibel Quizz mit möglichkeit der Verwendung eines eigenen Fragenkataloges </description>
+    <author>HerbertHorst</author>
+</widget>
