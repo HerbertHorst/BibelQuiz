@@ -4,6 +4,20 @@
   background-color: rgba(0, 0, 0, 0.5);
   border-radius: 10px;
   padding: 5px; 
+  margin-bottom: 2rem;
+  margin-top: 2rem;  
+
+  flex-grow: 1.5; /* 2. Viertel des Bildschirms */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#game {
+  flex-grow: 2.5; /* Untere zwei Drittel */
+  display: none;
+  flex-direction: column;
+  gap: 1rem; 
 }
 
 .choice-container {
@@ -12,7 +26,7 @@
   width: 100%;
   font-size: 1.8rem;
   border: 0.1rem solid rgb(86, 165, 235, 0.25);
-  background-color: rgba(41, 70, 124, 0.61);
+  background-color: rgba(41, 70, 124, 0.267);
 }
 
 .tipp-container {
@@ -32,7 +46,7 @@
 
 .tipp-prefix {
   padding: 1.5rem 2.5rem;
-  background-color: #11293f;
+  background-color: #11293f9a;
   font-size: 18px;
   color: white;
 }
@@ -52,14 +66,14 @@
 
 .choice-prefix {
   padding: 1.5rem 2.5rem;
-  background-color: #56a5eb;
-  color: white;
+  background-color: #56a6eb48;
+  color: rgba(255, 255, 255, 0.603);
 }
 
 .choice-text {
   padding: 1.5rem;
   width: 100%;
-  color: aliceblue;
+  color: rgb(240, 248, 255);
 }
 
 .correct {
@@ -92,19 +106,19 @@
 }
 
 #progressBar {
-  width: 20rem;
-  height: 4rem;
-  border: 0.3rem solid #56a5eb;
+  width: 15rem;
+  height: 2rem;
+  border: 0.2rem solid #56a6eb96;
   margin-top: 1.5rem;
 }
 
 #gameContainer{
   padding-top: 100px;
-  padding-bottom: 10px
+  padding-bottom: 10px;
 }
 
 #progressBarFull {
-  height: 3.4rem;
+  height: 1.6rem;
   background-color: #56a5eb;
   width: 0%;
 }
@@ -117,6 +131,12 @@
   width: 12rem;
   height: 12rem;
   animation: spin 2s linear infinite;
+}
+
+.choice-container, .menuButtons {
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 @keyframes spin {

@@ -64,7 +64,10 @@ h3 {
   width: 100vw;
   height: 100vh;
   /* display: flex; */
-  justify-content: center;
+  /* justify-content: center; */
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
   align-items: center;
   max-width: 80rem;
   margin: 0 auto;
@@ -117,7 +120,6 @@ h3 {
   background-color: rgba(75, 73, 73, 0.295);
 }
 
-
 .btn:hover {
   cursor: pointer;
   box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
@@ -134,7 +136,7 @@ h3 {
 .smallbtn {
   font-size: 2.0rem;
   padding: 1rem 1;
-  width: 20rem;
+  width: 10rem;
   text-align: center;
   border: 0.1rem solid #56a5eb;
   margin-bottom: 1rem;

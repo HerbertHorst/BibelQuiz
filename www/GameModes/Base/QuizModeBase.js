@@ -126,7 +126,7 @@ export class QuizModeBase {
     hideLoadFilePart() {
         const x = document.getElementById("loadFileFromDisk");
         if (x.style.display === "none") {
-            x.style.display = "block";
+            x.style.display = "flex";
         } else {
             x.style.display = "none";
         }
@@ -138,7 +138,7 @@ export class QuizModeBase {
         this.availableQuestions = [...this.allQuestions];
         localStorage.setItem(this.constants.ALL_QUESTIONS, JSON.stringify(this.availableQuestions));
         this.getNewQuestion();
-        game.classList.remove('hidden');
+        document.getElementById("game").style.display = "flex";
         // loader.classList.add('hidden');
       };
 
@@ -148,7 +148,7 @@ export class QuizModeBase {
         this.scoreText.innerText = this.score;
         this.availableQuestions;
         this.getNewQuestion();
-        game.classList.remove('hidden');
+        document.getElementById("game").style.display = "flex";
         // loader.classList.add('hidden');
     };
 
