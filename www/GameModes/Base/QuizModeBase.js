@@ -22,15 +22,54 @@ export class QuizModeBase {
 
         this.initializeChoiceListeners();
 
-        this.tippContainer.addEventListener('click', (e) => {
-            this.tippContainer = document.getElementById("tippText");
-            this.tippContainer.style.visibility = "visible";
-          });
+        // Initialize event listeners for buttons
+        this.initializeReadCacheButtonListeners();
 
-        //#region ReadCache Button
-        document.getElementById('continueWithCache').addEventListener('click', this.continueFromCache.bind(this));
-        document.getElementById('startNewFromCache').addEventListener('click', this.startNewFromCache.bind(this));
-        //#endregion  
+        // Call method to handle Tipp container click events
+        this.initializeTippClickListener();
+    }
+
+    //#region Buttons
+
+    // Event Listener für Tipp-Container
+    initializeTippClickListener() {
+        this.tippContainer.addEventListener('click', this.handleContainerClick.bind(this));
+
+        // Alle Links innerhalb des Tipp-Containers vor Klick-Weiterleitung schützen
+        document.querySelectorAll("#tippText a").forEach(link => {
+            link.addEventListener("click", (e) => {
+                e.stopPropagation(); // Verhindert, dass das Klick-Event zum Container durchgeleitet wird
+            });
+        });
+    }
+
+    // Event Listener für Klick-Event im Tipp-Container
+    handleContainerClick(e) {
+        // Wenn der Klick auf einen Link war, tue nichts
+        if (e.target.tagName.toLowerCase() === 'a') {
+            return;
+        }
+        // Wenn der Tipp-Text schon sichtbar ist, mache nichts mehr
+        if (this.tipp.style.visibility === "visible") {
+            console.log("AAAAAAAAAAAA")
+            return;
+        }
+
+        // Sonst den Tipp sichtbar machen
+        this.tipp.style.visibility = "visible";
+
+        // Entferne den Click-Event des Containers nach dem ersten Klick
+        this.tippContainer.removeEventListener('click', this.handleContainerClick.bind(this));
+    }
+
+    // Funktion zum Initialisieren der ReadCache Button Event Listener
+    initializeReadCacheButtonListeners() {
+        const btnContinue = document.getElementById('continueWithCache');
+        const btnStartNew = document.getElementById('startNewFromCache'); 
+        if (btnContinue && btnStartNew) {
+            btnContinue.addEventListener('click', this.continueFromCache.bind(this));
+            btnStartNew.addEventListener('click', this.startNewFromCache.bind(this));
+        }
     }
 
     //#region click EventListener for each choice field
@@ -82,6 +121,7 @@ export class QuizModeBase {
     }
     //#endregion
 
+    //#endregion
 
     checkForCacheValues(e){
         this.allQuestions = JSON.parse(localStorage.getItem(this.constants.ALL_QUESTIONS));
@@ -164,10 +204,41 @@ export class QuizModeBase {
 
         const questionIndex = this.setNewRandomQuestion();
         this.shuffleAnswers();
-        this.tipp.innerHTML = this.currentQuestion.biblePassageTipp;
+        // this.tipp.innerHTML = this.currentQuestion.biblePassageTipp;
+        this.getTippTextAsLink();
 
         this.availableQuestions.splice(questionIndex, 1);
         this.acceptingAnswers = true;
+    }
+
+    getTippTextAsLink(){
+        
+        // Trenne die verschiedenen Bibelstellen / Split the Text for when more than 1 bibel position is in the Tipp. 
+        const passages = this.currentQuestion.biblePassageTipp.split("; ");
+    
+        // Leere den Container zuerst / Clear Text in container
+        this.tipp.innerHTML = "";
+    
+        passages.forEach(passage => {
+            const formattedPassage = passage.replace(" ", "");
+            const url = `https://www.bibleserver.com/ELB/${encodeURIComponent(formattedPassage)}`;
+    
+            // Erstelle das Link-Element
+            const link = document.createElement("a");
+            link.href = url;
+            link.innerText = passage;
+            link.style.marginRight = "5px"; // Optional für Abstand zwischen Links
+            
+            // In-App-Browser beim Klicken öffnen
+            link.addEventListener("click", (e) => {
+                e.preventDefault(); // Standardverhalten verhindern
+                window.open(url, "_blank", "location=no");
+            });
+
+            // Füge den Link in den Container ein
+            this.tipp.appendChild(link);
+        });
+    
     }
 
     incrementScore(num) {

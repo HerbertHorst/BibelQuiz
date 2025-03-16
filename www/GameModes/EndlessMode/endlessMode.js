@@ -16,3 +16,7 @@ export class QuizModeEndless extends QuizModeBase {
     }
 }
 const quizMode = new QuizModeEndless();
+
+document.addEventListener("DOMContentLoaded", () => {
+    quizMode.continueFromCache();
+});

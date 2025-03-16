@@ -77,6 +77,13 @@
   visibility: hidden; 
   color: white;
 }
+/* Links innerhalb von .tipp-text */
+.tipp-text a {
+  color: rgb(235, 237, 255); /* Standardfarbe des Links */
+  text-decoration: none; /* Keine Unterstreichung */
+  transition: color 0.3s ease-in-out; /* Sanfter Farbübergang */
+  padding: 20px; /* Macht die Hitbox um den Link größer */
+}
 
 .correct {
   background-color: #28a746a9;

@@ -1,3 +1,7 @@
+V6.4
+   - Start instant when opening the App (no extra pressing continue)
+   - remove continu/startNew Button From Choose Book screen
+   - Add link to Bibelserver in Tipp Container (not working on Phone because no BrowserPlugin)
 V6.3
    - change Design to flex to bottom 
    - GIT

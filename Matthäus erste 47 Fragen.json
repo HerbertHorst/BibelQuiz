@@ -1,0 +1,420 @@
+[
+ {
+   "question": "Josef, Sohn Davids, trage keinerlei Bedenken, Maria, deine Verlobte, als Ehefrau zu dir zu nehmen.",
+   "biblePassageTipp": "Matthäus 1,20",
+   "choice1": "Gabriel",
+   "choice2": "Michael",
+   "choice3": "Zacharias",
+   "choice4": "Jesus",
+   "answer": 1
+ },
+ {
+   "question": "Wo ist der neugeborene König der Juden? Wir haben nämlich seinen Stern im Osten gesehen und sind hergekommen, um ihm unsere Huldigung darzubringen.",
+   "biblePassageTipp": "Matthäus 2,2",
+   "choice1": "Die Hirten",
+   "choice2": "Die Weisen",
+   "choice3": "Herodes Gefolge",
+   "choice4": "Die Priester",
+   "answer": 2
+ },
+ {
+   "question": "Zieht hin und stellt genaue Nachforschungen nach dem Kindlein an.",
+   "biblePassageTipp": "Matthäus 2,8",
+   "choice1": "Pilatus",
+   "choice2": "Augustus",
+   "choice3": "Herodes",
+   "choice4": "Agrippa",
+   "answer": 3
+ },
+ {
+   "question": "Steh auf, nimm das Kindlein und seine Mutter mit dir und fliehe nach Ägypten.",
+   "biblePassageTipp": "Matthäus 2,13",
+   "choice1": "Ein Prophet",
+   "choice2": "Gabriel",
+   "choice3": "Michael",
+   "choice4": "Ein Engel",
+   "answer": 4
+ },
+ 
+ 
+ 
+ 
+ {
+   "question": "Steh auf, nimm das Kindlein und seine Mutter zu dir und ziehe heim ins Land Israel!",
+   "biblePassageTipp": "Matthäus 2,20",
+   "choice1": "Ein Engel",
+   "choice2": "Gabriel",
+   "choice3": "Michael",
+   "choice4": "Ein Prophet",
+   "answer": 1
+ },
+ {
+   "question": "Tut Buße, denn das Himmelreich ist nahe herbeigekommen.",
+   "biblePassageTipp": "Matthäus 3,2+4,17; Markus 1,15",
+   "choice2": "Johannes der Täufer und Jesus",
+   "choice1": "Petrus und Andreas",
+   "choice3": "Paulus und Timotheus",
+   "choice4": "Jakobus und Johannes",
+   "answer": 2
+ },
+ {
+   "question": "So schafft denn Früchte, de der Buße würdig sind, und lasst euch nicht in den Sinn kommen, bei euch zu sagen: 'Wir haben ja Abraham zu Vater.' Denn ich sage euch: Gott vermag dem Abraham aus den Steinen hier Kinder zu erwecken.",
+   "biblePassageTipp": "Matthäus 3,8-9; Lukas 3,8",
+   "choice3": "Johannes der Täufer",
+   "choice2": "Jesus",
+   "choice1": "Philippus",
+   "choice4": "Stephanus",
+   "answer": 3
+ },
+ {
+   "question": "Ich taufe euch nur mit Wasser zur Buße; der aber nach mir kommt, ist stärker als ich, und ich bin nicht gut genug, ihm seine Schuhe abzunehmen: der wird euch mit heiligem Geist und mit Feuer taufen.",
+   "biblePassageTipp": "Matthäus 3,11; Markus 1,7; Lukas 3,16",
+   "choice4": "Johannes der Täufer",
+   "choice2": "Zacharias",
+   "choice3": "Apollos",
+   "choice1": "Simeon",
+   "answer": 4
+ },
+ {
+   "question": "Ich müsste von dir getauft werden, und du kommst zu mir?",
+   "biblePassageTipp": "Matthäus 3,14",
+   "choice1": "Johannes der Täufer",
+   "choice2": "Simon",
+   "choice3": "Andreas",
+   "choice4": "Johannes",
+   "answer": 1
+ },
+ {
+   "question": "Lass es für diesmal geschehen, denn so gebührt es uns, alle Gerechtigkeit zu erfüllen.",
+   "biblePassageTipp": "Matthäus 3,15",
+   "choice2": "Jesus",
+   "choice1": "Stephanus",
+   "choice3": "Jakobus",
+   "choice4": "Paulus",
+   "answer": 2
+ },
+ {
+   "question": "Dieser ist mein geliebter Sohn, an dem ich Wohlgefallen gefunden habe.",
+   "biblePassageTipp": "Matthäus 3,17; Markus 1,11; Lukas 3,22",
+   "choice3": "Gott, der Vater",
+   "choice2": "Der Heilige Geist",
+   "choice1": "Ein Prophet",
+   "choice4": "Ein Engel",
+   "answer": 3
+ },
+ {
+   "question": "Bist du Gottes Sohn, so gebiete, dass diese Steine zu Broten werden.",
+   "biblePassageTipp": "Matthäus 4,3; Lukas 4,3",
+   "choice4": "Der Teufel ",
+   "choice2": "Ein Dämon",
+   "choice3": "Ein Jünger",
+   "choice1": "Ein Pharisäer",
+   "answer": 4
+ },
+ {
+   "question": "Bist du Gottes Sohn, so stürze dich hier hinab! Denn es steht geschrieben: 'Er wird seine Engel für dich entbieten, und sie werdendich auf den Armen tragen, damit du mit deinem Fuß an keinen Stein stoßest.",
+   "biblePassageTipp": "Matthäus 4,6; Lukas 4,9-10",
+   "choice1": "Der Teufel ",
+   "choice2": "Ein Dämon",
+   "choice3": "Ein römischer Soldat",
+   "choice4": "Ein Sadduzäer",
+   "answer": 1
+ },
+ {
+   "question": "Dies alles will ich dir geben, wenn du dich nierderwirfst und mich anbetest.",
+   "biblePassageTipp": "Matthäus 4,9; Lukas 4,6-7",
+   "choice2": "Der Teufel ",
+   "choice1": "Gott",
+   "choice3": "Herodes der Große",
+   "choice4": "Der Hohe Priester",
+   "answer": 2
+ },
+ {
+   "question": "Weg mit dir, Satan! Denn es steht geschrieben: 'Den Hern, deinen Gott, sollst du anbeten und ihm allein dienen!'",
+   "biblePassageTipp": "Matthäus 4,10; Lukas 4,8",
+   "choice3": "Jesus",
+   "choice2": "Paulus",
+   "choice1": "Petrus",
+   "choice4": "Timotheus",
+   "answer": 3
+ },
+ {
+   "question": "Kommt, folgt mir nach, so will ich euch zu Menschenfischern machen!",
+   "biblePassageTipp": "Matthäus 4,19; Markus 1,17",
+   "choice4": "Jesus",
+   "choice2": "Paulus",
+   "choice3": "Simon (der Zylot)",
+   "choice1": "Barnabas",
+   "answer": 4
+ },
+ {
+   "question": "Selig sind, die nach der Gerechtigkeit hungern und dürsten, denn sie werden gesättigt werden!",
+   "biblePassageTipp": "Matthäus 5,6",
+   "choice1": "Jesus",
+   "choice2": "Johannes",
+   "choice3": "Judas",
+   "choice4": "Apollos",
+   "answer": 1
+ },
+ {
+   "question": "Selig sind die Barmherzigen, denn sie werden Barmherzigkeit erlangen!",
+   "biblePassageTipp": "Matthäus 5,7",
+   "choice2": "Jesus",
+   "choice1": "Nikodemus",
+   "choice3": "Petrus",
+   "choice4": "Hananias",
+   "answer": 2
+ },
+ {
+   "question": "Selig sind die Friedfertigen, denn sie werden Söhne Gottes heißen!",
+   "biblePassageTipp": "Matthäus 5,9",
+   "choice3": "Jesus",
+   "choice2": "Jakobus",
+   "choice1": "Ein Engel",
+   "choice4": "Kornelius",
+   "answer": 3
+ },
+ {
+   "question": "Ihr seid das Licht der Welt!",
+   "biblePassageTipp": "Matthäus 5,14",
+   "choice4": "Jesus",
+   "choice2": "Paulus",
+   "choice3": "Petrus",
+   "choice1": "Johannes",
+   "answer": 4
+ },
+ {
+   "question": "Bis Himmel und Erde vergehen, wird vom Gesetz nicht ein einziges Jota und kein Strichlein vergehen, bis alles in Erfüllung gegangen ist.",
+   "biblePassageTipp": "Matthäus 5,18",
+   "choice1": "Jesus",
+   "choice2": "Johannes der Täufer",
+   "choice3": "Ein Pharisäer",
+   "choice4": "Ein Sadduzäer",
+   "answer": 1
+ },
+ {
+   "question": "Wenn dich also dein rechtes Auge ärgert, so reiß es aus und wirf es weg von dir; denn s ist besser für dich, dass eines deiner Glieder verloren geht, als dass dein ganzer Leib in die Hölle geworfen wird.",
+   "biblePassageTipp": "Matthäus 5,29",
+   "choice2": "Jesus",
+   "choice1": "Jakobus",
+   "choice3": "Petrus",
+   "choice4": "Thomas",
+   "answer": 2
+ },
+ {
+   "question": "Ihr sollt dem Bösen keinen Widerstand leisten; sondern wer dich auf die rechte Wange schlägt, dem halte auch die andere hin.",
+   "biblePassageTipp": "Matthäus 5,39",
+   "choice3": "Jesus",
+   "choice2": "Johannes der Täufer",
+   "choice1": "Der reiche Jüngling",
+   "choice4": "Stephanus",
+   "answer": 3
+ },
+ {
+   "question": "Darum sollt ihr vollkommen sein, wie euer himmlischer Vater vollkommen ist.",
+   "biblePassageTipp": "Matthäus 5,48",
+   "choice4": "Jesus",
+   "choice2": "Paulus",
+   "choice3": "Apollos",
+   "choice1": "Johannes ",
+   "answer": 4
+ },
+ {
+   "question": "Du aber, wenn du beten willst, so geh in deine Kammer, schließe deine Tür zu und bete zu deinem Vater, der im Verborgenen ist; dein Vater aber, der auch ins Verborgene hineinsieht, wird es dir alsdann vergelten.",
+   "biblePassageTipp": "Matthäus 6,6",
+   "choice1": "Jesus",
+   "choice2": "Lukas",
+   "choice3": "Markus",
+   "choice4": "Johannes",
+   "answer": 1
+ },
+ {
+   "question": "Sammelt euch nicht Schätze hier auf der Erde, wo Motten und Rost sie vernichten und wo Diebe einbrechen und stehlen! Sammelt euch vielmehr Schätze im Himmel, wo ewrder Mottennoch Rost sie vernichten und wo keine Diebe einbrechen und stehlen!",
+   "biblePassageTipp": "Matthäus 6,19-20",
+   "choice2": "Jesus",
+   "choice1": "Maria",
+   "choice3": "Elisabeth",
+   "choice4": "Zachäus",
+   "answer": 2
+ },
+ {
+   "question": "Macht euch keine Sorgen um den morgenden Tag! Denn der morgende Tag wird seine eigenen Sorgen haben.",
+   "biblePassageTipp": "Matthäus 6,34",
+   "choice3": "Jesus",
+   "choice2": "Josef",
+   "choice1": "Petrus ",
+   "choice4": "Paulus",
+   "answer": 3
+ },
+ {
+   "question": "Richtet nicht, damit ihr nicht gerichtet werdet!",
+   "biblePassageTipp": "Matthäus 7,1; Lukas 6,37",
+   "choice4": "Jesus",
+   "choice2": "Johannes der Täufer",
+   "choice3": "Silas",
+   "choice1": "Aquilla",
+   "answer": 4
+ },
+ {
+   "question": "Was siehst du aber den Splitter im Auge deines Bruders, während du den Balken in deinem eigenen Auge nicht wahrnimmst?",
+   "biblePassageTipp": "Matthäus 7,3; Lukas 6,41",
+   "choice1": "Jesus",
+   "choice2": "Petrus  ",
+   "choice3": "Nikodemus",
+   "choice4": "Matthias",
+   "answer": 1
+ },
+ {
+   "question": "Gehet durch die Enge Pforte ein; denn weit ist die Pforte und breit der Weg, derins Verderben führt, und es sind ihrer viele, die auf ihm hineingehen. Eng dagegen ist die Pforte und schmal der Weg, derins Leben führt, und nur wenige sind es, die ihn finden.",
+   "biblePassageTipp": "Matthäus 7,13-14; Lukas 13,24",
+   "choice2": "Jesus",
+   "choice1": "Johannes der Täufer",
+   "choice3": "Timotheus",
+   "choice4": "Paulus",
+   "answer": 2
+ },
+ {
+   "question": "Darum wird jeder, der diese meine Worte hört und nach ihnen tut, einem klugen Manne gleichen, der sein Haus auf Felsengrund gebaut hat.",
+   "biblePassageTipp": "Matthäus 7,24; Lukas 6,47-48",
+   "choice3": "Jesus",
+   "choice2": "Salomo",
+   "choice1": "Gabriel",
+   "choice4": "Bartholomäus",
+   "answer": 3
+ },
+ {
+   "question": "Herr, wenn du willst, kannst du mich reinigen.",
+   "biblePassageTipp": "Matthäus 8,2; Markus 1,40; Lukas 5,12",
+   "choice4": "Ein Aussätziger",
+   "choice2": "Ein von Dämonen Besessener",
+   "choice3": "Ein Blinder",
+   "choice1": "Ein Lahmer",
+   "answer": 4
+ },
+ {
+   "question": "Herr, mein Diener liegt gelähmt bei mir zu Hause darnieder und leidet schreckliche Schmerzen.",
+   "biblePassageTipp": "Matthäus 8,6; Lukas 7,3",
+   "choice1": "Ein Hauptmann",
+   "choice2": "Ein Priester",
+   "choice3": "Ein Jünger Jesu",
+   "choice4": "Ein Schriftgelehrter",
+   "answer": 1
+ },
+ {
+   "question": "Herr, ich bin nicht wert, dass du unter mein Dach trittst; nein, gebite nur mit einem Wort, dann wird mein Diener gesund werden.",
+   "biblePassageTipp": "Matthäus 8,8; Lukas 7,6",
+   "choice2": "Ein Hauptmann",
+   "choice1": "Eine Samaritanerin",
+   "choice3": "Eine arme Witwe",
+   "choice4": "Simon der Zylot",
+   "answer": 2
+ },
+ {
+   "question": "Meister, ich will dir folgen, wohin du auch gehst!",
+   "biblePassageTipp": "Matthäus 8,19; Lukas 9,57",
+   "choice3": "Ein Schriftgelehrter",
+   "choice2": "Thomas",
+   "choice1": "Der reiche Jüngling",
+   "choice4": "Ein Synagogenvorsteher",
+   "answer": 3
+ },
+ {
+   "question": "Herr, erlaube mir, zuerst noch hinzugehen und meinen Vater zu begraben.",
+   "biblePassageTipp": "Matthäus 8,21; Lukas 9,59",
+   "choice4": "Ein Jünger",
+   "choice2": "Ein Priester",
+   "choice3": "Ein Sadduzäer",
+   "choice1": "Ein Pharisäer",
+   "answer": 4
+ },
+ {
+   "question": "Herr, hilf uns: wir gehen unter!",
+   "biblePassageTipp": "Matthäus 8,25; Markus 4,38; Lukas 8,24",
+   "choice1": "Die Jünger",
+   "choice2": "Jesu Geschwister",
+   "choice3": "Römische Gefangene ",
+   "choice4": "Jüdische Sklaven",
+   "answer": 1
+ },
+ {
+   "question": "Was ist das für ein Mann, dass sogar die Winde und der See ihm gehorsam sind!",
+   "biblePassageTipp": "Matthäus 8,27; Markus 4,41; Lukas 8,25",
+   "choice2": "Die Leute",
+   "choice1": "Die Gefangenen",
+   "choice3": "Die römischen Soldaten",
+   "choice4": "Die Jünger",
+   "answer": 2
+ },
+ {
+   "question": "Was hast du mit uns vor, du Sohn Gottes? Bist du hergekommen, um uns vor der Zeit zu quälen?",
+   "biblePassageTipp": "Matthäus 8,29; Markus 5,7; Lukas 8,28",
+   "choice3": "Zwei Besessene",
+   "choice2": "Zehn Aussätzige",
+   "choice1": "Vier Betrunkene ",
+   "choice4": "Drei Verräter",
+   "answer": 3
+ },
+ {
+   "question": "Sei getrost, mein Sohn: deine Sünden sind dir vergeben!",
+   "biblePassageTipp": "Matthäus 9,2; Markus 2,5; Lukas 5,20",
+   "choice4": "Jesus",
+   "choice2": "Ein Engel ",
+   "choice3": "Petrus",
+   "choice1": "Johannes",
+   "answer": 4
+ },
+ {
+   "question": "Steh auf, nimm dein Bett und gehe heim in dein Haus!",
+   "biblePassageTipp": "Matthäus 9,6; Markus 2,11; Lukas 5,24",
+   "choice1": "Jesus",
+   "choice2": "Paulus ",
+   "choice3": "Barnabas",
+   "choice4": "Timotheus ",
+   "answer": 1
+ },
+ {
+   "question": "Warum isst euer Meister mit den Zöllnern und Sündern?",
+   "biblePassageTipp": "Matthäus 9,11; Markus 2,16; Lukas 5,30",
+   "choice2": "Die Pharisäer",
+   "choice1": "Der reiche Jüngling",
+   "choice3": "Ein Synagogenvorsteher",
+   "choice4": "Eine Samariterin",
+   "answer": 2
+ },
+ {
+   "question": "Die Gesunden haben keinen Arzt nötig, wohl aber die Kranken!",
+   "biblePassageTipp": "Matthäus 9,12; Markus 2,17; Lukas 5,31",
+   "choice3": "Jesus",
+   "choice2": "Nikodemus",
+   "choice1": "Jakobus",
+   "choice4": "Matthäus",
+   "answer": 3
+ },
+ {
+   "question": "Warum fasten wir und die Pharisäer, während deine Jünger es nicht tun?",
+   "biblePassageTipp": "Matthäus 9,14; Markus 2,18",
+   "choice4": "Die Jünger des Johannes ",
+   "choice2": "Jesu leibliche Familie",
+   "choice3": "Eine Gruppe frommer Samaritaner ",
+   "choice1": "Nikodemus ",
+   "answer": 4
+ },
+ {
+   "question": "Meine Tochter ist soeben gestorben; aber komm und lege ihr deine Hand auf, dann wird sie wieder zum Leben erwachen.",
+   "biblePassageTipp": "Matthäus 9,18; Markus 5,23",
+   "choice1": "Ein Synagogenvorsteher",
+   "choice2": "Ein römischer Hauptmann",
+   "choice3": "Ein Pharisäer",
+   "choice4": "Ein einfacher Mann",
+   "answer": 1
+ },
+ {
+   "question": "Wenn ich nur seinen Rock anfasse, so wird mir geholfen sein.",
+   "biblePassageTipp": "Matthäus 9,21; Markus 5,28",
+   "choice2": "Eine kranke Frau",
+   "choice1": "Ein Aussätziger",
+   "choice3": "Ein Gelähmter",
+   "choice4": "Ein Blinder",
+   "answer": 2
+ }
+]

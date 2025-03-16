@@ -38,7 +38,8 @@ bookHtmlBtns.forEach((bookBtn) => {
     localStorage.setItem(MODE_ChooseBook_ALL_QUESTIONS,  JSON.stringify(choosenBookQuestions));
     console.log(localStorage.getItem(MODE_ChooseBook_ALL_QUESTIONS))
 
-    const quizMode = new QuizModeChooseBook();
     quizMode.startNewFromCache();
   });
 });
+
+const quizMode = new QuizModeChooseBook();
