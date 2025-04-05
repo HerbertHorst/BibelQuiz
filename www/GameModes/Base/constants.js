@@ -17,3 +17,4 @@ export const MODE_ChooseBook_RECENT_SCORE = 'mode_chooseBook_mostRecentScore';
 export const CORRECT_BONUS = 1;
 export const CORRECT_TIPP_BONUS = 0.5;
 export const WAIT_TIMEOUT = 1500;
+export const SAVED_QUESTION = 'saved_question';

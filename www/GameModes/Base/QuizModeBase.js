@@ -1,4 +1,5 @@
 // QuizModeBase.js
+import { GameState } from './GameState.js';
 
 export class QuizModeBase {
     constructor(constants) {
@@ -11,14 +12,11 @@ export class QuizModeBase {
         this.errorText = document.getElementById('errorText');
         this.progressBarFull = document.getElementById('progressBarFull');
         this.constants = constants;
-        this.currentQuestion = {};
         this.acceptingAnswers = false;
-        this.score = 1;
-        this.questionCounter = 0;
-        this.availableQuestions = [];
-        this.allQuestions = [];
-        this.jsonFileContent = "Not filled File";
         this.rightAnswer = [];
+        
+        this.gameState = new GameState(constants);
+        this.gameState.loadFromCache();
 
         this.initializeChoiceListeners();
 
@@ -51,7 +49,6 @@ export class QuizModeBase {
         }
         // Wenn der Tipp-Text schon sichtbar ist, mache nichts mehr
         if (this.tipp.style.visibility === "visible") {
-            console.log("AAAAAAAAAAAA")
             return;
         }
 
@@ -123,46 +120,25 @@ export class QuizModeBase {
 
     //#endregion
 
-    checkForCacheValues(e){
-        this.allQuestions = JSON.parse(localStorage.getItem(this.constants.ALL_QUESTIONS));
-        this.availableQuestions = JSON.parse(localStorage.getItem(this.constants.AVAILABLE_QUESTIONS));
-        this.score = parseInt(localStorage.getItem(this.constants.SCORE));
-        console.log(this.constants.AVAILABLE_QUESTIONS)
-        console.log(this.constants.ALL_QUESTIONS)
-        console.log(this.score)
-        // if(this.allQuestions !== null && this.availableQuestions !== null && this.score !== NaN){
-        if(this.allQuestions !== null){
-          return true;
-        }
-        else{   
-          return false;
-        }
-      }
-
+    //#region Start Game
     continueFromCache(e) {        
-        if (this.checkForCacheValues()) {
-            this.availableQuestions = JSON.parse(localStorage.getItem(this.constants.AVAILABLE_QUESTIONS));
-            this.allQuestions = JSON.parse(localStorage.getItem(this.constants.ALL_QUESTIONS));
-            if (this.availableQuestions !== null && this.availableQuestions.length > 0) {
-                this.hideLoadFilePart();
-                this.resumeGame();
-            }
+        if (this.gameState.hasValidData()) {        
+            this.hideLoadFilePart();
+            this.resumeGame();
         } else {
             this.errorText.innerText = "Could not get data from cache. <br> Please select your questions.json file manually.";
         }
     }
+
     startNewFromCache(e) {
-        if (this.checkForCacheValues()) {                
-            this.allQuestions = JSON.parse(localStorage.getItem(this.constants.ALL_QUESTIONS));
-            if (this.allQuestions !== null && this.allQuestions.length > 0) {
-                this.hideLoadFilePart();
-                this.startGame();
-            }
+        if (this.gameState.hasValidData()) {           
+            this.hideLoadFilePart();
+            this.startGame();
         } else {
             this.errorText.innerText = "Could not get data from cache. Please select your file manually.";
         }
     }
-    
+
     hideLoadFilePart() {
         const x = document.getElementById("loadFileFromDisk");
         if (x.style.display === "none") {
@@ -173,47 +149,52 @@ export class QuizModeBase {
     }
 
     startGame = () => {
-        this.questionCounter = 0;
-        this.score = 0;
-        this.availableQuestions = [...this.allQuestions];
-        localStorage.setItem(this.constants.ALL_QUESTIONS, JSON.stringify(this.availableQuestions));
+        this.gameState.questionCounter = 0;
+        this.gameState.score = 0;
+        this.gameState.availableQuestions = [...this.gameState.allQuestions];
+        localStorage.setItem(this.constants.ALL_QUESTIONS, JSON.stringify(this.gameState.availableQuestions));
         this.getNewQuestion();
         document.getElementById("game").style.display = "flex";
         // loader.classList.add('hidden');
       };
-
     resumeGame = () => {
-        this.questionCounter = this.allQuestions.length - this.availableQuestions.length;
-        this.score = parseFloat(localStorage.getItem(this.constants.SCORE));
-        this.scoreText.innerText = this.score;
-        this.availableQuestions;
+        this.gameState.questionCounter = this.gameState.allQuestions.length - this.gameState.availableQuestions.length;
+        this.scoreText.innerText = this.gameState.score;
         this.getNewQuestion();
         document.getElementById("game").style.display = "flex";
         // loader.classList.add('hidden');
     };
 
+    //#endregion
+
     getNewQuestion() {
-        if (this.availableQuestions.length === 0) {
-            localStorage.setItem(this.constants.RECENT_SCORE, this.score);
-            return window.location.assign('../../Menus/end.html');
+        if (this.gameState.savedQuestion !== null && this.gameState.savedQuestion.question)
+        {
+            console.log("Saved question found:", this.gameState.savedQuestion.question);
+            this.gameState.currentQuestion = this.gameState.savedQuestion
+            this.addGooseFeet(this.gameState.currentQuestion.question);
+            // gameState.savedQuestion is only set from cache while starting the game. Because of that this works even when saveToCache() writes every question in the cache. 
+            this.gameState.savedQuestion = null;
         }
-        localStorage.setItem(this.constants.AVAILABLE_QUESTIONS, JSON.stringify(this.availableQuestions));
-        localStorage.setItem(this.constants.SCORE, this.score);   
-    
-        this.updateProgressBar();
-
-        const questionIndex = this.setNewRandomQuestion();
+        else{
+            if (this.gameState.availableQuestions.length === 0) {
+                localStorage.setItem(this.constants.RECENT_SCORE, this.gameState.score);
+                return window.location.assign('../../Menus/end.html');
+            }
+            const questionIndex = this.setNewRandomQuestion();
+            this.gameState.availableQuestions.splice(questionIndex, 1);
+        }
+        this.updateProgressBar();  
         this.shuffleAnswers();
-        // this.tipp.innerHTML = this.currentQuestion.biblePassageTipp;
-        this.getTippTextAsLink();
-
-        this.availableQuestions.splice(questionIndex, 1);
+        this.getTippTextAsLink();    
         this.acceptingAnswers = true;
+        this.gameState.saveToCache();
+        console.log("NOCHMAL WAS DA STEHT!: ", this.gameState.savedQuestion);
     }
 
     async getTippTextAsLink(){
         // Trenne die verschiedenen Bibelstellen / Split the Text for when more than 1 bibel position is in the Tipp. 
-        const passages = this.currentQuestion.biblePassageTipp.split("; ");
+        const passages = this.gameState.currentQuestion.biblePassageTipp.split("; ");
     
         // Leere den Container zuerst / Clear Text in container
         this.tipp.innerHTML = "";
@@ -240,8 +221,8 @@ export class QuizModeBase {
     }
 
     incrementScore(num) {
-        this.score += num;
-        this.scoreText.innerText = this.score;
+        this.gameState.score += num;
+        this.scoreText.innerText = this.gameState.score;
     }
 
     shuffleAnswers() {
@@ -258,31 +239,36 @@ export class QuizModeBase {
 
         for (let i = 0; i < this.choices.length; i++) {
             const choice = this.choices[i];
-            if (answers[i] === this.currentQuestion.answer) {
+            if (answers[i] === this.gameState.currentQuestion.answer) {
                 //fill 'rightanswer' with all the answers that are allowed
                 this.rightAnswer.push(i + 1);                
                 console.log(this.rightAnswer);
             }
-            choice.innerHTML = this.currentQuestion['choice' + answers[i]];
+            choice.innerHTML = this.gameState.currentQuestion['choice' + answers[i]];
         }
     }
 
     updateProgressBar() {
-        this.questionCounter++;
-        this.progressText.innerText = `Question ${this.questionCounter}/${this.allQuestions.length}`;
-        this.progressBarFull.style.width = `${(this.questionCounter / this.allQuestions.length) * 100}%`;
+        this.gameState.questionCounter++;
+        this.progressText.innerText = `Question ${this.gameState.questionCounter}/${this.gameState.allQuestions.length}`;
+        this.progressBarFull.style.width = `${(this.gameState.questionCounter / this.gameState.allQuestions.length) * 100}%`;
     }
 
     setNewRandomQuestion() {
-        const questionIndex = Math.floor(Math.random() * this.availableQuestions.length);
-        this.currentQuestion = this.availableQuestions[questionIndex];
-
-        //Check for "" and if not present add them for the UI text. 
-        if (!(this.currentQuestion.question.startsWith('"'))) {
-            this.questionText.innerHTML = `"${this.currentQuestion.question}"`;
-        } else {
-            this.questionText.innerHTML = this.currentQuestion.question;
-        }
+        const questionIndex = Math.floor(Math.random() * this.gameState.availableQuestions.length);
+        this.gameState.currentQuestion = this.gameState.availableQuestions[questionIndex];
+        this.addGooseFeet(this.gameState.currentQuestion.question);
         return questionIndex;
     }
+
+    //#region UI functions
+    addGooseFeet(questionText) {
+        //Check for "" and if not present add them for the UI text. 
+        if (!questionText.startsWith('"')) {
+            this.questionText.innerHTML = `"${questionText}"`;
+        } else {
+            this.questionText.innerHTML = questionText;
+        }
+    }
+    //#endregion
 }
