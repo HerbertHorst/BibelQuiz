@@ -1,8 +1,11 @@
-V6.4
-   - Start instant when opening the App (no extra pressing continue)
-   - remove continu/startNew Button From Choose Book screen
-   - Add link to Bibelserver in Tipp Container
+V6.6
    - Added InAppBrowser Plugin to projekt
+   - Added localStorageItem savedQuestion for when coming back to Game (Currently score cointing gets of because when coming back the tipp is invisible again)
+V6.5
+   - Add link to Bibelserver in Tipp Container
+V6.4 
+   - Start instant when opening the App (no extra pressing continue)
+   - Remove continu/startNew Button From Choose Book screen
 V6.3
    - change Design to flex to bottom 
    - GIT
