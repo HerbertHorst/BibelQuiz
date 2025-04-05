@@ -66,7 +66,7 @@
 }
 
 .tipp-prefix {
-  padding: 1.5rem 2.5rem;
+  padding: 1.5rem 2rem;
   background-color: #11293f9a;
   font-size: 18px;
   color: white;
@@ -82,7 +82,7 @@
   color: rgb(235, 237, 255); /* Standardfarbe des Links */
   text-decoration: none; /* Keine Unterstreichung */
   transition: color 0.3s ease-in-out; /* Sanfter Farbübergang */
-  padding: 20px; /* Macht die Hitbox um den Link größer */
+  padding: 5px; /* Macht die Hitbox um den Link größer */
 }
 
 .correct {

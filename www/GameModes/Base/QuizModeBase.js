@@ -211,34 +211,32 @@ export class QuizModeBase {
         this.acceptingAnswers = true;
     }
 
-    getTippTextAsLink(){
-        
+    async getTippTextAsLink(){
         // Trenne die verschiedenen Bibelstellen / Split the Text for when more than 1 bibel position is in the Tipp. 
         const passages = this.currentQuestion.biblePassageTipp.split("; ");
     
         // Leere den Container zuerst / Clear Text in container
         this.tipp.innerHTML = "";
-    
+        
         passages.forEach(passage => {
             const formattedPassage = passage.replace(" ", "");
             const url = `https://www.bibleserver.com/ELB/${encodeURIComponent(formattedPassage)}`;
-    
+        
             // Erstelle das Link-Element
             const link = document.createElement("a");
             link.href = url;
             link.innerText = passage;
-            link.style.marginRight = "5px"; // Optional für Abstand zwischen Links
+            // link.style.marginRight = "5px"; // Optional für Abstand zwischen Links
             
             // In-App-Browser beim Klicken öffnen
             link.addEventListener("click", (e) => {
                 e.preventDefault(); // Standardverhalten verhindern
-                window.open(url, "_blank", "location=no");
+                window.open(url, "_blank"); // Öffnet den Link im Standard-Browser
             });
 
             // Füge den Link in den Container ein
             this.tipp.appendChild(link);
         });
-    
     }
 
     incrementScore(num) {

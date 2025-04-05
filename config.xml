@@ -8,5 +8,28 @@
     <name>Bibel Zitate Quizz</name>
     <description> Erste Version vom Bibel Quizz mit möglichkeit der Verwendung eines eigenen Fragenkataloges </description>
     <author>HerbertHorst</author>
-	<plugin name="cordova-plugin-inappbrowser"/>
+	
+    <!-- Plattformen -->
+    <platform name="android" />
+	
+	
+    <!-- Erlaubt Navigation zu beliebigen Seiten -->
+    <allow-navigation href="*" />
+    <allow-intent href="*" />
+    <access origin="*" />
+
+    <!-- Sicherheitsrichtlinie für externe Inhalte -->
+    <content-security-policy>
+        default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval';
+        style-src 'self' 'unsafe-inline';
+        script-src 'self' 'unsafe-inline' 'unsafe-eval' https://ajax.googleapis.com;
+    </content-security-policy>
+
+    <!-- Plugins -->
+    <plugin name="cordova-plugin-inappbrowser" source="npm" />
+
+    <!-- Einstellungen für InAppBrowser -->
+    <preference name="AllowInlineMediaPlayback" value="true" />
+    <preference name="MediaPlaybackRequiresUserAction" value="false" />
+	
 </widget>
