@@ -156,3 +156,7 @@
     transform: rotate(360deg);
   }
 }
+.question-background {
+  display: flex;
+  flex-direction: column; /* Stellt sicher, dass die Kinder untereinander erscheinen */
+}

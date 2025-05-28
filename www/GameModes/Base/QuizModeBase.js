@@ -220,11 +220,6 @@ export class QuizModeBase {
         });
     }
 
-    incrementScore(num) {
-        this.gameState.score += num;
-        this.scoreText.innerText = this.gameState.score;
-    }
-
     shuffleAnswers() {
         this.rightAnswer = [];
         let answers = [1, 2, 3, 4];
@@ -248,12 +243,6 @@ export class QuizModeBase {
         }
     }
 
-    updateProgressBar() {
-        this.gameState.questionCounter++;
-        this.progressText.innerText = `Question ${this.gameState.questionCounter}/${this.gameState.allQuestions.length}`;
-        this.progressBarFull.style.width = `${(this.gameState.questionCounter / this.gameState.allQuestions.length) * 100}%`;
-    }
-
     setNewRandomQuestion() {
         const questionIndex = Math.floor(Math.random() * this.gameState.availableQuestions.length);
         this.gameState.currentQuestion = this.gameState.availableQuestions[questionIndex];
@@ -270,5 +259,18 @@ export class QuizModeBase {
             this.questionText.innerHTML = questionText;
         }
     }
+
+    incrementScore(num) {
+        this.gameState.score += num;
+        this.scoreText.innerText = this.gameState.score;
+    }
+    
+    updateProgressBar() {
+        this.gameState.questionCounter++;
+        this.progressText.innerText = `Question ${this.gameState.questionCounter}/${this.gameState.allQuestions.length}`;
+        this.progressBarFull.style.width = `${(this.gameState.questionCounter / this.gameState.allQuestions.length) * 100}%`;
+    }
+
+
     //#endregion
 }

@@ -1,0 +1,82 @@
+{
+  "1. Mose": [
+    {
+      "question": "Es werde Licht!",
+      "biblePassageTipp": "1.Mose 1,3",
+      "choice1": "Gott",
+      "choice2": "Jesus",
+      "choice3": "Ein Blinder",
+      "choice4": "Zwei Blinde",
+      "answer": 1
+    },
+    {
+      "question": "Es sammle sich das Wasser unterhalb des Himmels an einen besonderen Ort.",
+      "biblePassageTipp": "1.Mose 1,9",
+      "choice1": "Gott",
+      "choice2": "Elia",
+      "choice3": "Jeremia",
+      "choice4": "Elisa",
+      "answer": 1
+    }
+  ],
+  "2. Mose": [
+	{
+		"question": "Seht das Volk der Israeliten wird uns zu zahlreich und zu stark. Wohlan, wir wollen klug gegen sie zu Werke gehen, damit ihrer nicht noch mehr werden; sonst könnte es geschehen, dass, wenn ein Krieg ausbräche, sie sich auch noch zu unsern Feinden schlügen und gegen uns kämpften und aus dem Lande wegzögen.",
+		"biblePassageTipp": "2.Mose 1,9-10",
+		"choice1": "ägyptischer König",
+		"choice2": "babylonischer König",
+		"choice3": "midianitischer König",
+		"choice4": "edomitischer König",
+		"answer": 1
+	},
+	{
+		"question": "Wenn ihr den Hebräerinnen bei der Geburt Hilfe leistet, so gebt bei der Entbindung wohl acht: wenn das Kind ein Knabe ist, so tötet ihn! Ist es aber ein Mädchen, so mag es am Leben bleiben!",
+		"biblePassageTipp": "2.Mose 1,16",
+		"choice1": "ägyptischer König",
+		"choice2": "babylonischer König",
+		"choice3": "midianitischer König",
+		"choice4": "edomitischer König",
+		"answer": 1
+	}
+],
+ "Matthäus": [
+    {
+      "question": "\"Josef, Sohn Davids, trage keinerlei Bedenken, Maria, deine Verlobte, als Ehefrau zu dir zu nehmen.\"",
+      "biblePassageTipp": "Matthäus 1,20",
+      "choice1": "Gabriel",
+      "choice2": "Michael",
+      "choice3": "Zacharias",
+      "choice4": "Jesus",
+      "answer": 1
+    },
+    {
+      "question": "\"Wo ist der neugeborene König der Juden? Wir haben nämlich seinen Stern im Osten gesehen und sind hergekommen, um ihm unsere Huldigung darzubringen.\"",
+      "biblePassageTipp": "Matthäus 2,2",
+      "choice1": "Die Weisen",
+      "choice2": "Die Hirten",
+      "choice3": "Herodes Gefolge",
+      "choice4": "Die Priester",
+      "answer": 1
+    }
+  ],
+  "Lukas": [
+    {
+      "question": "\"Weil bekanntlich schon viele es unternommen haben, einen Bericht über die Begebenheiten, die sich unter uns erfüllt haben, so abzufassen, wie die Männer sie uns überliefert haben, die von Anbeginn an Augenzeugen und Diener des Wortes gewesen sind, habe auch ich mich entschlossen, nachdem ich allen Tatsachen von den Anfängen an sorgfältig nachgegangen bin, alles für dich, hochedler Theophilus, in richtiger Reihenfolge aufzuzeichnen.\"",
+      "biblePassageTipp": "Lukas 1,1-3",
+      "choice1": "Lukas",
+      "choice2": "Matthäus",
+      "choice3": "Markus",
+      "choice4": "Johannes",
+      "answer": 1
+    },
+    {
+      "question": "\"Fürchte dich nicht, Zacharias, denn dein Gebet hat Erhörung gefunden.\"",
+      "biblePassageTipp": "Lukas 1,13",
+      "choice1": "Gabriel",
+      "choice2": "Michael",
+      "choice3": "Jesaja",
+      "choice4": "Elia",
+      "answer": 1
+    }
+  ]
+}
