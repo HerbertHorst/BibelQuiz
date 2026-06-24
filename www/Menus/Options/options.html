@@ -6,82 +6,22 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Einstellungen</title>
     <link rel="stylesheet" href="../../app.css" />
-    <!-- SheetJS (Browser) für den Excel-Upload. Klassisches Script -> setzt globalThis.XLSX vor dem Modul. -->
-    <script src="../../vendor/xlsx.full.min.js"></script>
     <style>
       .settings-section {
         width: 100%;
         max-width: 40rem;
         margin-bottom: 2.5rem;
       }
-      /* Aufklappbare Katalog-Liste: standardmäßig zugeklappt, damit sie nicht
-         einen ganzen Bildschirm einnimmt. */
-      .catalog-details {
-        border: 0.1rem solid rgba(86, 165, 235, 0.4);
-        background-color: rgba(0, 0, 0, 0.1);
-        padding: 0 1rem;
-      }
-      .catalog-summary {
-        cursor: pointer;
-        list-style: none;
-        color: #9dc4e7de;
-        font-size: 2.4rem;
-        font-weight: 500;
-        text-align: center;
-        padding: 1.2rem 2rem;
-        user-select: none;
-      }
-      .catalog-summary::-webkit-details-marker {
-        display: none;
-      }
-      .catalog-summary::after {
-        content: " ▾";
-        color: #56a5eb;
-      }
-      .catalog-details[open] .catalog-summary::after {
-        content: " ▴";
-      }
-      .catalog-count {
-        color: #7fa8c9;
-        font-size: 1.6rem;
-      }
-      #catalogList {
-        padding-bottom: 1rem;
-      }
-      .catalog-row {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 1rem;
-        border: 0.1rem solid #56a5eb;
-        background-color: rgba(75, 73, 73, 0.295);
-        padding: 1rem;
-        margin-bottom: 1rem;
-      }
       .catalog-info {
         color: #9dc4e7de;
         font-size: 1.5rem;
         text-align: left;
       }
-      .catalog-info small {
-        color: #7fa8c9;
-        font-size: 1.2rem;
-      }
-      #catalogList .smallbtn {
-        width: 9rem;
-        margin-bottom: 0;
-      }
-      #importStatus,
       #settingsStatus {
         color: #9dc4e7de;
         font-size: 1.4rem;
         min-height: 2rem;
         text-align: center;
-      }
-      select.btn {
-        width: 22rem;
-        color: #333;
-        background-color: #dde9f5;
       }
     </style>
   </head>
@@ -89,27 +29,8 @@
     <div class="container flex-column flex-center">
       <h1>Einstellungen</h1>
 
-      <details class="settings-section catalog-details">
-        <summary class="catalog-summary">
-          Installierte Kataloge<span id="catalogCount" class="catalog-count"></span>
-        </summary>
-        <div id="catalogList" class="flex-column"></div>
-      </details>
-
       <div class="settings-section flex-column flex-center">
-        <h3>Katalog hinzufügen / ersetzen</h3>
-        <input type="text" id="uploadTitle" placeholder="Titel (z. B. Wer hat gesagt – AT)" />
-        <select id="uploadType" class="btn">
-          <option value="zitate">Wer hat gesagt (Zitate)</option>
-          <option value="wo_steht">Wo steht</option>
-          <option value="allgemein">Allgemeine Fragen / Zahlen</option>
-        </select>
-        <select id="replaceTarget" class="btn">
-          <option value="">Als neuen Katalog hinzufügen</option>
-        </select>
-        <input type="file" id="uploadFile" class="btn" accept=".xlsx,.json" />
-        <p class="btn" id="importBtn">Importieren</p>
-        <p id="importStatus"></p>
+        <a class="btn" href="./catalogs.html">Kataloge verwalten</a>
       </div>
 
       <div class="settings-section flex-column flex-center">

@@ -216,14 +216,29 @@ function renderFooter(result) {
   // Niederlage: Lösung zeigen und auf den Start zurücksetzen.
   el.status.textContent = 'Leider falsch.';
   el.status.className = 'bg-status fail';
+  // Den Luther-Hinweis nur einblenden, wenn die aktuelle Auswahl betroffene
+  // Bücher enthält – also die Luther-Reihenfolge sich von der Elberfelder-
+  // Lösung unterscheidet (sonst ist er irreführend/überflüssig).
+  const lutherDiffers = !sameOrder(target, targetLuther);
   el.solution.innerHTML =
     '<div class="bg-solution-title">Richtige Reihenfolge:</div>' +
-    target.map((b, i) => `${i + 1}. ${b}`).join('<br>');
+    target
+      .map(
+        (b, i) =>
+          `${i + 1}. ${b}` +
+          ` <span class="bg-solution-rank">(${orderIndex.get(b) + 1}. Buch der Bibel)</span>`
+      )
+      .join('<br>') +
+    (lutherDiffers
+      ? '<div class="bg-solution-note">In der Lutherbibel stehen Hebräer und ' +
+        'Jakobus an anderer Stelle – eine solche Anordnung gilt ebenfalls als ' +
+        'richtig.</div>'
+      : '');
   el.solution.classList.remove('hidden');
   el.action.textContent = 'Nochmal';
   el.action.classList.remove('hidden');
   el.action.onclick = () => {
-    count = START_COUNT;
+    count = Math.max(START_COUNT, count - 1);
     startRound();
   };
 }

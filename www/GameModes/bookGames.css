@@ -41,15 +41,6 @@
   margin: 0;
 }
 
-/* Dezenter Hinweis (z. B. Schlachter/Elberfelder vs. Luther). */
-.bg-note {
-  color: rgba(157, 196, 231, 0.72);
-  font-size: 1.25rem;
-  line-height: 1.4;
-  text-align: center;
-  margin: 0;
-}
-
 /* Spielfeld mittig zwischen Kopf- und Fusszeile zentrieren. */
 .bg-stage {
   flex: 1;
@@ -140,6 +131,18 @@
 .bg-solution .bg-solution-title {
   color: #9dc4e7de;
   margin-bottom: 0.5rem;
+}
+/* Globaler Rang des Buchs in der ganzen Bibel (1–66), dezent neben dem Namen. */
+.bg-solution .bg-solution-rank {
+  color: rgba(157, 196, 231, 0.6);
+  font-size: 1.25rem;
+}
+/* Dezenter Luther-Hinweis, nur eingeblendet wenn die Auswahl betroffen ist. */
+.bg-solution .bg-solution-note {
+  color: rgba(157, 196, 231, 0.72);
+  font-size: 1.25rem;
+  line-height: 1.4;
+  margin-top: 0.8rem;
 }
 
 /* ===== AT/NT-Spiel ===== */

@@ -1,3 +1,7 @@
+V7.1
+   - catalog list + add/replace moved into their own submenu (catalogs.html) to keep the settings clean
+   - Fixed dark/unreadable info text on the difficulty screen (hud-prefix now gets a light color there)
+   - sort books only removes 1 lvl instead of all when answering wrong
 V7.0
    - Multi-Catalog system: questions are no longer one big JSON blob. Categories -> Books -> Questions, managed in localStorage (CatalogStore), seeded once from bundled.mjs
    - Excel -> JSON build pipeline (Skripte/, npm run build) plus in-app upload to import/replace catalogs (SheetJS), shared converter catalogConverter.mjs

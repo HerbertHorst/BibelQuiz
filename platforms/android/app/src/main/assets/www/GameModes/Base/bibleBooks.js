@@ -36,6 +36,20 @@ export const OT_BOOKS_ORDER = OT_BOOKS.filter((b) => b !== "Psalmen");
 export const NT_BOOKS_ORDER = [...NT_BOOKS];
 export const BIBLE_BOOKS_ORDER = [...OT_BOOKS_ORDER, ...NT_BOOKS_ORDER];
 
+// Luther-Bibel: dieselben 66 Bücher, aber im NT stehen Hebräer und Jakobus an
+// anderer Stelle – nach den Johannesbriefen (vor Judas) statt direkt hinter
+// Philemon. Das AT ist bei Luther/Elberfelder/Schlachter gleich geordnet.
+// Wird im Sortier-Spiel zusätzlich als gültige Lösung akzeptiert.
+export const NT_BOOKS_ORDER_LUTHER = [
+  "Matthäus", "Markus", "Lukas", "Johannes", "Apostelgeschichte",
+  "Römer", "1. Korinther", "2. Korinther", "Galater", "Epheser",
+  "Philipper", "Kolosser", "1. Thessalonicher", "2. Thessalonicher",
+  "1. Timotheus", "2. Timotheus", "Titus", "Philemon",
+  "1. Petrus", "2. Petrus", "1. Johannes", "2. Johannes", "3. Johannes",
+  "Hebräer", "Jakobus", "Judas", "Offenbarung",
+];
+export const BIBLE_BOOKS_ORDER_LUTHER = [...OT_BOOKS_ORDER, ...NT_BOOKS_ORDER_LUTHER];
+
 /**
  * Liefert "AT" / "NT" für ein bekanntes Buch, sonst null.
  * @param {string} book

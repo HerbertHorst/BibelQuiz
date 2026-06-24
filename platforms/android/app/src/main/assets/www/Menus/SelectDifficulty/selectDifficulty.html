@@ -6,6 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Bibel Quiz – Schwierigkeit wählen</title>
     <link rel="stylesheet" href="../../app.css" />
+    <style>
+      /* .hud-prefix wird in game.css hell gefärbt, das hier aber nicht geladen.
+         Ohne diese Regel greift `* { color: #333 }` -> dunkler, kaum lesbarer
+         Infotext auf dem dunklen Hintergrund. */
+      .hud-prefix {
+        color: rgba(240, 248, 255, 0.85);
+      }
+      /* Das <strong> wird sonst von `* { color: #333 }` direkt dunkel gefärbt
+         (Inline-Erbung greift nicht), daher Überschrift explizit aufhellen. */
+      .hud-prefix strong {
+        color: #9dc4e7de;
+      }
+    </style>
   </head>
   <body>
     <div class="container">

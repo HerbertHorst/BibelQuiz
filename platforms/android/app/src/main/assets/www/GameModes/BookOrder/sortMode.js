@@ -5,14 +5,22 @@
 // gleichermaßen mit Maus und Touch (Cordova-WebView) funktioniert.
 // Start mit 4 Büchern; jede komplett richtige Runde fügt 2 weitere hinzu.
 // Ein Fehler beendet die Runde -> zurück auf 4 (Bestwert bleibt erhalten).
-import { BIBLE_BOOKS_ORDER } from '../Base/bibleBooks.js';
+import {
+  BIBLE_BOOKS_ORDER,
+  BIBLE_BOOKS_ORDER_LUTHER,
+} from '../Base/bibleBooks.js';
 
 const START_COUNT = 4;
 const STEP = 2;
 const MAX_COUNT = BIBLE_BOOKS_ORDER.length;
 
-// Globaler Rang jedes Buchs (kanonische Bibel-Reihenfolge) für das Sortieren.
+// Globaler Rang jedes Buchs. Maßgeblich (Anzeige der Lösung) ist Schlachter/
+// Elberfelder; die Luther-Reihenfolge wird zusätzlich als richtig akzeptiert.
 const orderIndex = new Map(BIBLE_BOOKS_ORDER.map((book, i) => [book, i]));
+const lutherIndex = new Map(BIBLE_BOOKS_ORDER_LUTHER.map((book, i) => [book, i]));
+
+// Zwei Folgen gleich? (Längen sind hier immer identisch.)
+const sameOrder = (a, b) => a.every((book, i) => book === b[i]);
 
 const el = {
   count: document.getElementById('countValue'),
@@ -26,7 +34,8 @@ const el = {
 // Spielzustand.
 let count = START_COUNT;
 let best = 0;
-let target = []; // korrekte Reihenfolge der aktuellen Auswahl
+let target = []; // korrekte Reihenfolge (Elberfelder) – wird als Lösung angezeigt
+let targetLuther = []; // ebenfalls akzeptierte Luther-Reihenfolge
 let order = []; // aktuelle Reihenfolge des Nutzers
 let locked = false; // nach der Auswertung gesperrt, bis Weiter/Nochmal
 
@@ -43,17 +52,19 @@ function shuffled(arr) {
 function startRound() {
   const subset = shuffled(BIBLE_BOOKS_ORDER).slice(0, count);
   target = [...subset].sort((a, b) => orderIndex.get(a) - orderIndex.get(b));
+  targetLuther = [...subset].sort((a, b) => lutherIndex.get(a) - lutherIndex.get(b));
   // Nicht zufällig schon korrekt starten lassen.
   do {
     order = shuffled(subset);
-  } while (count > 1 && order.every((b, i) => b === target[i]));
+  } while (count > 1 && (sameOrder(order, target) || sameOrder(order, targetLuther)));
   locked = false;
   render();
 }
 
 function evaluate() {
   locked = true;
-  const allCorrect = order.every((book, i) => book === target[i]);
+  // Sowohl Elberfelder- als auch Luther-Reihenfolge gelten als richtig.
+  const allCorrect = sameOrder(order, target) || sameOrder(order, targetLuther);
   if (allCorrect) {
     best = Math.max(best, count);
     if (count < MAX_COUNT) count += STEP;
@@ -135,9 +146,12 @@ function endDrag() {
   order = [...el.list.querySelectorAll('.sort-row')].map((r) => r.dataset.book);
 }
 
-el.list.addEventListener('pointermove', onPointerMove);
-el.list.addEventListener('pointerup', endDrag);
-el.list.addEventListener('pointercancel', endDrag);
+// Bewusst an window: so wird das Loslassen auch erkannt, wenn der Finger neben
+// dem Item endet oder die Pointer-Capture beim Umsortieren verloren geht
+// (sonst bliebe die Zeile fälschlich markiert).
+window.addEventListener('pointermove', onPointerMove);
+window.addEventListener('pointerup', endDrag);
+window.addEventListener('pointercancel', endDrag);
 
 // Positionsnummern an die aktuelle DOM-Reihenfolge anpassen (während des Drags).
 function renumber() {
@@ -202,14 +216,29 @@ function renderFooter(result) {
   // Niederlage: Lösung zeigen und auf den Start zurücksetzen.
   el.status.textContent = 'Leider falsch.';
   el.status.className = 'bg-status fail';
+  // Den Luther-Hinweis nur einblenden, wenn die aktuelle Auswahl betroffene
+  // Bücher enthält – also die Luther-Reihenfolge sich von der Elberfelder-
+  // Lösung unterscheidet (sonst ist er irreführend/überflüssig).
+  const lutherDiffers = !sameOrder(target, targetLuther);
   el.solution.innerHTML =
     '<div class="bg-solution-title">Richtige Reihenfolge:</div>' +
-    target.map((b, i) => `${i + 1}. ${b}`).join('<br>');
+    target
+      .map(
+        (b, i) =>
+          `${i + 1}. ${b}` +
+          ` <span class="bg-solution-rank">(${orderIndex.get(b) + 1}. Buch der Bibel)</span>`
+      )
+      .join('<br>') +
+    (lutherDiffers
+      ? '<div class="bg-solution-note">In der Lutherbibel stehen Hebräer und ' +
+        'Jakobus an anderer Stelle – eine solche Anordnung gilt ebenfalls als ' +
+        'richtig.</div>'
+      : '');
   el.solution.classList.remove('hidden');
   el.action.textContent = 'Nochmal';
   el.action.classList.remove('hidden');
   el.action.onclick = () => {
-    count = START_COUNT;
+    count = Math.max(START_COUNT, count - 1);
     startRound();
   };
 }
@@ -220,7 +249,9 @@ function render(result) {
 
   el.list.innerHTML = '';
   order.forEach((book, i) => {
-    const state = locked ? book === target[i] : null;
+    // Bei Erfolg alles grün (auch eine gültige Luther-Reihenfolge); bei
+    // Misserfolg je Position gegen die angezeigte Elberfelder-Lösung.
+    const state = locked ? (result === true ? true : book === target[i]) : null;
     el.list.appendChild(makeRow(book, i + 1, state));
   });
 

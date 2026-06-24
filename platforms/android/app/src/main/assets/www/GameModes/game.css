@@ -345,3 +345,23 @@
   opacity: 0.4;
   cursor: not-allowed;
 }
+
+/* ===== Tablet / große Screens =====
+   Auf Tablets stand die HUD-Leiste (Zurück / Bücher / Menu) durch die enge
+   max-width gestapelt und winzig da. Hier bekommt sie eine Reihe und nutzt die
+   verfügbare Breite mit größeren Buttons. */
+@media screen and (min-width: 768px) {
+  .menuButtons {
+    max-width: none;
+    flex-wrap: nowrap;
+    gap: 0.8rem;
+  }
+  .hudbtn {
+    font-size: 1.8rem;
+    padding: 0.8rem 1.6rem;
+    line-height: 1.3;
+  }
+  #progressBar {
+    width: 22rem;
+  }
+}
