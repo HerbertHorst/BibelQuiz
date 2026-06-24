@@ -11,12 +11,17 @@
     <div class="container">
       <div id="home" class="flex-center flex-column">
         <h1>Bibel Zitate Quiz</h1>
-        <h2>Wer hat gesagt</h2>
-        <a class="btn" href="../GameModes/selectMode.html">Play</a>
-        
-      <h3><br><br><br><br>Select/Update the json file with your question catalog.</h3>
-      <h3 class="hud-prefix" id="messageText"></h3>
-      <input id="file-input" class="btn" type="file" />
+
+        <!-- "Alle Fragen" + je Kategorie ein Button, dynamisch aus den
+             installierten Katalogen erzeugt (siehe startPage.js). -->
+        <div id="categoryButtons" class="flex-column flex-center"></div>
+
+        <div class="menuButtons flex-column flex-center">
+          <a class="btn" href="../GameModes/BookOrder/sortMode.html">Bücher sortieren</a>
+          <a class="btn" href="../GameModes/Testament/testamentMode.html">AT oder NT?</a>
+          <a class="btn" href="SelectDifficulty/selectDifficulty.html">Nach Schwierigkeit</a>
+          <a class="btn" href="Options/options.html">Einstellungen / Kataloge</a>
+        </div>
       </div>
     </div>
     <script type="module" src="./startPage.js"></script>

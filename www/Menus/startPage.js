@@ -1,39 +1,82 @@
+// startPage.js
+// Baut die Hauptseite dynamisch auf: ganz oben "Alle Fragen", darunter je
+// vorhandener Kategorie (Katalog-Typ) ein Button – inklusive eigener, vom
+// Nutzer importierter Kataloge – plus die Sonder-Kategorie "Zahlenfragen".
+// Ein Klick startet das Quiz direkt; die Buchwahl passiert danach im Drawer.
+import { CatalogStore } from '../GameModes/Base/CatalogStore.js';
+import {
+  SELECTED_TYPE,
+  SELECTED_BOOKS,
+  SELECTED_DIFFICULTY,
+  SELECTION_FRESH,
+  ZAHLEN_BOOK,
+  ZAHLEN_TYPE,
+  ZAHLEN_LABEL,
+} from '../GameModes/Base/constants.js';
 
-//CACHE CONSTANTS
-import { MODE_ENDLESS_ALL_QUESTIONS, MODE_ChooseBook_ALL_QUESTIONS } from './../GameModes/Base/constants.js';
-const JSON_DATA = "jsonFileString";
-const messageText = document.getElementById('messageText');
+// Direkter Einstieg in den (jetzt vereinheitlichten) Spiel-Bildschirm.
+const GAME_URL = '../GameModes/ChooseBook/chooseBookMode.html';
+const ALL_QUESTIONS_LABEL = 'Alle Fragen';
 
-//#region File Input Button 
-  //FileInput Button
-  document.getElementById('file-input').addEventListener('change', readSingleFile, false);
+// Erzeugt einen Auswahl-Button. type === "" bedeutet "alle Fragen".
+// books === null => alle Bücher der Kategorie; sonst Vorauswahl dieser Bücher.
+function createCategoryButton(label, type, books = null) {
+  const btn = document.createElement('a');
+  btn.className = 'btn';
+  btn.textContent = label;
+  btn.href = GAME_URL;
+  btn.addEventListener('click', () => {
+    // Auswahl merken und neue Runde erzwingen (kein Fortsetzen alter Spielstände).
+    localStorage.setItem(SELECTED_TYPE, type || '');
+    localStorage.setItem(SELECTED_BOOKS, JSON.stringify(books || []));
+    // Kategorie-Spiel ignoriert einen evtl. zuvor gesetzten Schwierigkeits-Filter.
+    localStorage.setItem(SELECTED_DIFFICULTY, '');
+    localStorage.setItem(SELECTION_FRESH, '1');
+  });
+  return btn;
+}
 
-  //read a file from the disk
-  function readSingleFile(e) {
-    var file = e.target.files[0];
-    if (!file) {
-      return;
-    }
-    var reader = new FileReader();
-    reader.onload = function(e) {
-      var contents = e.target.result;
-      const jsonFileContent = contents;
-      getQuestionsFromJson(jsonFileContent)
-    };
-    reader.readAsText(file);
-    messageText.innerText = "Loaded Json successfully.";
+// Installierte Kataloge nach Typ gruppieren und je Typ einen Anzeigetext liefern.
+// Bevorzugt den Einleitungstext (z. B. "Wer hat gesagt:"), sonst den Typnamen.
+function getCategories() {
+  const labelByType = new Map();
+  for (const meta of CatalogStore.listInstalled()) {
+    const type = meta.type || 'Sonstige';
+    if (labelByType.has(type)) continue;
+    const intro = (meta.introText || '').replace(/:\s*$/, '').trim();
+    labelByType.set(type, intro || type);
   }
-  
-  function getQuestionsFromJson(jsonFileContent){
-    const parsedJson = JSON.parse(jsonFileContent);
-    // To access all questions
-    const loadedQuestions = Object.values(parsedJson).flatMap(bookQuestions => bookQuestions);
-    const allQuestions = loadedQuestions;
+  return [...labelByType.entries()].map(([type, label]) => ({ type, label }));
+}
 
-    localStorage.setItem(MODE_ENDLESS_ALL_QUESTIONS, JSON.stringify(allQuestions));
-    localStorage.setItem(MODE_ChooseBook_ALL_QUESTIONS, JSON.stringify(allQuestions));
-    localStorage.setItem(JSON_DATA, jsonFileContent);
+// Prüft, ob das Buch "Zahlen" in einem Allgemeine-Fragen-Katalog vorhanden ist.
+function hasZahlenBook() {
+  return CatalogStore.listInstalled().some(
+    (meta) => meta.type === ZAHLEN_TYPE && (meta.books || []).includes(ZAHLEN_BOOK)
+  );
+}
+
+function renderButtons() {
+  const list = document.getElementById('categoryButtons');
+  if (!list) return;
+  list.innerHTML = '';
+
+  // Oberster Button: alle Fragen ohne Filter.
+  list.appendChild(createCategoryButton(ALL_QUESTIONS_LABEL, ''));
+
+  // Darunter dynamisch je vorhandener Kategorie.
+  for (const { type, label } of getCategories()) {
+    list.appendChild(createCategoryButton(label, type));
   }
 
+  // Sonder-Kategorie "Zahlenfragen": startet direkt nur mit dem Buch "Zahlen".
+  if (hasZahlenBook()) {
+    list.appendChild(createCategoryButton(ZAHLEN_LABEL, ZAHLEN_TYPE, [ZAHLEN_BOOK]));
+  }
+}
 
-//#endregion File Input
+document.addEventListener('DOMContentLoaded', async () => {
+  // Beim Erststart die mitgelieferten Kataloge laden, damit Kategorien erscheinen.
+  await CatalogStore.ensureSeeded();
+  renderButtons();
+});

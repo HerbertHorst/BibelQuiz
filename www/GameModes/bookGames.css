@@ -1,0 +1,217 @@
+/* bookGames.css
+   Gemeinsame Styles fuer die beiden Lernspiele:
+   - "Bücher sortieren" (GameModes/BookOrder/)
+   - "AT oder NT?"      (GameModes/Testament/)
+   Beide kommen ohne Katalog/Fragen-System aus und nutzen nur bibleBooks.js. */
+
+.bg-wrap {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  width: 100%;
+}
+
+/* Kopfzeile: Runde (= Anzahl Bücher), Bestwert, Menü. */
+.bg-hud {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.bg-stat {
+  text-align: center;
+  color: rgba(240, 248, 255, 0.85);
+}
+.bg-stat .bg-stat-label {
+  display: block;
+  font-size: 1.3rem;
+  color: rgba(240, 248, 255, 0.55);
+}
+.bg-stat .bg-stat-value {
+  font-size: 2.4rem;
+  color: #56a5eb;
+}
+
+.bg-instruction {
+  color: #9dc4e7de;
+  font-size: 1.6rem;
+  text-align: center;
+  margin: 0;
+}
+
+/* Dezenter Hinweis (z. B. Schlachter/Elberfelder vs. Luther). */
+.bg-note {
+  color: rgba(157, 196, 231, 0.72);
+  font-size: 1.25rem;
+  line-height: 1.4;
+  text-align: center;
+  margin: 0;
+}
+
+/* Spielfeld mittig zwischen Kopf- und Fusszeile zentrieren. */
+.bg-stage {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+}
+
+/* Senkrechte Reihe (auch von AT/NT-Spiel als Zeilen-Container genutzt). */
+.bg-placed {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  min-height: 4rem;
+}
+
+/* ===== Sortier-Spiel: untereinander, per Drag & Drop ordnen ===== */
+.bg-sortlist {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  min-height: 4rem;
+}
+.sort-row {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  border: 0.1rem solid rgba(86, 165, 235, 0.5);
+  background-color: rgba(41, 70, 124, 0.55);
+  padding: 1rem 1.1rem;
+  font-size: 1.9rem;
+  color: #eaf4ff;
+  user-select: none;
+  cursor: grab;
+  /* Die ganze Zeile ist greifbar; daher Browser-Scroll/Zoom hier unterdrücken. */
+  touch-action: none;
+  /* Beim Umsortieren gleiten die Zeilen an ihren neuen Platz (FLIP). */
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+.sort-row.dragging {
+  cursor: grabbing;
+  opacity: 0.97;
+  border-color: #56a5eb;
+  background-color: rgba(58, 96, 165, 0.78);
+  box-shadow: 0 0.8rem 1.8rem rgba(0, 0, 0, 0.6);
+  transform: scale(1.03);
+  position: relative;
+  z-index: 2;
+}
+.sort-row .ord-num {
+  flex: 0 0 2.6rem;
+  height: 2.6rem;
+  line-height: 2.6rem;
+  text-align: center;
+  background-color: #1f4f8f;
+  color: #ffffff;
+  border-radius: 50%;
+  font-size: 1.5rem;
+}
+.sort-row .sort-name {
+  flex: 1;
+  color: #eaf4ff;
+}
+/* Nur der Griff startet den Drag (touch-action:none), die Liste bleibt scrollbar. */
+.drag-handle {
+  flex: 0 0 auto;
+  color: #56a5eb;
+  font-size: 2.6rem;
+  line-height: 1;
+  padding: 0 0.4rem;
+  cursor: grab;
+  touch-action: none;
+}
+.sort-row.dragging .drag-handle {
+  cursor: grabbing;
+}
+
+/* Richtige Reihenfolge nach einer Niederlage. */
+.bg-solution {
+  border: 0.1rem solid rgba(86, 165, 235, 0.25);
+  background-color: rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  color: rgba(240, 248, 255, 0.85);
+  font-size: 1.6rem;
+}
+.bg-solution .bg-solution-title {
+  color: #9dc4e7de;
+  margin-bottom: 0.5rem;
+}
+
+/* ===== AT/NT-Spiel ===== */
+.tn-row {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  border: 0.1rem solid rgba(86, 165, 235, 0.25);
+  background-color: rgba(41, 70, 124, 0.2);
+  padding: 0.6rem 0.8rem;
+}
+.tn-name {
+  flex: 1;
+  font-size: 1.9rem;
+  color: rgb(240, 248, 255);
+}
+.tn-btns {
+  display: flex;
+  gap: 0.5rem;
+}
+.tn-choice {
+  font-size: 1.6rem;
+  padding: 0.6rem 1.2rem;
+  border: 0.1rem solid #56a5eb;
+  color: #cfe6ff;
+  background-color: rgba(63, 74, 124, 0.3);
+  cursor: pointer;
+}
+.tn-choice.selected {
+  background-color: #2f6fd0;
+  color: #ffffff;
+  border-color: #2f6fd0;
+}
+
+/* ===== Ergebnis-Faerbung (beide Spiele) ===== */
+.is-correct {
+  background-color: #28a746a9 !important;
+  border-color: #28a746 !important;
+}
+.is-incorrect {
+  background-color: #dc35468e !important;
+  border-color: #dc3546 !important;
+}
+
+/* ===== Fusszeile mit Status + Aktion ===== */
+.bg-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  margin-top: auto;
+  padding-top: 1rem;
+}
+.bg-status {
+  font-size: 2rem;
+  text-align: center;
+  min-height: 2.4rem;
+}
+.bg-status.ok {
+  color: #4ade80;
+}
+.bg-status.fail {
+  color: #f87171;
+}
+
+@media screen and (max-width: 480px) {
+  .chip,
+  .tn-choice {
+    font-size: 1.5rem;
+  }
+  .ordered-row,
+  .tn-name {
+    font-size: 1.7rem;
+  }
+}

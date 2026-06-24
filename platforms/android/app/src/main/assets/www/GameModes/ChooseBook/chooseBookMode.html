@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Quick Quiz - Play</title>
+    <link rel="shortcut icon" href="#">
+    <link rel="stylesheet" href="../../app.css" />
+    <link rel="stylesheet" href="../game.css" />
+  </head>
+  <body>
+    
+    <div class="container">
+      <!-- Wird nur noch genutzt, um Fehler (z. B. keine Kataloge) anzuzeigen,
+           bevor das Spiel startet. Die Buchwahl passiert jetzt im Bücher-Drawer. -->
+      <div id = "loadFileFromDisk" class="flex-center flex-column">
+        <a class="smallbtn" href="../../Menus/startPage.html">Menu</a>
+        <p class="hud-prefix" id="errorText"></p>
+      </div>
+
+      <div id="game" class="justify-center flex-column">
+        <div id="hud">
+          <div id="hud-item">
+            <p id="progressText" class="hud-prefix">
+              Question
+            </p>
+            <div id="progressBar">
+              <div id="progressBarFull"></div>
+            </div>
+          </div>
+          
+        <div class= "menuButtons">
+          <button id="reviewToggle" class="hudbtn">◀ Zurück</button>
+          <button id="drawerToggle" class="hudbtn" title="Bücher auswählen">☰ Bücher</button>
+          <a class="hudbtn" href="../../Menus/startPage.html">Menu</a>
+        </div>
+
+          <div id="hud-item">
+            <p class="hud-prefix">
+              Score
+            </p>
+            <h3 class="hud-main-text" id="score">0</h1>
+          </div>
+        </div>
+
+        <div class="question-background">
+          <h4 id="questionIntro"></h4>
+          <h2 id="question"></h2>
+        </div>
+        <div class="choice-container">
+          <p class="choice-prefix">A</p>
+          <p class="choice-text" data-number="1"></p>
+        </div>
+        <div class="choice-container">
+          <p class="choice-prefix">B</p>
+          <p class="choice-text" data-number="2"></p>
+        </div>
+        <div class="choice-container">
+          <p class="choice-prefix">C</p>
+          <p class="choice-text" data-number="3"></p>
+        </div>
+        <div class="choice-container">
+          <p class="choice-prefix">D</p>
+          <p class="choice-text" data-number="4"></p>
+        </div>
+
+        <div class="tipp-container" id="tippContainer" >
+        <p class="tipp-prefix">Bibelstelle:</p>
+        <p class="tipp-text" id="tippText" data-biblePhraseTipp="tipp"></p>
+        </div>
+      </div>
+
+      <!-- Bücher-Drawer: Mehrfachauswahl der Bücher, gruppiert nach AT/NT. -->
+      <div id="drawerOverlay" class="drawer-overlay"></div>
+      <aside id="bookDrawer" class="book-drawer">
+        <div class="drawer-header">
+          <h3>Bücher</h3>
+          <button id="drawerClose" class="drawer-close" title="Schließen">✕</button>
+        </div>
+        <div id="bookDrawerBody" class="drawer-body"></div>
+        <div class="drawer-footer">
+          <div class="drawer-quick">
+            <button id="drawerSelectAll" class="drawer-link">Alle</button>
+            <button id="drawerSelectNone" class="drawer-link">Keine</button>
+          </div>
+          <button id="drawerApply" class="btn drawer-apply">Übernehmen</button>
+        </div>
+      </aside>
+
+    </div>
+    <script type="module" src="./chooseBookMode.js"></script>
+  </body>
+</html>

@@ -1,0 +1,61 @@
+{
+	"Zitate_NT - v1.2": {
+		"Matthäus": [
+			{
+				"question": "\"1\"",
+				"biblePassageTipp": "Matthäus 1,20",
+				"choice1": "Gabriel",
+				"choice2": "Michael",
+				"choice3": "Zacharias",
+				"choice4": "Jesus",
+				"answer": 1
+			}
+		],
+		"Lukas": [
+			{
+				"question": "\"Weil bekanntlich schon viele es unternommen haben, einen Bericht über die Begebenheiten, die sich unter uns erfüllt haben, so abzufassen, wie die Männer sie uns überliefert haben, die von Anbeginn an Augenzeugen und Diener des Wortes gewesen sind, habe auch ich mich entschlossen, nachdem ich allen Tatsachen von den Anfängen an sorgfältig nachgegangen bin, alles für dich, hochedler Theophilus, in richtiger Reihenfolge aufzuzeichnen.\"",
+				"biblePassageTipp": "Lukas 1,1-3",
+				"choice1": "Lukas",
+				"choice2": "Matthäus",
+				"choice3": "Markus",
+				"choice4": "Johannes",
+				"answer": 1
+			}
+		]
+	},
+	"Zitate_AT - v1.0": {
+		"2. Mose": [
+			{
+				"question": "2",
+				"biblePassageTipp": "2.Mose 1,9-10",
+				"choice1": "ägyptischer König",
+				"choice2": "babylonischer König",
+				"choice3": "midianitischer König",
+				"choice4": "edomitischer König",
+				"answer": 1
+			},
+			{
+				"question": "3",
+				"biblePassageTipp": "2.Mose 1,16",
+				"choice1": "ägyptischer König",
+				"choice2": "babylonischer König",
+				"choice3": "midianitischer König",
+				"choice4": "edomitischer König",
+				"answer": 1
+			}
+		]
+	},
+	"Wo_Steht - v1.0": {
+		"1. Mose": [
+			{
+				"question": "Es werde Licht!",
+				"biblePassageTipp": "1.Mose 1,3",
+				"choice1": "1. Mose",
+				"choice2": "2. Mose",
+				"choice3": "3. Mose",
+				"choice4": "4. Mose",
+				"answer": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      // Beim Öffnen direkt ins Quiz mit der zuletzt gespielten Kategorie/Büchern
+      // springen. Nur beim allerersten Start (noch nie eine Auswahl getroffen)
+      // zeigen wir das Menü. Aus dem Quiz führt der "Menu"-Button zurück.
+      // Schlüssel = SELECTED_TYPE aus GameModes/Base/constants.js ('selectedType').
+      (function () {
+        var hasPlayedBefore = localStorage.getItem("selectedType") !== null;
+        var target = hasPlayedBefore
+          ? "GameModes/ChooseBook/chooseBookMode.html"
+          : "Menus/startPage.html";
+        // replace() statt assign(), damit der Geräte-Zurück-Button nicht in einer
+        // Weiterleitungs-Schleife auf dieser Seite landet.
+        window.location.replace(target);
+      })();
+    </script>
+  </head>
+  <body>
+    <!-- Leitet sofort weiter: zuletzt gespielte Fragen oder (beim Erststart) das Menü. -->
+  </body>
+</html>

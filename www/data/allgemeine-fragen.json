@@ -1,0 +1,2342 @@
+{
+  "Allgemeine_Fragen": {
+    "1. Mose": [
+      {
+        "question": "Wie hießen die Söhne von Noah?",
+        "biblePassageTipp": "1. Mose 5,32",
+        "choice1": "Sem, Ham und Jafet",
+        "choice2": "Seth, Enos und Kenan",
+        "choice3": "Jered, Enos und Mahalalel",
+        "choice4": "Henoch, Sem und Seth",
+        "answer": 1
+      },
+      {
+        "question": "Was sagt Esau zu Jakob, als er von der Jagd kommt?",
+        "biblePassageTipp": "1.Mose 25,30",
+        "choice1": "Lass mich doch schnell essen von dem Roten [...] da.",
+        "choice2": "Verkaufe mir zuvor dein Erstgeburtsrecht.",
+        "choice3": "Schwöre mir zuvor",
+        "choice4": "Richte dich nun auf, setze dich und iss von meinem Wildbret.",
+        "answer": 1
+      },
+      {
+        "question": "Wie alt war Isaak, als er Rebekka zur Frau bekam?",
+        "biblePassageTipp": "1.Mose 25,20",
+        "choice1": "40 Jahre",
+        "choice2": "45 Jahre",
+        "choice3": "30 Jahre",
+        "choice4": "35 Jahre",
+        "answer": 1
+      },
+      {
+        "question": "Wer war Zippora?",
+        "biblePassageTipp": "1. Mose 25,1",
+        "choice1": "Moses Frau",
+        "choice2": "Isaaks Frau",
+        "choice3": "Moses Schwester",
+        "choice4": "Isaaks Schwester",
+        "answer": 1
+      },
+      {
+        "question": "Wie hießen die Brüder Abrahams?",
+        "biblePassageTipp": "1.Mose 11,26",
+        "choice1": "Nahor und Haran",
+        "choice2": "Peleg und Rehu",
+        "choice3": "Lot und Tharah",
+        "choice4": "Nahor und Tharah",
+        "answer": 1
+      },
+      {
+        "question": "Auf welchem Gebirge setzte die Arche auf, nachdem das Wasser gesunken war?",
+        "biblePassageTipp": "1. Mose 8,4",
+        "choice1": "Ararat",
+        "choice2": "Minni",
+        "choice3": "Askenas",
+        "choice4": "Horeb",
+        "answer": 1
+      },
+      {
+        "question": "Wie oft bat Abraham Gott um die Gerechten in Sodom und Gomorra?",
+        "biblePassageTipp": "1. Mose 18,16-33",
+        "choice1": "6",
+        "choice2": "7",
+        "choice3": "5",
+        "choice4": "4",
+        "answer": 1
+      }
+    ],
+    "Josua": [
+      {
+        "question": "Wie hieß Josuas Vater?",
+        "biblePassageTipp": "Josua 2,1",
+        "choice1": "Nun",
+        "choice2": "Mose",
+        "choice3": "Kaleb",
+        "choice4": "Jephunnes",
+        "answer": 1
+      }
+    ],
+    "Ruth": [
+      {
+        "question": "Wie war der Name von Ruths (erstem) Schwiegervater?",
+        "biblePassageTipp": "Ruth",
+        "choice1": "Elimelech",
+        "choice2": "Boas",
+        "choice3": "Kiljon",
+        "choice4": "Machlon",
+        "answer": 1
+      }
+    ],
+    "1. Samuel": [
+      {
+        "question": "Wer war Davids erste Frau?",
+        "biblePassageTipp": "1. Sam 17,25",
+        "choice1": "Michal",
+        "choice2": "Abigajil",
+        "choice3": "Batseba",
+        "choice4": "Ahinoam",
+        "answer": 1
+      },
+      {
+        "question": "Wie hieß Sauls erstgeborene Tochter?",
+        "biblePassageTipp": "1. Samuel 14,49",
+        "choice1": "Merab",
+        "choice2": "Michal",
+        "choice3": "Abigail",
+        "choice4": "Ahinoam",
+        "answer": 1
+      },
+      {
+        "question": "Wer war Michal?",
+        "biblePassageTipp": "1. Samuel 14,49",
+        "choice1": "Sauls Tochter",
+        "choice2": "Sauls Schwester",
+        "choice3": "Sauls Frau",
+        "choice4": "Davids Schwester",
+        "answer": 1
+      },
+      {
+        "question": "Wer war Michals Schwester?",
+        "biblePassageTipp": "1. Samuel 14,49",
+        "choice1": "Merab",
+        "choice2": "Abigail",
+        "choice3": "Batseba",
+        "choice4": "Ahinoam",
+        "answer": 1
+      },
+      {
+        "question": "Wie hieß Sauls Frau?",
+        "biblePassageTipp": "1. Samuel 14,50",
+        "choice1": "Achinoam",
+        "choice2": "Abigail",
+        "choice3": "Merab",
+        "choice4": "Michal",
+        "answer": 1
+      },
+      {
+        "question": "Wie hieß Davids ältester Bruder?",
+        "biblePassageTipp": "1. Samuel 17,28",
+        "choice1": "Eliab",
+        "choice2": "Eli",
+        "choice3": "Isai",
+        "choice4": "Saul",
+        "answer": 1
+      }
+    ],
+    "1. Könige": [
+      {
+        "question": "Unter welchem König teilte sich das Volk in Nord- und Südreich?",
+        "biblePassageTipp": "1. Könige 12,1-14,20",
+        "choice1": "Rehabeam",
+        "choice2": "Jerobeam",
+        "choice3": "Ahija",
+        "choice4": "Abija",
+        "answer": 1
+      }
+    ],
+    "Esther": [
+      {
+        "question": "Wo war Esther Königin?",
+        "biblePassageTipp": "Ester 1,2",
+        "choice1": "Burg Susa",
+        "choice2": "Burg Esther",
+        "choice3": "Burg Mehuman",
+        "choice4": "Burg Bistha",
+        "answer": 1
+      },
+      {
+        "question": "In welchem Buch lesen wir von Haman?",
+        "biblePassageTipp": "Ester 7,1",
+        "choice1": "Esther",
+        "choice2": "Ruth",
+        "choice3": "Micha",
+        "choice4": "Jesaja",
+        "answer": 1
+      }
+    ],
+    "Apostelgeschichte": [
+      {
+        "question": "Wer übernahm das Apostelamt, nachdem Judas Jesus verraten hatte?",
+        "biblePassageTipp": "",
+        "choice1": "Matthias",
+        "choice2": "Barnabas",
+        "choice3": "Barsabbas",
+        "choice4": "Thomas",
+        "answer": 1
+      }
+    ],
+    "Zahlen": [
+      {
+        "question": "Wie viele Bücher hat die Bibel?",
+        "biblePassageTipp": "",
+        "choice1": "66",
+        "choice2": "65",
+        "choice3": "62",
+        "choice4": "60",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher hat das Alte Testament?",
+        "biblePassageTipp": "",
+        "choice1": "39",
+        "choice2": "38",
+        "choice3": "42",
+        "choice4": "36",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher hat das Neue Testament?",
+        "biblePassageTipp": "",
+        "choice1": "27",
+        "choice2": "23",
+        "choice3": "29",
+        "choice4": "30",
+        "answer": 1
+      },
+      {
+        "question": "Aus wie vielen Büchern besteht das Pentateuch?",
+        "biblePassageTipp": "",
+        "choice1": "5",
+        "choice2": "4",
+        "choice3": "2",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Genesis (1. Mose)?",
+        "biblePassageTipp": "",
+        "choice1": "50",
+        "choice2": "52",
+        "choice3": "49",
+        "choice4": "45",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Exodus (2. Mose)?",
+        "biblePassageTipp": "",
+        "choice1": "40",
+        "choice2": "38",
+        "choice3": "32",
+        "choice4": "42",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Levitikus (3. Mose)?",
+        "biblePassageTipp": "",
+        "choice1": "27",
+        "choice2": "23",
+        "choice3": "25",
+        "choice4": "31",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Numeri (4. Mose)?",
+        "biblePassageTipp": "",
+        "choice1": "36",
+        "choice2": "38",
+        "choice3": "39",
+        "choice4": "42",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Deuteronomium (5. Mose)?",
+        "biblePassageTipp": "",
+        "choice1": "34",
+        "choice2": "42",
+        "choice3": "24",
+        "choice4": "43",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Josua?",
+        "biblePassageTipp": "",
+        "choice1": "24",
+        "choice2": "22",
+        "choice3": "27",
+        "choice4": "31",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Richter?",
+        "biblePassageTipp": "",
+        "choice1": "21",
+        "choice2": "19",
+        "choice3": "23",
+        "choice4": "17",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Rut?",
+        "biblePassageTipp": "",
+        "choice1": "4",
+        "choice2": "2",
+        "choice3": "5",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 1. Samuel?",
+        "biblePassageTipp": "",
+        "choice1": "31",
+        "choice2": "29",
+        "choice3": "35",
+        "choice4": "24",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 2. Samuel?",
+        "biblePassageTipp": "",
+        "choice1": "24",
+        "choice2": "22",
+        "choice3": "30",
+        "choice4": "27",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 1. Könige?",
+        "biblePassageTipp": "",
+        "choice1": "22",
+        "choice2": "21",
+        "choice3": "24",
+        "choice4": "31",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 2. Könige?",
+        "biblePassageTipp": "",
+        "choice1": "25",
+        "choice2": "22",
+        "choice3": "29",
+        "choice4": "20",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 1. Chronik?",
+        "biblePassageTipp": "",
+        "choice1": "29",
+        "choice2": "24",
+        "choice3": "27",
+        "choice4": "31",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 2. Chronik?",
+        "biblePassageTipp": "",
+        "choice1": "37",
+        "choice2": "39",
+        "choice3": "32",
+        "choice4": "31",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Esra?",
+        "biblePassageTipp": "",
+        "choice1": "10",
+        "choice2": "12",
+        "choice3": "14",
+        "choice4": "16",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Nehemia?",
+        "biblePassageTipp": "",
+        "choice1": "13",
+        "choice2": "11",
+        "choice3": "8",
+        "choice4": "15",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Ester?",
+        "biblePassageTipp": "",
+        "choice1": "10",
+        "choice2": "12",
+        "choice3": "16",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Hiob?",
+        "biblePassageTipp": "",
+        "choice1": "42",
+        "choice2": "32",
+        "choice3": "22",
+        "choice4": "52",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Psalm?",
+        "biblePassageTipp": "",
+        "choice1": "150",
+        "choice2": "159",
+        "choice3": "140",
+        "choice4": "149",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Sprüche?",
+        "biblePassageTipp": "",
+        "choice1": "31",
+        "choice2": "30",
+        "choice3": "28",
+        "choice4": "29",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Prediger?",
+        "biblePassageTipp": "",
+        "choice1": "12",
+        "choice2": "15",
+        "choice3": "11",
+        "choice4": "13",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Hoheslied?",
+        "biblePassageTipp": "",
+        "choice1": "8",
+        "choice2": "9",
+        "choice3": "10",
+        "choice4": "11",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Jesaja?",
+        "biblePassageTipp": "",
+        "choice1": "66",
+        "choice2": "55",
+        "choice3": "54",
+        "choice4": "63",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Jeremia?",
+        "biblePassageTipp": "",
+        "choice1": "52",
+        "choice2": "50",
+        "choice3": "62",
+        "choice4": "67",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Klagelieder?",
+        "biblePassageTipp": "",
+        "choice1": "5",
+        "choice2": "4",
+        "choice3": "3",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Hesekiel?",
+        "biblePassageTipp": "",
+        "choice1": "48",
+        "choice2": "50",
+        "choice3": "42",
+        "choice4": "53",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Daniel?",
+        "biblePassageTipp": "",
+        "choice1": "14",
+        "choice2": "16",
+        "choice3": "11",
+        "choice4": "18",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Hosea?",
+        "biblePassageTipp": "",
+        "choice1": "14",
+        "choice2": "12",
+        "choice3": "17",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Joel?",
+        "biblePassageTipp": "",
+        "choice1": "4",
+        "choice2": "5",
+        "choice3": "3",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Amos?",
+        "biblePassageTipp": "",
+        "choice1": "9",
+        "choice2": "7",
+        "choice3": "5",
+        "choice4": "11",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Obadja?",
+        "biblePassageTipp": "",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "3",
+        "choice4": "4",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Jona?",
+        "biblePassageTipp": "",
+        "choice1": "4",
+        "choice2": "3",
+        "choice3": "6",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Micha?",
+        "biblePassageTipp": "",
+        "choice1": "7",
+        "choice2": "4",
+        "choice3": "6",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Nahum?",
+        "biblePassageTipp": "",
+        "choice1": "3",
+        "choice2": "2",
+        "choice3": "4",
+        "choice4": "6",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Habakuk?",
+        "biblePassageTipp": "",
+        "choice1": "3",
+        "choice2": "4",
+        "choice3": "5",
+        "choice4": "2",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Zefanja?",
+        "biblePassageTipp": "",
+        "choice1": "3",
+        "choice2": "7",
+        "choice3": "5",
+        "choice4": "2",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Haggai?",
+        "biblePassageTipp": "",
+        "choice1": "2",
+        "choice2": "3",
+        "choice3": "1",
+        "choice4": "5",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Sacharja?",
+        "biblePassageTipp": "",
+        "choice1": "14",
+        "choice2": "11",
+        "choice3": "17",
+        "choice4": "12",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Maleachi?",
+        "biblePassageTipp": "",
+        "choice1": "3",
+        "choice2": "4",
+        "choice3": "2",
+        "choice4": "1",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Matthäus?",
+        "biblePassageTipp": "",
+        "choice1": "28",
+        "choice2": "30",
+        "choice3": "32",
+        "choice4": "26",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Markus?",
+        "biblePassageTipp": "",
+        "choice1": "16",
+        "choice2": "14",
+        "choice3": "11",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Lukas?",
+        "biblePassageTipp": "",
+        "choice1": "24",
+        "choice2": "21",
+        "choice3": "26",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat  Johannes?",
+        "biblePassageTipp": "",
+        "choice1": "21",
+        "choice2": "23",
+        "choice3": "19",
+        "choice4": "31",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Apostelgeschichte?",
+        "biblePassageTipp": "",
+        "choice1": "28",
+        "choice2": "31",
+        "choice3": "26",
+        "choice4": "24",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Römer?",
+        "biblePassageTipp": "",
+        "choice1": "16",
+        "choice2": "14",
+        "choice3": "11",
+        "choice4": "18",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 1. Korinther?",
+        "biblePassageTipp": "",
+        "choice1": "16",
+        "choice2": "14",
+        "choice3": "11",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 2. Korinther?",
+        "biblePassageTipp": "",
+        "choice1": "13",
+        "choice2": "15",
+        "choice3": "19",
+        "choice4": "11",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Galater?",
+        "biblePassageTipp": "",
+        "choice1": "6",
+        "choice2": "4",
+        "choice3": "3",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Epheser?",
+        "biblePassageTipp": "",
+        "choice1": "6",
+        "choice2": "4",
+        "choice3": "8",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Philipper?",
+        "biblePassageTipp": "",
+        "choice1": "4",
+        "choice2": "2",
+        "choice3": "5",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Kolosser?",
+        "biblePassageTipp": "",
+        "choice1": "4",
+        "choice2": "2",
+        "choice3": "5",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 1. Thessalonicher?",
+        "biblePassageTipp": "",
+        "choice1": "5",
+        "choice2": "2",
+        "choice3": "4",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 2. Thessalonicher?",
+        "biblePassageTipp": "",
+        "choice1": "3",
+        "choice2": "2",
+        "choice3": "1",
+        "choice4": "4",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 1. Timotheus?",
+        "biblePassageTipp": "",
+        "choice1": "6",
+        "choice2": "4",
+        "choice3": "3",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 2. Timotheus?",
+        "biblePassageTipp": "",
+        "choice1": "4",
+        "choice2": "3",
+        "choice3": "5",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Titus?",
+        "biblePassageTipp": "",
+        "choice1": "3",
+        "choice2": "2",
+        "choice3": "1",
+        "choice4": "6",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Philemon?",
+        "biblePassageTipp": "",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "4",
+        "choice4": "6",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Hebräer?",
+        "biblePassageTipp": "",
+        "choice1": "13",
+        "choice2": "11",
+        "choice3": "17",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Jakobus?",
+        "biblePassageTipp": "",
+        "choice1": "5",
+        "choice2": "2",
+        "choice3": "6",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 1. Petrus?",
+        "biblePassageTipp": "",
+        "choice1": "5",
+        "choice2": "2",
+        "choice3": "7",
+        "choice4": "4",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 2. Petrus?",
+        "biblePassageTipp": "",
+        "choice1": "3",
+        "choice2": "2",
+        "choice3": "6",
+        "choice4": "4",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 1. Johannes?",
+        "biblePassageTipp": "",
+        "choice1": "5",
+        "choice2": "2",
+        "choice3": "6",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 2. Johannes?",
+        "biblePassageTipp": "",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "3",
+        "choice4": "5",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat 3. Johannes?",
+        "biblePassageTipp": "",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "5",
+        "choice4": "4",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Judas?",
+        "biblePassageTipp": "",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "5",
+        "choice4": "3",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Kapitel hat Offenbarung?",
+        "biblePassageTipp": "",
+        "choice1": "22",
+        "choice2": "24",
+        "choice3": "17",
+        "choice4": "18",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Briefe an die Korinther gibt es in der Bibel?",
+        "biblePassageTipp": "",
+        "choice1": "2",
+        "choice2": "1",
+        "choice3": "4",
+        "choice4": "5",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Briefe an die Thessalonicher gibt es in der Bibel?",
+        "biblePassageTipp": "",
+        "choice1": "2",
+        "choice2": "1",
+        "choice3": "4",
+        "choice4": "5",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Briefe an Timotheus gibt es in der Bibel?",
+        "biblePassageTipp": "",
+        "choice1": "2",
+        "choice2": "1",
+        "choice3": "3",
+        "choice4": "5",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Petrusbriefe gibt es in der Bibel?",
+        "biblePassageTipp": "",
+        "choice1": "2",
+        "choice2": "3",
+        "choice3": "6",
+        "choice4": "5",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Johannesbriefe gibt es in der Bibel?",
+        "biblePassageTipp": "",
+        "choice1": "3",
+        "choice2": "2",
+        "choice3": "4",
+        "choice4": "6",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Exodus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "2",
+        "choice2": "1",
+        "choice3": "3",
+        "choice4": "4",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Genesis? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "4",
+        "choice4": "5",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Levitikus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "3",
+        "choice2": "2",
+        "choice3": "4",
+        "choice4": "6",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Numeri? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "4",
+        "choice2": "5",
+        "choice3": "3",
+        "choice4": "1",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Deuteronomium? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "5",
+        "choice2": "2",
+        "choice3": "4",
+        "choice4": "1",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Josua? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "6",
+        "choice2": "4",
+        "choice3": "7",
+        "choice4": "3",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Richter? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "7",
+        "choice2": "4",
+        "choice3": "3",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Rut? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "8",
+        "choice2": "3",
+        "choice3": "6",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 1. Samuel? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "9",
+        "choice2": "3",
+        "choice3": "5",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 2. Samuel? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "10",
+        "choice2": "11",
+        "choice3": "15",
+        "choice4": "14",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 1. Könige? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "11",
+        "choice2": "7",
+        "choice3": "9",
+        "choice4": "12",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 2. Könige? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "12",
+        "choice2": "154",
+        "choice3": "16",
+        "choice4": "11",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 1. Chronik? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "13",
+        "choice2": "14",
+        "choice3": "8",
+        "choice4": "6",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 2. Chronik? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "14",
+        "choice2": "11",
+        "choice3": "15",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Esra? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "15",
+        "choice2": "10",
+        "choice3": "14",
+        "choice4": "11",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Nehemia? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "16",
+        "choice2": "9",
+        "choice3": "13",
+        "choice4": "14",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Ester? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "17",
+        "choice2": "14",
+        "choice3": "19",
+        "choice4": "13",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Hiob? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "18",
+        "choice2": "16",
+        "choice3": "14",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Psalm? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "19",
+        "choice2": "17",
+        "choice3": "15",
+        "choice4": "21",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Sprüche? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "20",
+        "choice2": "24",
+        "choice3": "15",
+        "choice4": "11",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Prediger? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "21",
+        "choice2": "24",
+        "choice3": "16",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Hoheslied? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "22",
+        "choice2": "25",
+        "choice3": "23",
+        "choice4": "16",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Jesaja? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "23",
+        "choice2": "17",
+        "choice3": "19",
+        "choice4": "22",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Jeremia? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "24",
+        "choice2": "26",
+        "choice3": "19",
+        "choice4": "20",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Klagelieder? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "25",
+        "choice2": "20",
+        "choice3": "16",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Hesekiel? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "26",
+        "choice2": "25",
+        "choice3": "28",
+        "choice4": "23",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Daniel? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "27",
+        "choice2": "29",
+        "choice3": "31",
+        "choice4": "34",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Hosea? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "28",
+        "choice2": "34",
+        "choice3": "19",
+        "choice4": "30",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Joel? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "29",
+        "choice2": "23",
+        "choice3": "26",
+        "choice4": "30",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Amos? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "30",
+        "choice2": "22",
+        "choice3": "26",
+        "choice4": "29",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Obadja? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "31",
+        "choice2": "35",
+        "choice3": "36",
+        "choice4": "29",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Jona? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "32",
+        "choice2": "29",
+        "choice3": "25",
+        "choice4": "35",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Micha? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "33",
+        "choice2": "35",
+        "choice3": "38",
+        "choice4": "30",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Nahum? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "34",
+        "choice2": "29",
+        "choice3": "30",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Habakuk? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "35",
+        "choice2": "23",
+        "choice3": "32",
+        "choice4": "33",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Zefanja? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "36",
+        "choice2": "33",
+        "choice3": "39",
+        "choice4": "42",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Haggai? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "37",
+        "choice2": "32",
+        "choice3": "35",
+        "choice4": "39",
+        "answer": 1
+      },
+      {
+        "question": "Da wie vielte Buch im Kanon der Bibel ist Sacharja? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "38",
+        "choice2": "32",
+        "choice3": "36",
+        "choice4": "41",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Maleachi? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "39",
+        "choice2": "23",
+        "choice3": "27",
+        "choice4": "41",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Matthäus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "40",
+        "choice2": "23",
+        "choice3": "47",
+        "choice4": "37",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Matthäus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "1",
+        "choice2": "3",
+        "choice3": "6",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Markus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "41",
+        "choice2": "39",
+        "choice3": "23",
+        "choice4": "11",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Markus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "2",
+        "choice2": "3",
+        "choice3": "6",
+        "choice4": "1",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Lukas? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "42",
+        "choice2": "29",
+        "choice3": "39",
+        "choice4": "45",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Lukas? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "3",
+        "choice2": "2",
+        "choice3": "5",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Johannes? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "43",
+        "choice2": "23",
+        "choice3": "33",
+        "choice4": "53",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Johannes? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "4",
+        "choice2": "3",
+        "choice3": "5",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Apostelgeschichte? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "44",
+        "choice2": "24",
+        "choice3": "21",
+        "choice4": "41",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Apostelgeschichte? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "5",
+        "choice2": "2",
+        "choice3": "4",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Römer? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "45",
+        "choice2": "40",
+        "choice3": "39",
+        "choice4": "37",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Römer? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "6",
+        "choice2": "2",
+        "choice3": "4",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 1. Korinther? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "46",
+        "choice2": "41",
+        "choice3": "44",
+        "choice4": "39",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist 1. Korinther? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "7",
+        "choice2": "4",
+        "choice3": "8",
+        "choice4": "2",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 2. Korinther? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "47",
+        "choice2": "41",
+        "choice3": "43",
+        "choice4": "49",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist 2. Korinther? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "8",
+        "choice2": "2",
+        "choice3": "4",
+        "choice4": "6",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Galater? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "48",
+        "choice2": "41",
+        "choice3": "39",
+        "choice4": "34",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Galater? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "9",
+        "choice2": "3",
+        "choice3": "5",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Epheser? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "49",
+        "choice2": "52",
+        "choice3": "39",
+        "choice4": "47",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Epheser? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "10",
+        "choice2": "13",
+        "choice3": "9",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Philipper? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "50",
+        "choice2": "53",
+        "choice3": "56",
+        "choice4": "45",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Philipper? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "11",
+        "choice2": "15",
+        "choice3": "8",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Kolosser? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "51",
+        "choice2": "56",
+        "choice3": "48",
+        "choice4": "55",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Kolosser? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "12",
+        "choice2": "14",
+        "choice3": "18",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 1. Thessalonicher? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "52",
+        "choice2": "55",
+        "choice3": "52",
+        "choice4": "49",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist 1. Thessalonicher? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "13",
+        "choice2": "15",
+        "choice3": "19",
+        "choice4": "11",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 2. Thessalonicher? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "53",
+        "choice2": "57",
+        "choice3": "51",
+        "choice4": "48",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist 2. Thessalonicher? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "14",
+        "choice2": "16",
+        "choice3": "13",
+        "choice4": "17",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der bibel ist 1. Timotheus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "54",
+        "choice2": "57",
+        "choice3": "36",
+        "choice4": "30",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist 1. Timotheus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "15",
+        "choice2": "12",
+        "choice3": "18",
+        "choice4": "11",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 2. Timotheus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "55",
+        "choice2": "59",
+        "choice3": "52",
+        "choice4": "48",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist 2. Timotheus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "16",
+        "choice2": "14",
+        "choice3": "10",
+        "choice4": "20",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Titus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "56",
+        "choice2": "51",
+        "choice3": "48",
+        "choice4": "61",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Titus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "17",
+        "choice2": "14",
+        "choice3": "19",
+        "choice4": "12",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Philemon? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "57",
+        "choice2": "52",
+        "choice3": "49",
+        "choice4": "42",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Philemon? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "18",
+        "choice2": "20",
+        "choice3": "24",
+        "choice4": "16",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Hebräer? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "58",
+        "choice2": "48",
+        "choice3": "42",
+        "choice4": "52",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Hebräer? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "19",
+        "choice2": "24",
+        "choice3": "16",
+        "choice4": "13",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Jakobus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "59",
+        "choice2": "64",
+        "choice3": "51",
+        "choice4": "49",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Jakobus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "20",
+        "choice2": "26",
+        "choice3": "23",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 1. Petrus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "60",
+        "choice2": "67",
+        "choice3": "63",
+        "choice4": "58",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist 1. Petrus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "21",
+        "choice2": "24",
+        "choice3": "27",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 2. Petrus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "61",
+        "choice2": "63",
+        "choice3": "59",
+        "choice4": "51",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist 2. Petrus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "22",
+        "choice2": "25",
+        "choice3": "21",
+        "choice4": "20",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 1. Johannes? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "62",
+        "choice2": "64",
+        "choice3": "68",
+        "choice4": "58",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist 1. Johannes? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "23",
+        "choice2": "33",
+        "choice3": "13",
+        "choice4": "18",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 2. Johannes? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "63",
+        "choice2": "57",
+        "choice3": "71",
+        "choice4": "68",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist 2. Johannes? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "24",
+        "choice2": "21",
+        "choice3": "28",
+        "choice4": "26",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist 3. Johannes? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "64",
+        "choice2": "61",
+        "choice3": "67",
+        "choice4": "58",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist 3. Johannes? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "25",
+        "choice2": "18",
+        "choice3": "20",
+        "choice4": "23",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Judas? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "65",
+        "choice2": "61",
+        "choice3": "58",
+        "choice4": "63",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Judas? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "26",
+        "choice2": "24",
+        "choice3": "20",
+        "choice4": "22",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Kanon der Bibel ist Offenbarung? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "66",
+        "choice2": "55",
+        "choice3": "59",
+        "choice4": "65",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Neuen Testament ist Offenbarung? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "27",
+        "choice2": "25",
+        "choice3": "21",
+        "choice4": "29",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Exodus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "2",
+        "choice2": "1",
+        "choice3": "4",
+        "choice4": "6",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Genesis? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "1",
+        "choice2": "5",
+        "choice3": "3",
+        "choice4": "6",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Levitikus? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "3",
+        "choice2": "2",
+        "choice3": "4",
+        "choice4": "1",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Numeri? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "4",
+        "choice2": "5",
+        "choice3": "7",
+        "choice4": "1",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Deuteronomium? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "5",
+        "choice2": "6",
+        "choice3": "9",
+        "choice4": "3",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Josua? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "6",
+        "choice2": "3",
+        "choice3": "5",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Richter? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "7",
+        "choice2": "4",
+        "choice3": "9",
+        "choice4": "3",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Rut? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "8",
+        "choice2": "4",
+        "choice3": "6",
+        "choice4": "10",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist 1. Samuel? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "9",
+        "choice2": "3",
+        "choice3": "7",
+        "choice4": "11",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist 2. Samuel? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "10",
+        "choice2": "14",
+        "choice3": "11",
+        "choice4": "13",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist 1. Könige? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "11",
+        "choice2": "15",
+        "choice3": "17",
+        "choice4": "12",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist 2. Könige? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "12",
+        "choice2": "15",
+        "choice3": "17",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist 1. Chronik? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "13",
+        "choice2": "8",
+        "choice3": "4",
+        "choice4": "15",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist 2. Chronik? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "14",
+        "choice2": "18",
+        "choice3": "16",
+        "choice4": "12",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Esra? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "15",
+        "choice2": "17",
+        "choice3": "19",
+        "choice4": "20",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Nehemia? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "16",
+        "choice2": "20",
+        "choice3": "17",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Ester? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "17",
+        "choice2": "19",
+        "choice3": "16",
+        "choice4": "12",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Hiob? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "18",
+        "choice2": "12",
+        "choice3": "16",
+        "choice4": "21",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Psalmen? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "19",
+        "choice2": "12",
+        "choice3": "21",
+        "choice4": "14",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Sprüche? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "20",
+        "choice2": "25",
+        "choice3": "19",
+        "choice4": "17",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Prediger? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "21",
+        "choice2": "25",
+        "choice3": "17",
+        "choice4": "24",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testamten ist Hoheslied? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "22",
+        "choice2": "12",
+        "choice3": "24",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Jesaja? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "23",
+        "choice2": "17",
+        "choice3": "19",
+        "choice4": "25",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Jeremia? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "24",
+        "choice2": "22",
+        "choice3": "19",
+        "choice4": "20",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Klagelieder? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "25",
+        "choice2": "27",
+        "choice3": "29",
+        "choice4": "19",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Hesekiel? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "26",
+        "choice2": "20",
+        "choice3": "27",
+        "choice4": "31",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Daniel? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "27",
+        "choice2": "31",
+        "choice3": "29",
+        "choice4": "25",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Hosea? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "28",
+        "choice2": "25",
+        "choice3": "30",
+        "choice4": "32",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Joel? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "29",
+        "choice2": "34",
+        "choice3": "36",
+        "choice4": "27",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Amos? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "30",
+        "choice2": "28",
+        "choice3": "34",
+        "choice4": "32",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Obadja? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "31",
+        "choice2": "27",
+        "choice3": "21",
+        "choice4": "37",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Jona? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "32",
+        "choice2": "37",
+        "choice3": "33",
+        "choice4": "29",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Micha? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "33",
+        "choice2": "29",
+        "choice3": "36",
+        "choice4": "31",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Nahum? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "34",
+        "choice2": "31",
+        "choice3": "39",
+        "choice4": "28",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Habakuk? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "35",
+        "choice2": "30",
+        "choice3": "36",
+        "choice4": "31",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Zefanja? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "36",
+        "choice2": "30",
+        "choice3": "31",
+        "choice4": "32",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Haggai? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "37",
+        "choice2": "38",
+        "choice3": "40",
+        "choice4": "45",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Sacharja? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "38",
+        "choice2": "45",
+        "choice3": "40",
+        "choice4": "37",
+        "answer": 1
+      },
+      {
+        "question": "Das wie vielte Buch im Alten Testament ist Maleachi? (Elb)",
+        "biblePassageTipp": "",
+        "choice1": "39",
+        "choice2": "37",
+        "choice3": "40",
+        "choice4": "45",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben nur 1 Kapitel?",
+        "biblePassageTipp": "Obadja, Philemon, 2. Johannes, 3. Johannes, Judas",
+        "choice1": "5",
+        "choice2": "6",
+        "choice3": "1",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben nur 2 Kapitel?",
+        "biblePassageTipp": "Haggai",
+        "choice1": "1",
+        "choice2": "3",
+        "choice3": "6",
+        "choice4": "2",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben nur 3 Kapitel?",
+        "biblePassageTipp": "Nahum, Habakuk, Zefanja, 2. Thessalonicher, Titus, 2. Petrus",
+        "choice1": "6",
+        "choice2": "5",
+        "choice3": "8",
+        "choice4": "3",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben nur 4 Kapitel?",
+        "biblePassageTipp": "Rut, Joel, Jona, Maleachi, Philipper, Kolosser, 2. Timotheus",
+        "choice1": "7",
+        "choice2": "5",
+        "choice3": "8",
+        "choice4": "3",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben nur 5 Kapitel?",
+        "biblePassageTipp": "Klagelieder, 1. Thessalonicher, Jakobus, 1. Petrus, 1. Johannes",
+        "choice1": "5",
+        "choice2": "4",
+        "choice3": "7",
+        "choice4": "2",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben nur 6 Kapitel?",
+        "biblePassageTipp": "Galater, Epheser, 1. Timotheus",
+        "choice1": "3",
+        "choice2": "5",
+        "choice3": "8",
+        "choice4": "0",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben nur 7 Kapitel?",
+        "biblePassageTipp": "Micha",
+        "choice1": "1",
+        "choice2": "4",
+        "choice3": "6",
+        "choice4": "2",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben nur 8 Kapitel?",
+        "biblePassageTipp": "Hoheslied",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "3",
+        "choice4": "4",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben nur 9 Kapitel?",
+        "biblePassageTipp": "Amos",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "3",
+        "choice4": "4",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 10 Kapitel?",
+        "biblePassageTipp": "Esra, Ester",
+        "choice1": "2",
+        "choice2": "6",
+        "choice3": "1",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 12 Kapitel?",
+        "biblePassageTipp": "Prediger",
+        "choice1": "1",
+        "choice2": "3",
+        "choice3": "6",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 13 Kapitel?",
+        "biblePassageTipp": "Nehemia, 2. Korinther, Hebräer",
+        "choice1": "3",
+        "choice2": "2",
+        "choice3": "5",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 14 Kapitel?",
+        "biblePassageTipp": "Daniel, Hosea, Sacharja",
+        "choice1": "3",
+        "choice2": "1",
+        "choice3": "6",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 16 Kapitel?",
+        "biblePassageTipp": "Markus, Römer, 1. Korinther",
+        "choice1": "3",
+        "choice2": "1",
+        "choice3": "6",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 21 Kapitel?",
+        "biblePassageTipp": "Richter, Johannes",
+        "choice1": "2",
+        "choice2": "4",
+        "choice3": "6",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 22 Kapitel?",
+        "biblePassageTipp": "1. Könige, Offenbarung",
+        "choice1": "2",
+        "choice2": "4",
+        "choice3": "6",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 24 Kapitel?",
+        "biblePassageTipp": "Josua, 2. Samuel, Lukas",
+        "choice1": "3",
+        "choice2": "6",
+        "choice3": "9",
+        "choice4": "11",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 25 Kapitel?",
+        "biblePassageTipp": "2. Könige",
+        "choice1": "1",
+        "choice2": "3",
+        "choice3": "5",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 27 Kapitel?",
+        "biblePassageTipp": "3. Mose",
+        "choice1": "1",
+        "choice2": "3",
+        "choice3": "5",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 28 Kapitel?",
+        "biblePassageTipp": "Matthäus, Apostelgeschichte",
+        "choice1": "2",
+        "choice2": "1",
+        "choice3": "5",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 29 Kapitel?",
+        "biblePassageTipp": "1. Chronik",
+        "choice1": "1",
+        "choice2": "10",
+        "choice3": "2",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 31 Kapitel?",
+        "biblePassageTipp": "1. Samuel, Sprüche",
+        "choice1": "2",
+        "choice2": "14",
+        "choice3": "23",
+        "choice4": "4",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 34 Kapitel?",
+        "biblePassageTipp": "5. Mose",
+        "choice1": "1",
+        "choice2": "3",
+        "choice3": "5",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 36 Kapitel?",
+        "biblePassageTipp": "4. Mose",
+        "choice1": "1",
+        "choice2": "3",
+        "choice3": "6",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 37 Kapitel?",
+        "biblePassageTipp": "2. Chronik",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "6",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 40 Kapitel?",
+        "biblePassageTipp": "2. Mose",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "4",
+        "choice4": "7",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 42 Kapitel?",
+        "biblePassageTipp": "Hiob",
+        "choice1": "1",
+        "choice2": "3",
+        "choice3": "6",
+        "choice4": "9",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 48 Kapitel?",
+        "biblePassageTipp": "Hesekiel",
+        "choice1": "1",
+        "choice2": "4",
+        "choice3": "7",
+        "choice4": "2",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 50 Kapitel?",
+        "biblePassageTipp": "1. Mose",
+        "choice1": "1",
+        "choice2": "3",
+        "choice3": "7",
+        "choice4": "0",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 52 Kapitel?",
+        "biblePassageTipp": "Jeremia",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "5",
+        "choice4": "0",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 66 Kapitel?",
+        "biblePassageTipp": "Jesaja",
+        "choice1": "1",
+        "choice2": "3",
+        "choice3": "6",
+        "choice4": "8",
+        "answer": 1
+      },
+      {
+        "question": "Wie viele Bücher der Bibel haben 150 Kapitel?",
+        "biblePassageTipp": "Psalm",
+        "choice1": "1",
+        "choice2": "2",
+        "choice3": "0",
+        "choice4": "4",
+        "answer": 1
+      }
+    ]
+  }
+}

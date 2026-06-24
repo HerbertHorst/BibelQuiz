@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget android-versionCode="1" id="com.HerbertHorst.BibelQuizz" version="1.6.6" xmlns="https://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="InAppBrowser">
+        <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+    </feature>
+    <name>Bibel Zitate Quizz</name>
+    <description> Erste Version vom Bibel Quizz mit möglichkeit der Verwendung eines eigenen Fragenkataloges </description>
+    <author>HerbertHorst</author>
+    <allow-navigation href="*" />
+    <allow-intent href="*" />
+    <access origin="*" />
+    <content-security-policy>
+        default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval';
+        style-src 'self' 'unsafe-inline';
+        script-src 'self' 'unsafe-inline' 'unsafe-eval' https://ajax.googleapis.com;
+    </content-security-policy>
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="AllowInlineMediaPlayback" value="true" />
+    <preference name="MediaPlaybackRequiresUserAction" value="false" />
+</widget>

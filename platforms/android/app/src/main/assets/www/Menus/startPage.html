@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Bibel Zitate Quiz</title>
+    <link rel="stylesheet" href="../app.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="home" class="flex-center flex-column">
+        <h1>Bibel Zitate Quiz</h1>
+
+        <!-- "Alle Fragen" + je Kategorie ein Button, dynamisch aus den
+             installierten Katalogen erzeugt (siehe startPage.js). -->
+        <div id="categoryButtons" class="flex-column flex-center"></div>
+
+        <div class="menuButtons flex-column flex-center">
+          <a class="btn" href="../GameModes/BookOrder/sortMode.html">Bücher sortieren</a>
+          <a class="btn" href="../GameModes/Testament/testamentMode.html">AT oder NT?</a>
+          <a class="btn" href="SelectDifficulty/selectDifficulty.html">Nach Schwierigkeit</a>
+          <a class="btn" href="Options/options.html">Einstellungen / Kataloge</a>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="./startPage.js"></script>
+  </body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Bibel Quiz – Schwierigkeit wählen</title>
+    <link rel="stylesheet" href="../../app.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="home" class="flex-center flex-column">
+        <h1>Schwierigkeit</h1>
+        <h2>Spiele nach Lernstand (0 = leicht, 10 = schwer)</h2>
+
+        <div id="difficultyButtons" class="flex-column flex-center">
+          <button class="btn" data-difficulty="0-2">Leicht (0–2)</button>
+          <button class="btn" data-difficulty="3-5">Mittel (3–5)</button>
+          <button class="btn" data-difficulty="6-10">Schwer (6–10)</button>
+          <button class="btn" data-difficulty="0-10">Alle Schwierigkeiten</button>
+        </div>
+
+        <div class="option-section">
+          <p class="hud-prefix" style="font-size: 1.4rem; line-height: 1.5;">
+            <strong>ℹ️ So wird die Schwierigkeit berechnet:</strong><br />
+            Sie richtet sich nach deinem bisherigen Erfolg bei jeder Frage
+            (richtige Antwort −1, falsche Antwort +1). Je öfter du eine Frage
+            richtig beantwortest, desto niedriger ihre Stufe. Neue Fragen starten
+            bei Stufe 5.
+          </p>
+        </div>
+
+        <a class="btn" href="../startPage.html">Zurück</a>
+        <p class="hud-prefix" id="errorText"></p>
+      </div>
+    </div>
+    <script type="module" src="./selectDifficulty.js"></script>
+  </body>
+</html>

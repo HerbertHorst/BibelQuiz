@@ -1,3 +1,16 @@
+V7.0
+   - Multi-Catalog system: questions are no longer one big JSON blob. Categories -> Books -> Questions, managed in localStorage (CatalogStore), seeded once from bundled.mjs
+   - Excel -> JSON build pipeline (Skripte/, npm run build) plus in-app upload to import/replace catalogs (SheetJS), shared converter catalogConverter.mjs
+   - Question type + intro ("Wer hat gesagt:" / "Wo steht:") now live in catalog metadata instead of being hardcoded
+   - New start screen (Menus/startPage): category buttons are built dynamically from catalogs; click starts the quiz instantly (no selectMode step anymore)
+   - Special "Zahlenfragen" category on the start screen (239 questions)
+   - Unified game screen ChooseBook (chooseBookMode) with a side Book-Drawer: AT/NT collapsible groups with checkboxes for multi-select; "Übernehmen" starts a fresh round
+   - Difficulty selection (SelectDifficulty / DifficultyStore) to filter questions
+   - Options menu (Menus/Options) for settings and catalog upload
+   - New learning game "Bücher sortieren" (BookOrder/sortMode): tap books in canonical order
+   - New learning game "AT oder NT?" (Testament/testamentMode): assign each book to its testament
+   - Both learning games: start with 4 books, +2 per fully correct round, mistake resets to 4 (best score kept)
+   - EndlessMode / selectMode kept for now but are legacy/unused
 V6.6
    - Added InAppBrowser Plugin to projekt
    - Added localStorageItem savedQuestion for when coming back to Game (Currently score cointing gets of because when coming back the tipp is invisible again)

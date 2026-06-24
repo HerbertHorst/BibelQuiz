@@ -1,0 +1,62 @@
+{
+  "generatedAt": "2026-06-17",
+  "catalogs": [
+    {
+      "id": "zitate-at",
+      "title": "Wer hat gesagt – Altes Testament",
+      "type": "Zitate",
+      "introText": "Wer hat gesagt:",
+      "category": "Zitate_AT",
+      "file": "zitate-at.json",
+      "books": [
+        "1. Mose",
+        "2. Mose",
+        "3. Mose",
+        "4. Mose",
+        "5. Mose",
+        "Josua",
+        "Richter",
+        "Ruth",
+        "1. Samuel",
+        "2. Samuel"
+      ],
+      "questionCount": 834,
+      "generatedAt": "2026-06-17"
+    },
+    {
+      "id": "zitate-nt",
+      "title": "Wer hat gesagt – Neues Testament",
+      "type": "Zitate",
+      "introText": "Wer hat gesagt:",
+      "category": "Zitate_NT",
+      "file": "zitate-nt.json",
+      "books": [
+        "Matthäus",
+        "Markus",
+        "Lukas"
+      ],
+      "questionCount": 196,
+      "generatedAt": "2026-06-17"
+    },
+    {
+      "id": "allgemeine-fragen",
+      "title": "Allgemeine Fragen",
+      "type": "Allgemeine Fragen",
+      "introText": "",
+      "category": "Allgemeine_Fragen",
+      "file": "allgemeine-fragen.json",
+      "books": [
+        "1. Mose",
+        "Josua",
+        "Ruth",
+        "1. Samuel",
+        "1. Könige",
+        "Esther",
+        "Apostelgeschichte",
+        "Zahlen"
+      ],
+      "questionCount": 258,
+      "generatedAt": "2026-06-17"
+    }
+  ]
+}

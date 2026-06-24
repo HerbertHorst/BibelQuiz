@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Bücher sortieren</title>
+    <link rel="shortcut icon" href="#" />
+    <link rel="stylesheet" href="../../app.css" />
+    <link rel="stylesheet" href="../bookGames.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="bg-wrap">
+        <div class="bg-hud">
+          <div class="bg-stat">
+            <span class="bg-stat-label">Bücher</span>
+            <span class="bg-stat-value" id="countValue">4</span>
+          </div>
+          <div class="bg-stat">
+            <span class="bg-stat-label">Bestwert</span>
+            <span class="bg-stat-value" id="bestValue">–</span>
+          </div>
+          <a class="smallbtn" href="../../Menus/startPage.html">Menu</a>
+        </div>
+
+        <p class="bg-instruction">
+          Ziehe die Bücher in die richtige biblische Reihenfolge.
+        </p>
+
+        <!-- Mittig zentriertes Spielfeld. -->
+        <div class="bg-stage">
+          <!-- Sortierbare Liste: untereinander, ganze Zeile per Drag ordnen. -->
+          <div class="bg-sortlist" id="list"></div>
+
+          <!-- Loesung nach einer Niederlage. -->
+          <div class="bg-solution hidden" id="solution"></div>
+        </div>
+
+        <div class="bg-footer">
+          <p class="bg-status" id="status"></p>
+          <button class="btn hidden" id="actionBtn"></button>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="./sortMode.js"></script>
+  </body>
+</html>

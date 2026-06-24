@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>AT oder NT?</title>
+    <link rel="shortcut icon" href="#" />
+    <link rel="stylesheet" href="../../app.css" />
+    <link rel="stylesheet" href="../bookGames.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="bg-wrap">
+        <div class="bg-hud">
+          <div class="bg-stat">
+            <span class="bg-stat-label">Bücher</span>
+            <span class="bg-stat-value" id="countValue">4</span>
+          </div>
+          <div class="bg-stat">
+            <span class="bg-stat-label">Bestwert</span>
+            <span class="bg-stat-value" id="bestValue">–</span>
+          </div>
+          <a class="smallbtn" href="../../Menus/startPage.html">Menu</a>
+        </div>
+
+        <p class="bg-instruction">
+          Ordne jedem Buch zu: Altes (AT) oder Neues Testament (NT)?
+        </p>
+
+        <!-- Mittig zentriertes Spielfeld: eine Zeile pro Buch mit AT/NT-Schaltern. -->
+        <div class="bg-stage">
+          <div class="bg-placed" id="rows"></div>
+        </div>
+
+        <div class="bg-footer">
+          <p class="bg-status" id="status"></p>
+          <button class="btn hidden" id="actionBtn"></button>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="./testamentMode.js"></script>
+  </body>
+</html>
