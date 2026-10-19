@@ -119,9 +119,23 @@ function onRowDown(event, row) {
   row.setPointerCapture(event.pointerId);
 }
 
+// Zieht man ein Item an den oberen/unteren Rand des Spielfelds, scrollt die
+// Liste automatisch mit – so bleibt bei vielen Büchern jede Zielposition
+// erreichbar, auch wenn sie gerade außerhalb des Bildschirms liegt.
+function autoScrollStage(y) {
+  const stage = el.list.closest('.bg-stage');
+  if (!stage || stage.scrollHeight <= stage.clientHeight) return;
+  const rect = stage.getBoundingClientRect();
+  const EDGE = 64; // Randzone in px
+  const SPEED = 14; // px pro Bewegung
+  if (y < rect.top + EDGE) stage.scrollTop -= SPEED;
+  else if (y > rect.bottom - EDGE) stage.scrollTop += SPEED;
+}
+
 function onPointerMove(event) {
   if (!draggedRow) return;
   event.preventDefault();
+  autoScrollStage(event.clientY);
   const after = dragAfterElement(event.clientY);
   // Schon an dieser Stelle? Dann nicht umsortieren (vermeidet Dauer-Animation).
   if (after === draggedRow || after === draggedRow.nextSibling) return;
@@ -180,14 +194,15 @@ function makeRow(book, position, state) {
 
   row.append(num, name);
 
-  // Während des Spiels ist die ganze Zeile greifbar; das ≡ dient als Hinweis.
+  // Nur der Griff (≡) startet den Drag; der Rest der Zeile bleibt frei, damit die
+  // Liste bei vielen Büchern per Touch gescrollt werden kann.
   if (!locked) {
     const handle = document.createElement('span');
     handle.className = 'drag-handle';
     handle.textContent = '≡';
+    handle.title = 'Zum Verschieben ziehen';
+    handle.addEventListener('pointerdown', (e) => onRowDown(e, row));
     row.append(handle);
-    row.title = 'Zum Verschieben ziehen';
-    row.addEventListener('pointerdown', (e) => onRowDown(e, row));
   }
   return row;
 }

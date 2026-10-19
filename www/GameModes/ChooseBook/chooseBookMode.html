@@ -20,27 +20,13 @@
       </div>
 
       <div id="game" class="justify-center flex-column">
+        <!-- Fortschritts-/Punkteanzeige entfällt bewusst; die Schwierigkeit
+             wird nur noch im Hintergrund angepasst (siehe DifficultyStore). -->
         <div id="hud">
-          <div id="hud-item">
-            <p id="progressText" class="hud-prefix">
-              Question
-            </p>
-            <div id="progressBar">
-              <div id="progressBarFull"></div>
-            </div>
-          </div>
-          
-        <div class= "menuButtons">
-          <button id="reviewToggle" class="hudbtn">◀ Zurück</button>
-          <button id="drawerToggle" class="hudbtn" title="Bücher auswählen">☰ Bücher</button>
-          <a class="hudbtn" href="../../Menus/startPage.html">Menu</a>
-        </div>
-
-          <div id="hud-item">
-            <p class="hud-prefix">
-              Score
-            </p>
-            <h3 class="hud-main-text" id="score">0</h1>
+          <div class="menuButtons">
+            <button id="reviewToggle" class="hudbtn">◀ Zurück</button>
+            <button id="drawerToggle" class="hudbtn" title="Bücher auswählen">☰ Bücher</button>
+            <a class="hudbtn" href="../../Menus/startPage.html">Menu</a>
           </div>
         </div>
 
@@ -89,6 +75,8 @@
       </aside>
 
     </div>
+    <script src="../../cordova.js"></script>
+    <script src="../../backNav.js" data-back-target="../../Menus/startPage.html"></script>
     <script type="module" src="./chooseBookMode.js"></script>
   </body>
 </html>

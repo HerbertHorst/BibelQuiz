@@ -265,7 +265,7 @@ export class QuizModeBase {
         this.reviewing = false;
         this.gameState.reset();
         this.hideLoadFilePart();
-        this.scoreText.innerText = this.gameState.score;
+        if (this.scoreText) this.scoreText.innerText = this.gameState.score;
         this.updateScoreVisibility();
         this.getNewQuestion();
         document.getElementById("game").style.display = "flex";
@@ -281,7 +281,7 @@ export class QuizModeBase {
         this.gameState.reset();
         const loadPart = document.getElementById("loadFileFromDisk");
         if (loadPart) loadPart.style.display = "none";
-        this.scoreText.innerText = this.gameState.score;
+        if (this.scoreText) this.scoreText.innerText = this.gameState.score;
         this.updateScoreVisibility();
         document.getElementById("game").style.display = "flex";
         this.getNewQuestion();
@@ -299,7 +299,7 @@ export class QuizModeBase {
     resumeGame = () => {
         this.history = [];
         this.reviewing = false;
-        this.scoreText.innerText = this.gameState.score;
+        if (this.scoreText) this.scoreText.innerText = this.gameState.score;
         this.updateScoreVisibility();
         this.getNewQuestion();
         document.getElementById("game").style.display = "flex";
@@ -396,19 +396,28 @@ export class QuizModeBase {
         }
     }
 
+    // Punktestand wird weiter mitgeführt (Endbildschirm), aber nicht mehr im
+    // Spiel angezeigt – die Anzeige-Elemente existieren nicht mehr (null-sicher).
     incrementScore(num) {
         this.gameState.score += num;
-        this.scoreText.innerText = this.gameState.score;
+        if (this.scoreText) this.scoreText.innerText = this.gameState.score;
     }
 
+    // Fortschrittsbalken/-zähler wurden aus der UI entfernt; die Schwierigkeit
+    // wird nur noch im Hintergrund angepasst (DifficultyStore). Methode bleibt
+    // null-sicher, falls die Elemente auf einer Seite doch vorhanden sind.
     updateProgressBar() {
-        this.progressText.innerText = `Question ${this.gameState.questionCounter}/${this.gameState.maxQuestionCounter}`;
-        // Im Wiederholungs-Modus kann der Pool zeitweise über die Ausgangsmenge
-        // wachsen; deshalb den Balken bei 100 % deckeln.
-        const pct = this.gameState.maxQuestionCounter > 0
-            ? Math.min((this.gameState.questionCounter / this.gameState.maxQuestionCounter) * 100, 100)
-            : 0;
-        this.progressBarFull.style.width = `${pct}%`;
+        if (this.progressText) {
+            this.progressText.innerText = `Question ${this.gameState.questionCounter}/${this.gameState.maxQuestionCounter}`;
+        }
+        if (this.progressBarFull) {
+            // Im Wiederholungs-Modus kann der Pool zeitweise über die Ausgangsmenge
+            // wachsen; deshalb den Balken bei 100 % deckeln.
+            const pct = this.gameState.maxQuestionCounter > 0
+                ? Math.min((this.gameState.questionCounter / this.gameState.maxQuestionCounter) * 100, 100)
+                : 0;
+            this.progressBarFull.style.width = `${pct}%`;
+        }
     }
 
     // Blendet die Score-Anzeige aus, solange "Falsche Fragen wiederholen" aktiv ist

@@ -1,3 +1,8 @@
+V7.2
+   - Remove Questioncounter, progress-bar and score
+   - Fix book sorting scrolling out of screen when being to good
+   - fix back Button going back to menu instead of closing the app  
+
 V7.1
    - catalog list + add/replace moved into their own submenu (catalogs.html) to keep the settings clean
    - Fixed dark/unreadable info text on the difficulty screen (hud-prefix now gets a light color there)
